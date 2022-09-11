@@ -39,7 +39,6 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [Facebook Dipartimento](https://www.facebook.com/groups/1483440238606455/) (👥 - FB)
 - [Gruppo Generale 🔥](https://neeggabyte.github.io/) (👥 - TG)
 - [Gruppo Studenti-Lavoratori](https://t.me/joinchat/QC1UEhvITLJNL33noRtszQ) (👥 - TG)
-- [Torrents Materie 2021 🪛](/torrents)
 - [SPAM](https://t.me/joinchat/BLUC9kKHpyY6XRSs9VU0wQ) (👥 - TG)
 - [Giochi/Svago](https://t.me/impiccatoDIunito) (👥🤖 - TG)
 - [Server Discord](https://discord.gg/9rMRKNXTWD)
