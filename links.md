@@ -69,6 +69,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 ### Altro
 
+- [Torrent Triennale/Magistrale](https://neeggabyte.github.io/torrents)
 - [Server Minecraft di Dipartimento 🔥](https://t.me/+s_GzlN_kYpFhMTU0) (👥 - TG)
 - [Libri per tutti gli anni](http://t.me/neeggafiles) (📢 - TG)
 - [Office per Studenti](https://www.microsoft.com/it-it/education/products/office) (Microsoft.com)
