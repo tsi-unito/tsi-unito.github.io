@@ -72,7 +72,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [Torrent Triennale/Magistrale](https://neeggabyte.github.io/torrents)
 - [Server Minecraft di Dipartimento 🔥](https://t.me/+s_GzlN_kYpFhMTU0) (👥 - TG)
 - [Libri per tutti gli anni](http://t.me/neeggafiles) (📢 - TG)
-- [Office per Studenti](https://www.microsoft.com/it-it/education/products/office) (Microsoft.com)
+- [Office per Studenti](https://github.com/stefa168/guida_degli_studenti_di/tree/master/Guide/Office)
 - [Software Gratuiti](http://laurea.educ.di.unito.it/index.php/info-utili/servizi-agli-studenti/accordi-distribuzione-software/) (Unito.it)
 - [GitHub Student Pack](https://education.github.com/pack) (GitHub.com)
 - [Raccolta di benefici per studenti](https://telegra.ph/Lista-Benefici-Accessibili-a-Studenti-Universitari-09-03)
