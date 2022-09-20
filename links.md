@@ -212,7 +212,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [AAUT](https://t.me/+UIJPdeUt9cE3Yjhk) (👥 - TG)
 - [AINT](https://t.me/+15U_D-mTr89mZWZk) (👥 - TG)
 - [Alg Comp](https://t.me/joinchat/kpyKBawyB8ZmNmQ8) (👥 - TG)
-- [Arch2](https://t.me/joinchat/1zF1o6g1eNw3NDZk) (👥 - TG)
+- [Arch2](https://t.me/+2nmB18Y5x48yOGQ8) (👥 - TG)
 - [ATSD](https://t.me/joinchat/Be9LLBq0sAvuucEH7A9fow) (👥 - TG)
 - [AVRC](https://t.me/joinchat/QH1JsigCBJEwYTY0) (👥 - TG)
 - [BioInformatica](https://t.me/Bioinf_diunito) (👥 - TG)
