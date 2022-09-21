@@ -88,45 +88,6 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [Server Discord](https://discord.gg/tRXKpxw6Uw)
 - [Gruppo Collaborazioni a Tempo Parziale](https://t.me/+OkYePvUNXNVjODc0) (👥 - TG)
 
-## Gruppi delle coorti (old) <!-- omit in toc -->
-
-> ⚠️⚠️⚠️\
-> E' scoraggiato l'uso di questi gruppi. Consigliamo di utilizzare i gruppi degli anni specifici o quelli generali.\
-> ⚠️⚠️⚠️
-
-### Coorte 2022/2023 <!-- omit in toc -->
-
-- [Gruppo Generale](https://t.me/+Ox2fUmU2Un4xYTM0) (👥 - TG)
-
-### Coorte 2021/2022 <!-- omit in toc -->
-
-- [Gruppo Generale](https://t.me/joinchat/huoxYswWOLQ5Mjk0) (👥 - TG)
-- [Corso A - Cognomi da A a D](https://t.me/joinchat/EbA_XskBq4FmODU8) (👥 - TG)
-- [Corso B - Cognomi da E a O](https://t.me/joinchat/5u6mKshYLGc3NTM0) (👥 - TG)
-- [Corso C - Cognomi da P a Z](https://t.me/joinchat/xTPB94irAtBiMzA0) (👥 - TG)
-
-### Coorte 2020/2021 <!-- omit in toc -->
-
-- [Gruppo Generale](https://t.me/joinchat/UmWgshpk8MXD_Y4KvLyU8A) (👥 - TG)
-- [Corso A - Cognomi da A a D](http://t.me/joinchat/KBlo11kvx133pfrBxgXZdA) (👥 - TG)
-- [Corso B - Cognomi da E a O](http://t.me/joinchat/KBlo11ZqZOGsd8UwDHbfYw) (👥 - TG)
-- [Corso C - Cognomi da P a Z](http://t.me/joinchat/KBlo10pwlGYsVZWKpL_Xvw) (👥 - TG)
-
-### Coorte 2019/2020 <!-- omit in toc -->
-
-- [Gruppo Generale](https://t.me/joinchat/NO9hWBRrJgATEMK2rLP1Mg) (👥 - TG)
-- [Corso A](https://t.me/joinchat/NjLvfEB1HFAyM2E0) (👥 - TG)
-- [Corso B] (rimosso perché whatsapp) (👥 - WhatsApp)
-
-### Coorte 2018/2019 <!-- omit in toc -->
-
-- [Gruppo generale](https://t.me/joinchat/BLUC9k9ABMnRv3WrHYHySg) (👥 - TG)
-- [Corso A](https://t.me/CorsoA18DIUnito) (👥 - TG)
-
-### Coorte 2017/2018 <!-- omit in toc -->
-
-- [Gruppo Generale](https://t.me/joinchat/Ci07EELN-R3W2xI6-SGfGg) (👥 - TG)
-
 ---
 
 ## Gruppi specifici per la Triennale
@@ -250,9 +211,50 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 ### _Legenda_ <!-- omit in toc -->
 
-_👥 = Gruppo_
-_📢 = Canale_
-_FB = Facebook_
-_TG = Telegram_
+_👥 = Gruppo_  
+_📢 = Canale_  
+_FB = Facebook_  
+_TG = Telegram_  
 
 > **_Per proporre qualche cambiamento, suggerimento o segnalare qualche link non più funzionante, scrivete su Telegram a uno tra:_** [@evilscript](https://t.me/evilscript) - [@stefa168](https://t.me/stefa168)
+
+---
+
+## Gruppi delle coorti (old) <!-- omit in toc -->
+
+> ⚠️⚠️⚠️\
+> E' scoraggiato l'uso di questi gruppi. Consigliamo di utilizzare i gruppi degli anni specifici o quelli generali.\
+> ⚠️⚠️⚠️
+
+### Coorte 2022/2023 <!-- omit in toc -->
+
+- [Gruppo Generale](https://t.me/+Ox2fUmU2Un4xYTM0) (👥 - TG)
+
+### Coorte 2021/2022 <!-- omit in toc -->
+
+- [Gruppo Generale](https://t.me/joinchat/huoxYswWOLQ5Mjk0) (👥 - TG)
+- [Corso A - Cognomi da A a D](https://t.me/joinchat/EbA_XskBq4FmODU8) (👥 - TG)
+- [Corso B - Cognomi da E a O](https://t.me/joinchat/5u6mKshYLGc3NTM0) (👥 - TG)
+- [Corso C - Cognomi da P a Z](https://t.me/joinchat/xTPB94irAtBiMzA0) (👥 - TG)
+
+### Coorte 2020/2021 <!-- omit in toc -->
+
+- [Gruppo Generale](https://t.me/joinchat/UmWgshpk8MXD_Y4KvLyU8A) (👥 - TG)
+- [Corso A - Cognomi da A a D](http://t.me/joinchat/KBlo11kvx133pfrBxgXZdA) (👥 - TG)
+- [Corso B - Cognomi da E a O](http://t.me/joinchat/KBlo11ZqZOGsd8UwDHbfYw) (👥 - TG)
+- [Corso C - Cognomi da P a Z](http://t.me/joinchat/KBlo10pwlGYsVZWKpL_Xvw) (👥 - TG)
+
+### Coorte 2019/2020 <!-- omit in toc -->
+
+- [Gruppo Generale](https://t.me/joinchat/NO9hWBRrJgATEMK2rLP1Mg) (👥 - TG)
+- [Corso A](https://t.me/joinchat/NjLvfEB1HFAyM2E0) (👥 - TG)
+- [Corso B] (rimosso perché whatsapp) (👥 - WhatsApp)
+
+### Coorte 2018/2019 <!-- omit in toc -->
+
+- [Gruppo generale](https://t.me/joinchat/BLUC9k9ABMnRv3WrHYHySg) (👥 - TG)
+- [Corso A](https://t.me/CorsoA18DIUnito) (👥 - TG)
+
+### Coorte 2017/2018 <!-- omit in toc -->
+
+- [Gruppo Generale](https://t.me/joinchat/Ci07EELN-R3W2xI6-SGfGg) (👥 - TG)
