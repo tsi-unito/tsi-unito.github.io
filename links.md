@@ -82,7 +82,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 - [Gruppo **Generale**](https://t.me/joinchat/Ci07EELN-R3W2xI6-SGfGg) (👥 - TG)
 - [Gruppo **Magistrale**](https://t.me/joinchat/BbqyERQcACYhQFEO1iJD2g) (👥 - TG)
-- [Gruppo di **Discussione O.T.** (_NO SPAM_) (👥 - TG)](https://t.me/+_zMDhpzM3q1iNjE0)
+- [Gruppo di **Discussione O.T.** (_NO SPAM_) (👥 - TG)](https://t.me/+MUJQT_HCkckxYTA0)
 - [Gruppo Studenti-**Lavoratori**](https://t.me/joinchat/QC1UEhvITLJNL33noRtszQ) (👥 - TG)
 - [Gruppo Studenti **Internazionali**](https://t.me/+S9_xIZDYPa82OTg0) (👥 - TG)
 - [Server Discord](https://discord.gg/tRXKpxw6Uw)
@@ -143,7 +143,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 [⚠️ **Gruppo Generale** ⚠️](https://t.me/+Ox2fUmU2Un4xYTM0) (👥 - TG)
 
-[Gruppo O.T.](https://t.me/joinchat/TkoM1g-UKhA8X83p) (👥 - TG)
+[Gruppo O.T.](https://t.me/+MUJQT_HCkckxYTA0) (👥 - TG)
 
 - [Analisi](https://t.me/joinchat/17UrNZva3P03ODc8) (👥 - TG)
 - [Architettura degli elaboratori](https://t.me/joinchat/GZZT5lQXEW6X_qqFBZJwcQ) (👥 - TG)
@@ -157,7 +157,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 [⚠️ **Gruppo Generale** ⚠️](https://t.me/joinchat/huoxYswWOLQ5Mjk0) (👥 - TG)
 
-[Gruppo O.T.](https://t.me/joinchat/TkoM1g-UKhA8X83p) (👥 - TG)
+[Gruppo O.T.](https://t.me/+MUJQT_HCkckxYTA0) (👥 - TG)
 
 - [Algoritmi e strutture Dati](https://t.me/joinchat/Mo3jYKv0TXg2ZDc0) (👥 - TG)
 - [Basi di Dati](https://t.me/joinchat/CgbT5hLXOS5hNjU0) (👥 - TG)
@@ -172,7 +172,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 [⚠️ **Gruppo Generale** ⚠️](https://t.me/joinchat/UmWgshpk8MXD_Y4KvLyU8A) (👥 - TG)
 
-[Gruppo O.T.](https://t.me/joinchat/TkoM1g-UKhA8X83p) (👥 - TG)
+[Gruppo O.T.](https://t.me/+MUJQT_HCkckxYTA0) (👥 - TG)
 
 #### Gruppi delle Aree Tematiche
 
@@ -204,7 +204,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 ### [Gruppo Magistrale](https://t.me/joinchat/BbqyERQcACYhQFEO1iJD2g) (👥 - TG)
 
-### [Gruppo O.T.](https://t.me/joinchat/TkoM1g-UKhA8X83p) (👥 - TG)
+### [Gruppo O.T.](https://t.me/+MUJQT_HCkckxYTA0) (👥 - TG)
 
 ### Singoli Insegnamenti Magistrale
 
