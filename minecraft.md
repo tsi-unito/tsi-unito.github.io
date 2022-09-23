@@ -6,7 +6,7 @@ Il TSI (Team Studentesco Informatica) ha messo su il primo server di Minecraft d
 
 - **IP**: di.thetipo.rocks
 - **Versione**: 1.19.\*
-- **Slot**: 20
+- **Slot**: 30
 
 Accetta sia giocatori Premium (coloro che hanno comprato il gioco) che giocatori _cracked_: per questi ultimi, sarà necessario registrarsi direttamente
 la prima volta che si accede al server e poi ricordarsi la password temporanea.
@@ -25,17 +25,16 @@ la prima volta che si accede al server e poi ricordarsi la password temporanea.
 - È presente GriefPrevention. Per **claimare una zona**, basta prendere in mano uno _stick_, e clickando tasto destro sul primo angolo, e tasto destro sull'altro angolo opposto si crea il claim.
 - Per allargare il claim, basta prendere in mano lo stick all'interno del proprio claim: verranno mostrati gli angoli in glowstone.
   Clickare tasto destro sull'angolo, e di nuovo tasto destro sul nuovo angolo.
-- è attiva la **VOICE CHAT** in prossimità, basta installare:
-  - [Fabric Loader](https://fabricmc.net/)
-  - [Fabric API (mod)](https://modrinth.com/mod/fabric-api/versions)
-  - [Plasmo Voice (mod - Fabric Edition)](https://modrinth.com/mod/plasmo-voice/version/fabric-1.19.x-1.2.19)
 
 ## Farm pubbliche
 
-- Potete accedere alla farm di **exp** con `/warp farmend`
-- Potete accedere allo **smelter** con `/warp smelter`
-- Potete accedere alla farm AFK di **iron** con `/warp farmiron`
-
+- Farm di **exp** con `/warp farmend`
+- **Smelter** con `/warp smelter`
+- Farm AFK di **iron** con `/warp farmiron`
+- Village Trading Hall con `/warp bookstore`
+- Fram di Blaze con `/warp farmblaze`
+  
+_E molte altre ancora!_
 Se avete altre farm da condividere, fatecelo sapere!
 
 ## Regole
