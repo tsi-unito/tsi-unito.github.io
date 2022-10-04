@@ -104,7 +104,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 [⚠️ **Gruppo Generale** ⚠️](https://t.me/+Ox2fUmU2Un4xYTM0) (👥 - TG)
 
-[Gruppo O.T.](https://t.me/+MUJQT_HCkckxYTA0) (👥 - TG)
+[Gruppo Off Topic](https://t.me/+MUJQT_HCkckxYTA0) (👥 - TG)
 
 - [Analisi](https://t.me/joinchat/17UrNZva3P03ODc8) (👥 - TG)
 - [Architettura degli elaboratori](https://t.me/joinchat/GZZT5lQXEW6X_qqFBZJwcQ) (👥 - TG)
@@ -118,7 +118,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 [⚠️ **Gruppo Generale** ⚠️](https://t.me/joinchat/huoxYswWOLQ5Mjk0) (👥 - TG)
 
-[Gruppo O.T.](https://t.me/+MUJQT_HCkckxYTA0) (👥 - TG)
+[Gruppo Off Topic](https://t.me/+MUJQT_HCkckxYTA0) (👥 - TG)
 
 - [Algoritmi e strutture Dati](https://t.me/joinchat/Mo3jYKv0TXg2ZDc0) (👥 - TG)
 - [Basi di Dati](https://t.me/joinchat/CgbT5hLXOS5hNjU0) (👥 - TG)
@@ -133,7 +133,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 [⚠️ **Gruppo Generale** ⚠️](https://t.me/joinchat/UmWgshpk8MXD_Y4KvLyU8A) (👥 - TG)
 
-[Gruppo O.T.](https://t.me/+MUJQT_HCkckxYTA0) (👥 - TG)
+[Gruppo Off Topic](https://t.me/+MUJQT_HCkckxYTA0) (👥 - TG)
 
 #### Gruppi delle Aree Tematiche
 
@@ -166,7 +166,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 ### [Gruppo Magistrale](https://t.me/joinchat/BbqyERQcACYhQFEO1iJD2g) (👥 - TG)
 
-### [Gruppo O.T.](https://t.me/+MUJQT_HCkckxYTA0) (👥 - TG)
+### [Gruppo Off Topic](https://t.me/+MUJQT_HCkckxYTA0) (👥 - TG)
 
 ### Singoli Insegnamenti Magistrale
 
