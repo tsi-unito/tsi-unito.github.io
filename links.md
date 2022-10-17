@@ -152,7 +152,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [Metodologie e Tecnologie Didattiche per l'Informatica - PREFIT](https://t.me/+rem0fCwjcDxiOWVk) (👥 - TG)
 - [Programmazione III](https://t.me/progIII) (👥 - TG)
 - [Reti (6)](https://t.me/joinchat/ZYaw0k58TQ1jNjlk) (👥 - TG)
-- [Reti (12)](https://t.me/RetiDiElaboratori12UniTO) (👥 - TG)
+- [Reti (12)](https://t.me/+oBW6P5eiuSA2ZTc0) (👥 - TG)
 - [RETI Generale](https://t.me/+5sAMlIgyObEyMTI0) (👥 - TG)
 - [Sicurezza](https://t.me/sicurezzaprimaditutto) (👥 - TG)
 - [Sistemi Informativi](https://t.me/InfoSistemi) (👥 - TG)
