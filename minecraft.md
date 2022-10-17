@@ -41,7 +41,7 @@ Non abbiamo particolari regole fuori dalla norma, potete consultarle sul server 
 
 ## Client e mods consigliate
 
-- [PolyMC](https://polymc.org/) per gestire le versioni di Minecraft.
+- [MultiMC](https://multimc.org/) per gestire le versioni di Minecraft.
 - [Fablously Optimized](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions) per avere un'ottimizzazione perfetta.
 
 Puoi consultare la nostra [guida video](https://youtu.be/TyB_e1nm4kw) per ulteriori informazioni su come installare e utilizzare Fabolously Optimized.
