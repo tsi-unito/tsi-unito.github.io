@@ -31,13 +31,20 @@ la prima volta che si accede al server e poi ricordarsi la password temporanea.
 - Farm AFK di **iron** con `/warp farmiron`
 - Village Trading Hall con `/warp bookstore`
 - Fram di Blaze con `/warp farmblaze`
-  
+
 _E molte altre ancora!_
 Se avete altre farm da condividere, fatecelo sapere!
 
 ## Regole
 
 Non abbiamo particolari regole fuori dalla norma, potete consultarle sul server scrivendo `/rules`.
+
+## Client e mods consigliate
+
+- [PolyMC](https://polymc.org/) per gestire le versioni di Minecraft.
+- [Fablously Optimized](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions) per avere un'ottimizzazione perfetta.
+
+Puoi consultare la nostra [guida video](https://youtu.be/TyB_e1nm4kw) per ulteriori informazioni su come installare e utilizzare Fabolously Optimized.
 
 ## Ringraziamenti
 
