@@ -1,6 +1,6 @@
 # Server Minecraft di Dipartimento
 
-![Minecraft Banner](https://techhx.com/wp-content/uploads/2019/06/Minecraft-Java-Edition.png)
+![Minecraft Banner](/img/Minecraft-java-edition-2021.svg)
 
 Il TSI (Team Studentesco Informatica) ha messo su il primo server di Minecraft del dipartimento di Informatica di Torino!
 
