@@ -8,7 +8,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 ---
 
-> **_Per proporre qualche cambiamento, suggerimento o segnalare qualche link non più funzionante, scrivete su Telegram a uno tra [@evilscript](https://t.me/evilscript) - [@stefa168](https://t.me/stefa168)_**
+> **_Per proporre qualche cambiamento, suggerimento o segnalare qualche link non più funzionante, scrivete su Telegram a uno tra [@evilscript](https://t.me/evilscript) (Federico Torrielli)- [@stefa168](https://t.me/stefa168) (Stefano Vittorio Porta)_**
 
 - [Generale](#generale)
   - [Informazioni di servizio](#informazioni-di-servizio)
@@ -28,7 +28,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
     - [Singoli Insegnamenti Terzo Anno](#singoli-insegnamenti-terzo-anno)
 - [Gruppi specifici per la Magistrale 📚](#gruppi-specifici-per-la-magistrale-)
   - [Gruppo Magistrale (👥 - TG)](#gruppo-magistrale----tg)
-  - [Gruppo O.T. (👥 - TG)](#gruppo-ot----tg)
+  - [Gruppo Off Topic (👥 - TG)](#gruppo-off-topic----tg)
   - [Singoli Insegnamenti Magistrale](#singoli-insegnamenti-magistrale)
 
 ## Generale
@@ -54,7 +54,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [Orari Magistrale](http://magistrale.educ.di.unito.it/index.php/offerta-formativa/calendario/orari/)
 - [Insegnamenti Magistrale](http://magistrale.educ.di.unito.it/index.php/offerta-formativa/insegnamenti/)
 - [Docenti](http://laurea.educ.di.unito.it/index.php/offerta-formativa/docenti/)
-- [Apertura Login - Credenziali Laboratori - LabGPU - Login Tesista](http://laurea.educ.di.unito.it/index.php/info-utili/servizi-agli-studenti/aperturalogin/)
+- [Apertura Login - Credenziali Laboratori - Login Tesista](http://laurea.educ.di.unito.it/index.php/info-utili/servizi-agli-studenti/aperturalogin/)
 - [Canale ufficiale Notizie UNITO](https://t.me/unitoavvisi) (📢 - TG)
 
 ### Menù ristoranti
@@ -216,7 +216,7 @@ _📢 = Canale_
 _FB = Facebook_  
 _TG = Telegram_  
 
-> **_Per proporre qualche cambiamento, suggerimento o segnalare qualche link non più funzionante, scrivete su Telegram a uno tra:_** [@evilscript](https://t.me/evilscript) - [@stefa168](https://t.me/stefa168)
+> **_Per proporre qualche cambiamento, suggerimento o segnalare qualche link non più funzionante, scrivete su Telegram a uno tra [@evilscript](https://t.me/evilscript) (Federico Torrielli)- [@stefa168](https://t.me/stefa168) (Stefano Vittorio Porta)_**
 
 ---
 
