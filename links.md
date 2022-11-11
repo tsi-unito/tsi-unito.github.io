@@ -8,7 +8,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 ---
 
-> **_Per proporre qualche cambiamento, suggerimento o segnalare qualche link non più funzionante, scrivete su Telegram a uno tra [@evilscript](https://t.me/evilscript) (Federico Torrielli)- [@stefa168](https://t.me/stefa168) (Stefano Vittorio Porta)_**
+> **_Per proporre qualche cambiamento, suggerimento o segnalare qualche link non più funzionante, scrivete su Telegram a uno tra [@evilscript](https://t.me/evilscript) (Federico Torrielli) - [@stefa168](https://t.me/stefa168) (Stefano Vittorio Porta)_**
 
 - [Generale](#generale)
   - [Informazioni di servizio](#informazioni-di-servizio)
@@ -216,7 +216,7 @@ _📢 = Canale_
 _FB = Facebook_  
 _TG = Telegram_  
 
-> **_Per proporre qualche cambiamento, suggerimento o segnalare qualche link non più funzionante, scrivete su Telegram a uno tra [@evilscript](https://t.me/evilscript) (Federico Torrielli)- [@stefa168](https://t.me/stefa168) (Stefano Vittorio Porta)_**
+> **_Per proporre qualche cambiamento, suggerimento o segnalare qualche link non più funzionante, scrivete su Telegram a uno tra [@evilscript](https://t.me/evilscript) (Federico Torrielli) - [@stefa168](https://t.me/stefa168) (Stefano Vittorio Porta)_**
 
 ---
 
