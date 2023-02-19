@@ -205,7 +205,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [SisRV](https://t.me/joinchat/7B50oWCmCo5kYmY0) (👥 - TG)
 - [TAASS](https://t.me/joinchat/fAAY25UVSqA4NWM0) (👥 - TG)
 - [TLN](https://t.me/joinchat/G99EduIBregwBQmB) (👥 - TG)
-- [VPC](https://t.me/+RJ_I1E0cjQH4VCr1) (👥 - TG)
+- [VPC](https://t.me/+fXZcMomQFjM2MjY8) (👥 - TG)
 
 ---
 
