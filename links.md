@@ -181,7 +181,7 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 - [ComplAP](https://t.me/joinchat/7ICBnLMewH1iM2I0) (👥 - TG)
 - [EDAM](https://t.me/+iDvefE84KTpiYmE0) (👥 - TG)
 - [EGINB](https://t.me/joinchat/Btzsk9U90NZhYWI0) (👥 - TG)
-- [ELIVA](https://t.me/joinchat/vLSmbAPcCOhjOWRk) (👥 - TG)
+- [ELIVA](https://t.me/+IKW6whETkn44NzM8) (👥 - TG)
 - [ELTI](https://t.me/elti2021) (👥 - TG)
 - [ESP](https://t.me/ESP_diunito) (👥 - TG)
 - [Gestione delle Reti](https://t.me/joinchat/ciUf3eFP5BA1ZDE0) (👥 - TG)
