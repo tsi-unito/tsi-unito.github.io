@@ -2,7 +2,7 @@
 
 Il TSI (Team Studentesco Informatica) ha messo su il primo server di Minecraft del dipartimento di Informatica di Torino!
 
-- **IP**: di.thetipo.rocks
+- **IP**: mc.tsi-unito.eu
 - **Versione**: 1.19.\*
 - **Slot**: 30
 
