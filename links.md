@@ -1,4 +1,4 @@
-# Dipartimento di Informatica - UniTO - Links 2022 🎓 <!-- omit in toc -->
+# Dipartimento di Informatica - UniTO - Links per tutto (e anche di più!) 🎓 <!-- omit in toc -->
 
 ![Foto del Dipartimento](/img/dipartimento.jpg)
 
