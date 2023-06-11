@@ -106,13 +106,12 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 [Gruppo Off Topic](https://t.me/+MUJQT_HCkckxYTA0) (👥 - TG)
 
-- [Analisi](https://t.me/joinchat/17UrNZva3P03ODc8) (👥 - TG)
-- [Architettura degli elaboratori](https://t.me/joinchat/GZZT5lQXEW6X_qqFBZJwcQ) (👥 - TG)
-- [Matematica Discreta](https://www.facebook.com/groups/2191395074407557/) (👥 - FB)
-- [Matematica Discreta e Logica](https://t.me/joinchat/I-aQaRJg1sArFPGN4Yic9g) (👥 - TG)
-- [Programmazione I](https://t.me/joinchat/TFvYasPhoLRhYTA0) (👥 - TG)
-- [Programmazione II](https://t.me/joinchat/sVtOIkm5PSVkODc0) (👥 - TG)
-- [Ricerca Operativa](https://t.me/joinchat/BooEDUrVQ7PO1lx2RXQmew) (👥 - TG)
+- [Analisi](https://t.me/+bIy-EgjtRrhhNmE8) (👥 - TG)
+- [Architettura degli elaboratori](https://t.me/+REfz_GZ2fytlOWE0) (👥 - TG)
+- [Matematica Discreta e Logica](https://t.me/+doM_i3uFgYg1MjVk) (👥 - TG)
+- [Programmazione I](https://t.me/+pgWXz9_rIdU2ZGU0) (👥 - TG)
+- [Programmazione II](https://t.me/+xJOmjJInA4VjMDBk) (👥 - TG)
+- [Ricerca Operativa](https://t.me/+lRZmXg1uiA4yOTQ0) (👥 - TG)
 
 ### Gruppi secondo anno 📚
 
@@ -120,10 +119,9 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 
 [Gruppo Off Topic](https://t.me/+MUJQT_HCkckxYTA0) (👥 - TG)
 
-- [Algoritmi e strutture Dati](https://t.me/joinchat/Mo3jYKv0TXg2ZDc0) (👥 - TG)
-- [Basi di Dati](https://t.me/joinchat/CgbT5hLXOS5hNjU0) (👥 - TG)
-- [Gruppo discussione](https://t.me/discussioneDB) (👥 - TG)
-- [Economia e Diritto](https://t.me/joinchat/UEAbSNbKauwELEUI) (👥 - TG)
+- [Algoritmi e strutture Dati](https://t.me/+-u4pXn5iuKZhOGU0) (👥 - TG)
+- [Basi di Dati](https://t.me/+iH3vSZM2_v44YjVk) (👥 - TG)
+- [Economia e Diritto](https://t.me/+tBYYd59J8IIzYmFk) (👥 - TG)
 - [Elementi di probabilità e statistica](https://t.me/joinchat/BLUC9gvljjRU-z2OjTTJUQ) (👥 - TG)
 - [Fisica](https://t.me/joinchat/GZZT5lMpt42deKu7jNP56Q) (👥 - TG)
 - [Linguaggi formali e traduttori](https://t.me/joinchat/GZZT5lbQb22DPEhiOfmAnQ) (👥 - TG)
@@ -144,18 +142,18 @@ Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteni
 #### Singoli Insegnamenti Terzo Anno
 
 - [Calcolabilità e Complessità](https://t.me/joinchat/ChZ12Rh08Ftu0kM7LkE5Ng) (👥 - TG)
-- [Economia e Gestione dell'innovazione](https://t.me/EcoInnovazione) (👥 - TG)
+- [Economia e Gestione dell'innovazione](https://t.me/+Mq3_3uNfdDEyODJk) (👥 - TG)
 - [Interazione Uomo Macchina e Tecnologie Web (9CFU e IUM)](https://t.me/+o94Xh69TzMViYjI0) (👥 - TG)
 - [Tecnologie Web - 6 CFU](https://t.me/+wYq8VoDIp7JiMmVk) (👥 - TG)
 - [Linguaggi e Paradigmi di Programmazione](http://t.me/LPP_UNITO) (👥 - TG)
 - [Metodi Formali dell'informatica](https://t.me/joinchat/GZZT5htBY3vaWftl7l7TRQ) (👥 - TG).
 - [Metodologie e Tecnologie Didattiche per l'Informatica - PREFIT](https://t.me/+rem0fCwjcDxiOWVk) (👥 - TG)
-- [Programmazione III](https://t.me/progIII) (👥 - TG)
+- [Programmazione III](https://t.me/+2SnFs2fQ6gE5NDZk) (👥 - TG)
 - [Reti (6)](https://t.me/joinchat/ZYaw0k58TQ1jNjlk) (👥 - TG)
 - [Reti (12)](https://t.me/+oBW6P5eiuSA2ZTc0) (👥 - TG)
 - [RETI Generale](https://t.me/+5sAMlIgyObEyMTI0) (👥 - TG)
-- [Sicurezza](https://t.me/sicurezzaprimaditutto) (👥 - TG)
-- [Sistemi Informativi](https://t.me/InfoSistemi) (👥 - TG)
+- [Sicurezza](https://t.me/+aaS0gayyAG81MDE0) (👥 - TG)
+- [Sistemi Informativi](https://t.me/+aY764OtUpTQwY2U0) (👥 - TG)
 - [Sistemi Intelligenti](https://t.me/joinchat/GZZT5hkMGnZr-uHCKg2ZMw) (👥 - TG)
 - [Storia dell'informatica](https://t.me/joinchat/R66DZAWHCCiTYoKV) (👥 - TG)
 - [Sviluppo delle Applicazioni Software](https://t.me/+CDOo2f51LAA1ZWQ0) (👥 - TG)
