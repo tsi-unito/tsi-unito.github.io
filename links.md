@@ -6,6 +6,8 @@
 
 Gli Amministratori dei gruppi si occupano solo della manutenzione. Non ci riteniamo responsabili dei contenuti o dei messaggi caricati dai membri. Questo documento è inteso solo come aggregatore per mettere in contatto studenti in buona fede.
 
+Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](https://tsi-unito.eu/rules).
+
 ---
 
 > **_Per proporre qualche cambiamento, suggerimento o segnalare qualche link non più funzionante, scrivete su Telegram a uno tra [@evilscript](https://t.me/evilscript) (Federico Torrielli) - [@stefa168](https://t.me/stefa168) (Stefano Vittorio Porta)_**
