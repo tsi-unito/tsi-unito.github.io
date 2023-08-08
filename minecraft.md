@@ -3,7 +3,7 @@
 Il TSI (Team Studentesco Informatica) ha messo su il primo server di Minecraft del dipartimento di Informatica di Torino!
 
 - **IP**: mc.tsi-unito.eu
-- **Versione**: 1.19.\*
+- **Versione**: 1.20.\*
 - **Slot**: 30
 
 Accetta sia giocatori Premium (coloro che hanno comprato il gioco) che giocatori _cracked_: per questi ultimi, sarà necessario registrarsi direttamente
@@ -15,7 +15,7 @@ la prima volta che si accede al server e poi ricordarsi la password temporanea.
 
 ## Informazioni sul server
 
-- Si può entrare con qualsiasi versione **1.19**
+- Si può entrare con qualsiasi versione **1.20**
 - Sono presenti le **home**, usabili con `/sethome <nome della home>`, `/home <nome della home>`, `/delhome <nome della home>`
 - Ci si può **teletrasportare** con `/tpa <nome dell'utente>`, e si accetta con `/tpaccept`
 - In caso di morte, si può usare `/back` per **tornare indietro**
@@ -43,8 +43,6 @@ Non abbiamo particolari regole fuori dalla norma, potete consultarle sul server 
 
 - [PrismLauncher](https://prismlauncher.org/download/) per gestire le versioni di Minecraft.
 - [Fablously Optimized](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions) per avere un'ottimizzazione perfetta.
-
-Puoi consultare la nostra [guida video](https://youtu.be/TyB_e1nm4kw) per ulteriori informazioni su come installare e utilizzare Fabolously Optimized.
 
 ## Ringraziamenti
 
