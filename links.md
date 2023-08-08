@@ -199,7 +199,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [PREFIT / METDID](https://t.me/+rem0fCwjcDxiOWVk) (👥 - TG)
 - [ProgMob](https://t.me/+g_8H0PRdyDY3OTg8) (👥 - TG)
 - [Reti II](https://t.me/joinchat/EzvM1StLxZbbzUXT) (👥 - TG)
-- [Reti Neurali](https://t.me/joinchat/G1LwUPrt4ppIv7Tb) (👥 - TG)
+- [Reti Neurali](https://t.me/+zq7HywB1Uc4wZTBk) (👥 - TG)
 - [SCPD](https://t.me/joinchat/Q_qIITQQKbuvBgiF) (👥 - TG)
 - [Sicurezza II](https://t.me/joinchat/Gb1wkgzpW6tKBExF) (👥 - TG)
 - [SisRV](https://t.me/joinchat/7B50oWCmCo5kYmY0) (👥 - TG)
