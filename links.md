@@ -220,6 +220,22 @@ _TG = Telegram_
 
 ---
 
+## Gruppi abbandonati
+
+Questi gruppi non sono più amministrati, NON fanno parte della rete gestita dal CSI e sono attualmente linkati qui esclusivamente per poter recuperare il vecchio materiale.
+
+Sistemi Informativi - https://t.me/InfoSistemi  
+SICUREZZA 1 - https://t.me/sicurezzaprimaditutto  
+Prog3 - https://t.me/progIII  
+EGID - https://t.me/+ARWjp-_kfUlkZWI0  
+Basi di Dati - Gruppo senza link  
+Algoritmi - https://t.me/+g9VHDcqnLMxhOGFk  
+Prog2 - https://t.me/+wzjHAysps4c3MDQ8  
+Prog1 - https://t.me/+u95Hrioz_9xiOTE0  
+MDL - https://t.me/+dILs93G9Ip0zNjY8  
+ARCH1 - https://t.me/+nVFZY2RYkhpjNjU8  
+Analisi - https://t.me/+PebkOgtoFY8xYzQ0
+
 ## Gruppi delle coorti (old) <!-- omit in toc -->
 
 > ⚠️⚠️⚠️\
