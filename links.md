@@ -191,7 +191,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [MCAD](https://t.me/+QWcFwLDd5ZAcbqDu) (👥 - TG)
 - [MDPA](https://t.me/modellazione_dei_processi_aziend) (👥 - TG)
 - [Metodi Numerici](https://t.me/+7hS8Li_8DaExNzlk) (👥 - TG)
-- [MMSD](https://t.me/+AVApTpNxx_IzNGY0) (👥 - TG)
+- [MMSD](https://t.me/+7SnauJZoosY4NTRk) (👥 - TG)
 - [ModSem](https://t.me/joinchat/4YHvk07YKNFjZDFk) (👥 - TG)
 - [ModGraf](https://t.me/joinchat/NSF3SGvpvEwxNzc0) (👥 - TG)
 - [MTDI](https://t.me/joinchat/eXrYjVxX_zg0Zjc8) (👥 - TG)
