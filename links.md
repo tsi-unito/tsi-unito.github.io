@@ -110,7 +110,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 - [Analisi](https://t.me/+bIy-EgjtRrhhNmE8) (👥 - TG)
 - [Architettura degli elaboratori](https://t.me/+REfz_GZ2fytlOWE0) (👥 - TG)
-- [Fondamenti dell'Informatica]([url](https://t.me/+i98q9jlppjZhYzI0)) (👥 - TG)
+- [Fondamenti dell'Informatica](https://t.me/+i98q9jlppjZhYzI0) (👥 - TG)
 - [Matematica Discreta, Algebra e Geometria](https://t.me/+doM_i3uFgYg1MjVk) (👥 - TG)
 - [Programmazione I](https://t.me/+pgWXz9_rIdU2ZGU0) (👥 - TG)
 - [Programmazione II](https://t.me/+xJOmjJInA4VjMDBk) (👥 - TG)
