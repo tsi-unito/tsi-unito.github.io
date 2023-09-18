@@ -154,7 +154,6 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Programmazione III](https://t.me/+2SnFs2fQ6gE5NDZk) (👥 - TG)
 - [Reti (6)](https://t.me/+gS4YejQXiYw4OGRk) (👥 - TG)
 - [Reti (12)](https://t.me/+oBW6P5eiuSA2ZTc0) (👥 - TG)
-- [RETI Generale](https://t.me/+5sAMlIgyObEyMTI0) (👥 - TG)
 - [Sicurezza](https://t.me/+aaS0gayyAG81MDE0) (👥 - TG)
 - [Sistemi Informativi](https://t.me/+aY764OtUpTQwY2U0) (👥 - TG)
 - [Sistemi Intelligenti](https://t.me/joinchat/GZZT5hkMGnZr-uHCKg2ZMw) (👥 - TG)
