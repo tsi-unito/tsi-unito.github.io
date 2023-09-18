@@ -152,7 +152,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Metodi Formali dell'informatica](https://t.me/joinchat/GZZT5htBY3vaWftl7l7TRQ) (👥 - TG).
 - [Metodologie e Tecnologie Didattiche per l'Informatica - PREFIT](https://t.me/+rem0fCwjcDxiOWVk) (👥 - TG)
 - [Programmazione III](https://t.me/+2SnFs2fQ6gE5NDZk) (👥 - TG)
-- [Reti (6)](https://t.me/joinchat/ZYaw0k58TQ1jNjlk) (👥 - TG)
+- [Reti (6)](https://t.me/+gS4YejQXiYw4OGRk) (👥 - TG)
 - [Reti (12)](https://t.me/+oBW6P5eiuSA2ZTc0) (👥 - TG)
 - [RETI Generale](https://t.me/+5sAMlIgyObEyMTI0) (👥 - TG)
 - [Sicurezza](https://t.me/+aaS0gayyAG81MDE0) (👥 - TG)
