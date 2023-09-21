@@ -97,8 +97,13 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 ### Gruppi generali, divisi per anno
 
 #### [Primo Anno / Matricole](https://t.me/+Ox2fUmU2Un4xYTM0) (👥 - TG)
+- [Corso A Cognomi A-D](https://t.me/+_UvqQGAPHyA2MzBk) (👥 - TG)
+- [Corso B Cognomi E-O](https://t.me/+b4pVEuD3z2c3YTBk) (👥 - TG)
+- [Corso C Cognomi P-Z](https://t.me/+r4EfZAEl1OhkMzY0) (👥 - TG)
 
 #### [Secondo Anno](https://t.me/joinchat/huoxYswWOLQ5Mjk0) (👥 - TG)
+- [Corso A Cognomi A-K](https://t.me/joinchat/EbA_XskBq4FmODU8) (👥 - TG)
+- [Corso B Cognomi L-Z](https://t.me/joinchat/xTPB94irAtBiMzA0) (👥 - TG)
 
 #### [Terzo Anno](https://t.me/joinchat/UmWgshpk8MXD_Y4KvLyU8A) (👥 - TG)
 
@@ -220,6 +225,7 @@ _TG = Telegram_
 
 ---
 
+<!--
 ## Gruppi abbandonati
 
 Questi gruppi non sono più amministrati, NON fanno parte della rete gestita dal CSI e sono attualmente linkati qui esclusivamente per poter recuperare il vecchio materiale.
@@ -236,41 +242,44 @@ MDL - https://t.me/+dILs93G9Ip0zNjY8
 ARCH1 - https://t.me/+nVFZY2RYkhpjNjU8  
 Analisi - https://t.me/+PebkOgtoFY8xYzQ0
 
-## Gruppi delle coorti (old) <!-- omit in toc -->
+
+## Gruppi delle coorti (old)
 
 > ⚠️⚠️⚠️\
 > E' scoraggiato l'uso di questi gruppi. Consigliamo di utilizzare i gruppi degli anni specifici o quelli generali.\
 > ⚠️⚠️⚠️
 
-### Coorte 2022/2023 <!-- omit in toc -->
+### Coorte 2022/2023
 
 - [Gruppo Generale](https://t.me/+Ox2fUmU2Un4xYTM0) (👥 - TG)
 
-### Coorte 2021/2022 <!-- omit in toc -->
+### Coorte 2021/2022
 
 - [Gruppo Generale](https://t.me/joinchat/huoxYswWOLQ5Mjk0) (👥 - TG)
 - [Corso A - Cognomi da A a D](https://t.me/joinchat/EbA_XskBq4FmODU8) (👥 - TG)
 - [Corso B - Cognomi da E a O](https://t.me/joinchat/5u6mKshYLGc3NTM0) (👥 - TG)
 - [Corso C - Cognomi da P a Z](https://t.me/joinchat/xTPB94irAtBiMzA0) (👥 - TG)
 
-### Coorte 2020/2021 <!-- omit in toc -->
+### Coorte 2020/2021
 
 - [Gruppo Generale](https://t.me/joinchat/UmWgshpk8MXD_Y4KvLyU8A) (👥 - TG)
 - [Corso A - Cognomi da A a D](http://t.me/joinchat/KBlo11kvx133pfrBxgXZdA) (👥 - TG)
 - [Corso B - Cognomi da E a O](http://t.me/joinchat/KBlo11ZqZOGsd8UwDHbfYw) (👥 - TG)
 - [Corso C - Cognomi da P a Z](http://t.me/joinchat/KBlo10pwlGYsVZWKpL_Xvw) (👥 - TG)
 
-### Coorte 2019/2020 <!-- omit in toc -->
+### Coorte 2019/2020
 
 - [Gruppo Generale](https://t.me/joinchat/NO9hWBRrJgATEMK2rLP1Mg) (👥 - TG)
 - [Corso A](https://t.me/joinchat/NjLvfEB1HFAyM2E0) (👥 - TG)
 - [Corso B] (rimosso perché whatsapp) (👥 - WhatsApp)
 
-### Coorte 2018/2019 <!-- omit in toc -->
+### Coorte 2018/2019
 
 - [Gruppo generale](https://t.me/joinchat/BLUC9k9ABMnRv3WrHYHySg) (👥 - TG)
 - [Corso A](https://t.me/CorsoA18DIUnito) (👥 - TG)
 
-### Coorte 2017/2018 <!-- omit in toc -->
+### Coorte 2017/2018
 
 - [Gruppo Generale](https://t.me/joinchat/Ci07EELN-R3W2xI6-SGfGg) (👥 - TG)
+
+-->
