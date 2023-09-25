@@ -68,7 +68,6 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 ### Altro
 
-- [Torrent Triennale/Magistrale](https://neeggabyte.github.io/torrents)
 - [Server Minecraft di Dipartimento 🔥](https://t.me/+s_GzlN_kYpFhMTU0) (👥 - TG)
 - [Libri per tutti gli anni](http://t.me/neeggafiles) (📢 - TG)
 - [Office per Studenti](https://github.com/stefa168/guida_degli_studenti_di/tree/master/Guide/Office)
