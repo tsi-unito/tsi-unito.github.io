@@ -85,7 +85,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Gruppo **Magistrale**](https://t.me/joinchat/BbqyERQcACYhQFEO1iJD2g) (👥 - TG)
 - [Gruppo di **Discussione O.T.** (_NO SPAM_) (👥 - TG)](https://t.me/+_zMDhpzM3q1iNjE0)
 - [Gruppo Studenti-**Lavoratori**](https://t.me/joinchat/QC1UEhvITLJNL33noRtszQ) (👥 - TG)
-- [Gruppo Studenti **Internazionali**](https://t.me/+S9_xIZDYPa82OTg0) (👥 - TG)
+- [Gruppo Studenti **Internazionali** - **International Students**](https://t.me/international_students_CS_unito) (👥 - TG)
 - [Server Discord](https://discord.gg/tRXKpxw6Uw)
 - [Gruppo Collaborazioni a Tempo Parziale](https://t.me/+OkYePvUNXNVjODc0) (👥 - TG)
 
