@@ -154,7 +154,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Tecnologie Web - 6 CFU](https://t.me/+wYq8VoDIp7JiMmVk) (👥 - TG)
 - [Linguaggi e Paradigmi di Programmazione](http://t.me/LPP_UNITO) (👥 - TG)
 - [Metodi Formali dell'informatica](https://t.me/joinchat/GZZT5htBY3vaWftl7l7TRQ) (👥 - TG).
-- [Metodologie e Tecnologie Didattiche per l'Informatica - PREFIT](https://t.me/+rem0fCwjcDxiOWVk) (👥 - TG)
+- [Metodologie e Tecnologie Didattiche per l'Informatica - PREFIT](https://t.me/+q6wm8gxvW580OWVk) (👥 - TG)
 - [Programmazione III](https://t.me/+2SnFs2fQ6gE5NDZk) (👥 - TG)
 - [Reti (6)](https://t.me/+gS4YejQXiYw4OGRk) (👥 - TG)
 - [Reti (12)](https://t.me/+oBW6P5eiuSA2ZTc0) (👥 - TG)
@@ -200,7 +200,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [ModGraf](https://t.me/joinchat/NSF3SGvpvEwxNzc0) (👥 - TG)
 - [MTDI](https://t.me/joinchat/eXrYjVxX_zg0Zjc8) (👥 - TG)
 - [Ott.Comb](https://t.me/joinchat/9P-wWdFGKkI3MGI0) (👥 - TG)
-- [PREFIT / METDID](https://t.me/+rem0fCwjcDxiOWVk) (👥 - TG)
+- [PREFIT / METDID](https://t.me/+q6wm8gxvW580OWVk) (👥 - TG)
 - [ProgMob](https://t.me/+g_8H0PRdyDY3OTg8) (👥 - TG)
 - [Reti II](https://t.me/joinchat/EzvM1StLxZbbzUXT) (👥 - TG)
 - [Reti Neurali](https://t.me/+zq7HywB1Uc4wZTBk) (👥 - TG)
