@@ -38,7 +38,6 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Facebook Dipartimento](https://www.facebook.com/groups/1483440238606455/) (👥 - FB)
 - [Gruppo Generale 🔥](https://neeggabyte.github.io/) (👥 - TG)
 - [Gruppo Studenti-Lavoratori](https://t.me/joinchat/QC1UEhvITLJNL33noRtszQ) (👥 - TG)
-- [SPAM](https://t.me/joinchat/BLUC9kKHpyY6XRSs9VU0wQ) (👥 - TG)
 - [Giochi/Svago](https://t.me/impiccatoDIunito) (👥🤖 - TG)
 - [Server Discord](https://discord.gg/9rMRKNXTWD)
 - [Bot Info-Stage](https://t.me/diunitostage) (📢 - TG)
