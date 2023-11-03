@@ -109,7 +109,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 [⚠️ **Gruppo Generale** ⚠️](https://t.me/+Ox2fUmU2Un4xYTM0) (👥 - TG)
 
-[Gruppo Off Topic](https://t.me/+MUJQT_HCkckxYTA0) (👥 - TG)
+[Gruppo Off Topic](https://t.me/+_zMDhpzM3q1iNjE0) (👥 - TG)
 
 - [Analisi](https://t.me/+bIy-EgjtRrhhNmE8) (👥 - TG)
 - [Architettura degli elaboratori](https://t.me/+REfz_GZ2fytlOWE0) (👥 - TG)
@@ -123,7 +123,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 [⚠️ **Gruppo Generale** ⚠️](https://t.me/joinchat/huoxYswWOLQ5Mjk0) (👥 - TG)
 
-[Gruppo Off Topic](https://t.me/+MUJQT_HCkckxYTA0) (👥 - TG)
+[Gruppo Off Topic](https://t.me/+_zMDhpzM3q1iNjE0) (👥 - TG)
 
 - [Algoritmi e strutture Dati](https://t.me/+-u4pXn5iuKZhOGU0) (👥 - TG)
 - [Basi di Dati](https://t.me/+iH3vSZM2_v44YjVk) (👥 - TG)
@@ -137,7 +137,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 [⚠️ **Gruppo Generale** ⚠️](https://t.me/joinchat/UmWgshpk8MXD_Y4KvLyU8A) (👥 - TG)
 
-[Gruppo Off Topic](https://t.me/+MUJQT_HCkckxYTA0) (👥 - TG)
+[Gruppo Off Topic](https://t.me/+_zMDhpzM3q1iNjE0) (👥 - TG)
 
 #### Gruppi delle Aree Tematiche
 
@@ -169,7 +169,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 ### [Gruppo Magistrale](https://t.me/joinchat/BbqyERQcACYhQFEO1iJD2g) (👥 - TG)
 
-### [Gruppo Off Topic](https://t.me/+MUJQT_HCkckxYTA0) (👥 - TG)
+### [Gruppo Off Topic](https://t.me/+_zMDhpzM3q1iNjE0) (👥 - TG)
 
 ### Singoli Insegnamenti Magistrale
 
@@ -220,64 +220,3 @@ _FB = Facebook_
 _TG = Telegram_  
 
 > **_Per proporre qualche cambiamento, suggerimento o segnalare qualche link non più funzionante, scrivete su Telegram a uno tra [@evilscript](https://t.me/evilscript) (Federico Torrielli) - [@stefa168](https://t.me/stefa168) (Stefano Vittorio Porta)_**
-
----
-
-<!--
-## Gruppi abbandonati
-
-Questi gruppi non sono più amministrati, NON fanno parte della rete gestita dal CSI e sono attualmente linkati qui esclusivamente per poter recuperare il vecchio materiale.
-
-Sistemi Informativi - https://t.me/InfoSistemi  
-SICUREZZA 1 - https://t.me/sicurezzaprimaditutto  
-Prog3 - https://t.me/progIII  
-EGID - https://t.me/+ARWjp-_kfUlkZWI0  
-Basi di Dati - Gruppo senza link  
-Algoritmi - https://t.me/+g9VHDcqnLMxhOGFk  
-Prog2 - https://t.me/+wzjHAysps4c3MDQ8  
-Prog1 - https://t.me/+u95Hrioz_9xiOTE0  
-MDL - https://t.me/+dILs93G9Ip0zNjY8  
-ARCH1 - https://t.me/+nVFZY2RYkhpjNjU8  
-Analisi - https://t.me/+PebkOgtoFY8xYzQ0
-
-
-## Gruppi delle coorti (old)
-
-> ⚠️⚠️⚠️\
-> E' scoraggiato l'uso di questi gruppi. Consigliamo di utilizzare i gruppi degli anni specifici o quelli generali.\
-> ⚠️⚠️⚠️
-
-### Coorte 2022/2023
-
-- [Gruppo Generale](https://t.me/+Ox2fUmU2Un4xYTM0) (👥 - TG)
-
-### Coorte 2021/2022
-
-- [Gruppo Generale](https://t.me/joinchat/huoxYswWOLQ5Mjk0) (👥 - TG)
-- [Corso A - Cognomi da A a D](https://t.me/joinchat/EbA_XskBq4FmODU8) (👥 - TG)
-- [Corso B - Cognomi da E a O](https://t.me/joinchat/5u6mKshYLGc3NTM0) (👥 - TG)
-- [Corso C - Cognomi da P a Z](https://t.me/joinchat/xTPB94irAtBiMzA0) (👥 - TG)
-
-### Coorte 2020/2021
-
-- [Gruppo Generale](https://t.me/joinchat/UmWgshpk8MXD_Y4KvLyU8A) (👥 - TG)
-- [Corso A - Cognomi da A a D](http://t.me/joinchat/KBlo11kvx133pfrBxgXZdA) (👥 - TG)
-- [Corso B - Cognomi da E a O](http://t.me/joinchat/KBlo11ZqZOGsd8UwDHbfYw) (👥 - TG)
-- [Corso C - Cognomi da P a Z](http://t.me/joinchat/KBlo10pwlGYsVZWKpL_Xvw) (👥 - TG)
-
-### Coorte 2019/2020
-
-- [Gruppo Generale](https://t.me/joinchat/NO9hWBRrJgATEMK2rLP1Mg) (👥 - TG)
-- [Corso A](https://t.me/joinchat/NjLvfEB1HFAyM2E0) (👥 - TG)
-- [Corso B] (rimosso perché whatsapp) (👥 - WhatsApp)
-
-### Coorte 2018/2019
-
-- [Gruppo generale](https://t.me/joinchat/BLUC9k9ABMnRv3WrHYHySg) (👥 - TG)
-- [Corso A](https://t.me/CorsoA18DIUnito) (👥 - TG)
-
-### Coorte 2017/2018
-
-- [Gruppo Generale](https://t.me/joinchat/Ci07EELN-R3W2xI6-SGfGg) (👥 - TG)
-
--->
