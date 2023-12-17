@@ -175,7 +175,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 - [AAUT](https://t.me/+UIJPdeUt9cE3Yjhk) (👥 - TG)
 - [AINT](https://t.me/+15U_D-mTr89mZWZk) (👥 - TG)
-- [Alg Comp](https://t.me/joinchat/kpyKBawyB8ZmNmQ8) (👥 - TG)
+- [Alg Comp](https://t.me/AlgoCompl_diunito) (👥 - TG)
 - [Arch2](https://t.me/+2nmB18Y5x48yOGQ8) (👥 - TG)
 - [ATSD](https://t.me/joinchat/Be9LLBq0sAvuucEH7A9fow) (👥 - TG)
 - [AVRC](https://t.me/joinchat/QH1JsigCBJEwYTY0) (👥 - TG)
