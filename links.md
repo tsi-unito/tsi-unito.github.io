@@ -187,6 +187,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [ELIVA](https://t.me/+IKW6whETkn44NzM8) (👥 - TG)
 - [ELTI](https://t.me/elti2021) (👥 - TG)
 - [ESP](https://t.me/ESP_diunito) (👥 - TG)
+- [Fisica per Applicazioni di Realtà Virtuale](https://t.me/+bYJOLBrVsMtkNmZk) (👥 - TG)
 - [Gestione delle Reti](https://t.me/joinchat/ciUf3eFP5BA1ZDE0) (👥 - TG)
 - [IALAB](https://t.me/ialab2021) (👥 - TG)
 - [Logica per l'Informatica](https://t.me/LogicaInf_diunito) (👥 - TG)
