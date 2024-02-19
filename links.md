@@ -178,7 +178,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Alg Comp](https://t.me/AlgoCompl_diunito) (👥 - TG)
 - [Arch2](https://t.me/+2nmB18Y5x48yOGQ8) (👥 - TG)
 - [ATSD](https://t.me/joinchat/Be9LLBq0sAvuucEH7A9fow) (👥 - TG)
-- [AVRC](https://t.me/joinchat/QH1JsigCBJEwYTY0) (👥 - TG)
+- [AVRC](https://t.me/+O0-c4uD8LYA3ZDRk) (👥 - TG)
 - [BioInformatica](https://t.me/Bioinf_diunito) (👥 - TG)
 - [BDM](https://t.me/+OPsZxLcX6kFjZTBk) (👥 - TG)
 - [ComplAP](https://t.me/joinchat/7ICBnLMewH1iM2I0) (👥 - TG)
@@ -209,7 +209,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [SisRV](https://t.me/joinchat/7B50oWCmCo5kYmY0) (👥 - TG)
 - [TAASS](https://t.me/joinchat/fAAY25UVSqA4NWM0) (👥 - TG)
 - [TLN](https://t.me/joinchat/G99EduIBregwBQmB) (👥 - TG)
-- [VPC](https://t.me/+fXZcMomQFjM2MjY8) (👥 - TG)
+- [VPC](https://t.me/+n8XlsNpIyvQ4NDM8) (👥 - TG)
 
 ---
 
