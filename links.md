@@ -83,6 +83,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Gruppo **Generale**](https://t.me/joinchat/Ci07EELN-R3W2xI6-SGfGg) (👥 - TG)
 - [Gruppo **Magistrale**](https://t.me/joinchat/BbqyERQcACYhQFEO1iJD2g) (👥 - TG)
 - [Gruppo di **Discussione O.T.** (_NO SPAM_) (👥 - TG)](https://t.me/+_zMDhpzM3q1iNjE0)
+- [Gruppo per le **LAUREE**](https://t.me/+uB83q6CF-p4zMTBk) (👥 - TG)
 - [Gruppo Studenti-**Lavoratori**](https://t.me/joinchat/QC1UEhvITLJNL33noRtszQ) (👥 - TG)
 - [Gruppo Studenti **Internazionali** - **International Students**](https://t.me/international_students_CS_unito) (👥 - TG)
 - [Server Discord](https://discord.gg/tRXKpxw6Uw)
@@ -170,6 +171,8 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 ### [Gruppo Magistrale](https://t.me/joinchat/BbqyERQcACYhQFEO1iJD2g) (👥 - TG)
 
 ### [Gruppo Off Topic](https://t.me/+_zMDhpzM3q1iNjE0) (👥 - TG)
+
+### [Gruppo per le **LAUREE**](https://t.me/+uB83q6CF-p4zMTBk) (👥 - TG)
 
 ### Singoli Insegnamenti Magistrale
 
