@@ -214,6 +214,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [TAASS](https://t.me/joinchat/fAAY25UVSqA4NWM0) (👥 - TG)
 - [TLN](https://t.me/joinchat/G99EduIBregwBQmB) (👥 - TG)
 - [VPC](https://t.me/+n8XlsNpIyvQ4NDM8) (👥 - TG)
+- [VPSM (Valutazione delle Prestazioni)](https://t.me/+lRJBHQVk8bpkMTY0) (👥 - TG)
 
 ---
 
