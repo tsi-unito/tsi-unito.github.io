@@ -106,7 +106,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 #### [Terzo Anno](https://t.me/joinchat/UmWgshpk8MXD_Y4KvLyU8A) (👥 - TG)
 
-### Gruppi primo anno 📚
+### Gruppi Primo anno 📚
 
 [⚠️ **Gruppo Generale** ⚠️](https://t.me/+Ox2fUmU2Un4xYTM0) (👥 - TG)
 
@@ -120,7 +120,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Programmazione II](https://t.me/+xJOmjJInA4VjMDBk) (👥 - TG)
 - [Ricerca Operativa](https://t.me/+lRZmXg1uiA4yOTQ0) (👥 - TG)
 
-### Gruppi secondo anno 📚
+### Gruppi Secondo anno 📚
 
 [⚠️ **Gruppo Generale** ⚠️](https://t.me/joinchat/huoxYswWOLQ5Mjk0) (👥 - TG)
 
@@ -128,13 +128,15 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 - [Algoritmi e strutture Dati](https://t.me/+-u4pXn5iuKZhOGU0) (👥 - TG)
 - [Basi di Dati](https://t.me/+iH3vSZM2_v44YjVk) (👥 - TG)
-- [Economia e Diritto](https://t.me/+tBYYd59J8IIzYmFk) (👥 - TG)
+- [Diritto e Privacy per l'Informatica](https://t.me/+_DDmzLJvKdo2ZTE0) (👥 - TG)
+- [Economia e Gestione dell'Impresa](https://t.me/+tBYYd59J8IIzYmFk) (👥 - TG)
 - [Elementi di probabilità e statistica](https://t.me/joinchat/BLUC9gvljjRU-z2OjTTJUQ) (👥 - TG)
 - [Fisica](https://t.me/joinchat/GZZT5lMpt42deKu7jNP56Q) (👥 - TG)
 - [Linguaggi formali e traduttori](https://t.me/joinchat/GZZT5lbQb22DPEhiOfmAnQ) (👥 - TG)
+- [Logica Matematica](https://t.me/+0UED4KR9YjthZGFk) (👥 - TG)
 - [Sistemi Operativi](https://t.me/SOinformatica) (👥 - TG)
 
-### Gruppi terzo anno 📚
+### Gruppi Terzo anno 📚
 
 [⚠️ **Gruppo Generale** ⚠️](https://t.me/joinchat/UmWgshpk8MXD_Y4KvLyU8A) (👥 - TG)
 
