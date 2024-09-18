@@ -93,20 +93,9 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 ## Gruppi specifici per la Triennale
 
-### Gruppi generali, divisi per anno
-
-#### [Primo Anno / Matricole](https://t.me/+Ox2fUmU2Un4xYTM0) (👥 - TG)
-- [Corso A Cognomi A-D](https://t.me/+_UvqQGAPHyA2MzBk) (👥 - TG)
-- [Corso B Cognomi E-O](https://t.me/+b4pVEuD3z2c3YTBk) (👥 - TG)
-- [Corso C Cognomi P-Z](https://t.me/+r4EfZAEl1OhkMzY0) (👥 - TG)
-
-#### [Secondo Anno](https://t.me/joinchat/huoxYswWOLQ5Mjk0) (👥 - TG)
-- [Corso A Cognomi A-K](https://t.me/joinchat/EbA_XskBq4FmODU8) (👥 - TG)
-- [Corso B Cognomi L-Z](https://t.me/joinchat/xTPB94irAtBiMzA0) (👥 - TG)
-
-#### [Terzo Anno](https://t.me/joinchat/UmWgshpk8MXD_Y4KvLyU8A) (👥 - TG)
-
 ### Gruppi Primo anno 📚
+
+> Nota: i canali A/B/C per il primo anno sono stati uniti tutti al gruppo generale delle matricole.
 
 [⚠️ **Gruppo Generale** ⚠️](https://t.me/+Ox2fUmU2Un4xYTM0) (👥 - TG)
 
