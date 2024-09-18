@@ -112,8 +112,6 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 [Gruppo Off Topic](https://t.me/+_zMDhpzM3q1iNjE0) (👥 - TG)
 
-[Recupero OFA](https://t.me/ofa_unito) (👥 - TG)
-
 - [Analisi](https://t.me/+bIy-EgjtRrhhNmE8) (👥 - TG)
 - [Architettura degli elaboratori](https://t.me/+REfz_GZ2fytlOWE0) (👥 - TG)
 - [Fondamenti dell'Informatica](https://t.me/+i98q9jlppjZhYzI0) (👥 - TG)
