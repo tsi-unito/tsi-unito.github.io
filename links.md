@@ -38,11 +38,9 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Facebook Dipartimento](https://www.facebook.com/groups/1483440238606455/) (👥 - FB)
 - [Gruppo Generale 🔥](https://neeggabyte.github.io/) (👥 - TG)
 - [Gruppo Studenti-Lavoratori](https://t.me/joinchat/QC1UEhvITLJNL33noRtszQ) (👥 - TG)
-- [Giochi/Svago](https://t.me/impiccatoDIunito) (👥🤖 - TG)
 - [Server Discord](https://discord.gg/9rMRKNXTWD)
 - [Bot Info-Stage](https://t.me/diunitostage) (📢 - TG)
 - [Bot WolframAlpha](https://t.me/wolframbetabot) (🤖 - TG)
-- [GreenSaver 🌿](http://t.me/GreenSaver/) (👥 - TG)
 - [Hall of Fame 🏆](https://t.me/halloffame_dipinfo)
 
 > **_Hai qualche domanda generale? Scrivici [qui](https://forms.gle/LMvU6yqwrCq5u2LB6)_**
