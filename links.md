@@ -32,6 +32,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
   - [Gruppo Magistrale (👥 - TG)](#gruppo-magistrale----tg)
   - [Gruppo Off Topic (👥 - TG)](#gruppo-off-topic----tg)
   - [Singoli Insegnamenti Magistrale](#singoli-insegnamenti-magistrale)
+  - [Gruppo Magistrale AIBH (👥 - TG)](https://t.me/+UqEzJYGCLkMxMGVk)
 
 ## Generale
 
