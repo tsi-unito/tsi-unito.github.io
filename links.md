@@ -42,6 +42,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Server Discord](https://discord.gg/9rMRKNXTWD)
 - [Bot Info-Stage](https://t.me/diunitostage) (📢 - TG)
 - [Bot WolframAlpha](https://t.me/wolframbetabot) (🤖 - TG)
+- [Bot Orari Lezioni](https://t.me/Unito_Timetable_bot) (🤖 - TG)
 - [Hall of Fame 🏆](https://t.me/halloffame_dipinfo)
 
 > **_Hai qualche domanda generale? Scrivici [qui](https://forms.gle/LMvU6yqwrCq5u2LB6)_**
