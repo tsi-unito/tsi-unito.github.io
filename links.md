@@ -203,7 +203,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [SisRV](https://t.me/joinchat/7B50oWCmCo5kYmY0) (👥 - TG)
 - [SysNetSec (Sicurezza delle Reti e dei Sistemi)](https://t.me/+mGW_KtsSXqhiOWM0) (👥 - TG)
 - [TAASS](https://t.me/joinchat/fAAY25UVSqA4NWM0) (👥 - TG)
-- [TLN](https://t.me/joinchat/G99EduIBregwBQmB) (👥 - TG)
+- [TLN](https://t.me/+ajHTPCKZvws4NDFk) (👥 - TG)
 - [VPC](https://t.me/+n8XlsNpIyvQ4NDM8) (👥 - TG)
 - [VPSM (Valutazione delle Prestazioni)](https://t.me/+lRJBHQVk8bpkMTY0) (👥 - TG)
 
