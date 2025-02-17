@@ -184,6 +184,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Fisica per Applicazioni di Realtà Virtuale](https://t.me/+bYJOLBrVsMtkNmZk) (👥 - TG)
 - [Gestione delle Reti](https://t.me/joinchat/ciUf3eFP5BA1ZDE0) (👥 - TG)
 - [IALAB](https://t.me/ialab2021) (👥 - TG)
+- [Innovazione Digitale per gli Ambienti di Vita](https://t.me/+LyOQMdHcCGA0ZWM8) (👥 - TG)
 - [Logica per l'Informatica](https://t.me/LogicaInf_diunito) (👥 - TG)
 - [MAADB](https://t.me/MAADB_UNITO) (👥 - TG)
 - [MCAD](https://t.me/+QWcFwLDd5ZAcbqDu) (👥 - TG)
