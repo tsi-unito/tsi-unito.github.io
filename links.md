@@ -124,6 +124,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Linguaggi formali e traduttori](https://t.me/joinchat/GZZT5lbQb22DPEhiOfmAnQ) (👥 - TG)
 - [Logica Matematica](https://t.me/+0UED4KR9YjthZGFk) (👥 - TG)
 - [Sistemi Operativi](https://t.me/SOinformatica) (👥 - TG)
+- [PPOO](https://t.me/+7_tQGrQ-SsY3NWE8) (👥 - TG)
 
 ### Gruppi Terzo anno 📚
 
