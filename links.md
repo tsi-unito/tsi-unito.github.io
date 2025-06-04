@@ -154,7 +154,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Sistemi Informativi](https://t.me/+aY764OtUpTQwY2U0) (👥 - TG)
 - [Sistemi Intelligenti](https://t.me/joinchat/GZZT5hkMGnZr-uHCKg2ZMw) (👥 - TG)
 - [Storia dell'informatica](https://t.me/joinchat/R66DZAWHCCiTYoKV) (👥 - TG)
-- [Sviluppo delle Applicazioni Software](https://t.me/+CDOo2f51LAA1ZWQ0) (👥 - TG)
+- [Sviluppo delle Applicazioni Software](https://t.me/+K_F8QphKfpk3NDBk) (👥 - TG)
 
 ---
 
