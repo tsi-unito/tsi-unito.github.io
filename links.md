@@ -177,7 +177,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [BioInformatica](https://t.me/Bioinf_diunito) (👥 - TG)
 - [BDM](https://t.me/+OPsZxLcX6kFjZTBk) (👥 - TG)
 - [ComplAP](https://t.me/joinchat/7ICBnLMewH1iM2I0) (👥 - TG)
-- [EDAM](https://t.me/+iDvefE84KTpiYmE0) (👥 - TG)
+- [EDAM](https://t.me/+BAMKuhZJtC83MWU8) (👥 - TG)
 - [EGINB](https://t.me/joinchat/Btzsk9U90NZhYWI0) (👥 - TG)
 - [ELIVA](https://t.me/+IKW6whETkn44NzM8) (👥 - TG)
 - [ELTI](https://t.me/elti2021) (👥 - TG)
