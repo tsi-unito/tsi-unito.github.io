@@ -49,13 +49,13 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 ### Informazioni di servizio
 
-- [Periodo didattico](http://laurea.educ.di.unito.it/index.php/offerta-formativa/calendario/periodi-didattici/)
-- [Orari Triennale](http://laurea.educ.di.unito.it/index.php/offerta-formativa/calendario/orari/)
-- [Insegnamenti Triennale](http://laurea.educ.di.unito.it/index.php/offerta-formativa/insegnamenti/)
-- [Orari Magistrale](http://magistrale.educ.di.unito.it/index.php/offerta-formativa/calendario/orari/)
-- [Insegnamenti Magistrale](http://magistrale.educ.di.unito.it/index.php/offerta-formativa/insegnamenti/)
-- [Docenti](http://laurea.educ.di.unito.it/index.php/offerta-formativa/docenti/)
-- [Apertura Login - Credenziali Laboratori - Login Tesista](http://laurea.educ.di.unito.it/index.php/info-utili/servizi-agli-studenti/aperturalogin/)
+- [Periodo didattico](https://laurea.informatica.unito.it/do/home.pl/View?doc=Calendario_didattico.html)
+- [Orari Triennale](https://laurea.informatica.unito.it/do/home.pl/View?doc=Orario_lezioni.html)
+- [Insegnamenti Triennale](https://laurea.informatica.unito.it/do/home.pl/View?doc=Insegnamenti.html)
+- [Orari Magistrale](https://magistrale.informatica.unito.it/do/home.pl/View?doc=Orario_lezioni.html)
+- [Insegnamenti Magistrale](https://magistrale.informatica.unito.it/do/home.pl/View?doc=Insegnamenti.html)
+- [Docenti](https://laurea.informatica.unito.it/do/docenti.pl/)
+- [Apertura Login - Credenziali Laboratori - Login Tesista](https://laurea.informatica.unito.it/do/home.pl/View?doc=apertura_login.html)
 - [Canale ufficiale Notizie UNITO](https://t.me/unitoavvisi) (📢 - TG)
 
 ### Menù ristoranti
@@ -70,7 +70,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Server Minecraft di Dipartimento 🔥](https://t.me/+s_GzlN_kYpFhMTU0) (👥 - TG)
 - [Libri per tutti gli anni](http://t.me/neeggafiles) (📢 - TG)
 - [Office per Studenti](https://github.com/stefa168/guida_degli_studenti_di/tree/master/Guide/Office)
-- [Software Gratuiti](http://laurea.educ.di.unito.it/index.php/info-utili/servizi-agli-studenti/accordi-distribuzione-software/) (Unito.it)
+- [Software Gratuiti](https://laurea.informatica.unito.it/do/home.pl/View?doc=sofware_studio.html) (Unito.it)
 - [GitHub Student Pack](https://education.github.com/pack) (GitHub.com)
 - [Raccolta di benefici per studenti](https://telegra.ph/Lista-Benefici-Accessibili-a-Studenti-Universitari-09-03)
 
