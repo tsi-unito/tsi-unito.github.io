@@ -45,8 +45,6 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Bot Orari Lezioni](https://t.me/Unito_Timetable_bot) (🤖 - TG)
 - [Hall of Fame 🏆](https://t.me/halloffame_dipinfo)
 
-> **_Hai qualche domanda generale? Scrivici [qui](https://forms.gle/LMvU6yqwrCq5u2LB6)_**
-
 ### Informazioni di servizio
 
 - [Periodo didattico](https://laurea.informatica.unito.it/do/home.pl/View?doc=Calendario_didattico.html)
@@ -69,7 +67,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 - [Server Minecraft di Dipartimento 🔥](https://t.me/+s_GzlN_kYpFhMTU0) (👥 - TG)
 - [Libri per tutti gli anni](http://t.me/neeggafiles) (📢 - TG)
-- [Office per Studenti](https://github.com/stefa168/guida_degli_studenti_di/tree/master/Guide/Office)
+- [Office per Studenti](https://github.com/tsi-unito/guida_degli_studenti_di/tree/master/Guide%20Tecniche/Office)
 - [Software Gratuiti](https://laurea.informatica.unito.it/do/home.pl/View?doc=sofware_studio.html) (Unito.it)
 - [GitHub Student Pack](https://education.github.com/pack) (GitHub.com)
 - [Raccolta di benefici per studenti](https://telegra.ph/Lista-Benefici-Accessibili-a-Studenti-Universitari-09-03)
