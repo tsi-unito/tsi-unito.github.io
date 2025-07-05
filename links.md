@@ -141,7 +141,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Calcolabilità e Complessità](https://t.me/joinchat/ChZ12Rh08Ftu0kM7LkE5Ng) (👥 - TG)
 - [Economia e Gestione dell'innovazione](https://t.me/+Mq3_3uNfdDEyODJk) (👥 - TG)
 - [Interazione Uomo Macchina e Tecnologie Web (9CFU e IUM)](https://t.me/+o94Xh69TzMViYjI0) (👥 - TG)
-- [Tecnologie Web - 6 CFU](https://t.me/+wYq8VoDIp7JiMmVk) (👥 - TG)
+- [Tecnologie Web - 6 CFU](https://t.me/+mac9wEbPZoxiMDQ0) (👥 - TG)
 - [Linguaggi e Paradigmi di Programmazione](http://t.me/LPP_UNITO) (👥 - TG)
 - [Metodi Formali dell'informatica](https://t.me/joinchat/GZZT5htBY3vaWftl7l7TRQ) (👥 - TG).
 - [Metodologie e Tecnologie Didattiche per l'Informatica - PREFIT](https://t.me/+q6wm8gxvW580OWVk) (👥 - TG)
