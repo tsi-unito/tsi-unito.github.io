@@ -144,7 +144,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Tecnologie Web - 6 CFU](https://t.me/+mac9wEbPZoxiMDQ0) (👥 - TG)
 - [Linguaggi e Paradigmi di Programmazione](http://t.me/LPP_UNITO) (👥 - TG)
 - [Metodi Formali dell'informatica](https://t.me/joinchat/GZZT5htBY3vaWftl7l7TRQ) (👥 - TG).
-- [Metodologie e Tecnologie Didattiche per l'Informatica - PREFIT](https://t.me/+q6wm8gxvW580OWVk) (👥 - TG)
+- [Metodologie e Tecnologie Didattiche per l'Informatica - PREFIT](https://t.me/+ybKyB-fyoeA1NTBk) (👥 - TG)
 - [Programmazione III](https://t.me/+2SnFs2fQ6gE5NDZk) (👥 - TG)
 - [Reti (6)](https://t.me/+gS4YejQXiYw4OGRk) (👥 - TG)
 - [Reti (12)](https://t.me/+oBW6P5eiuSA2ZTc0) (👥 - TG)
