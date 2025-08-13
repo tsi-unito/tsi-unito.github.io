@@ -160,6 +160,8 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 ### [Gruppo Magistrale](https://t.me/joinchat/BbqyERQcACYhQFEO1iJD2g) (👥 - TG)
 
+### [Gruppo Magistrale in AIBH](https://t.me/aibh_unito) (👥 - TG)
+
 ### [Gruppo Off Topic](https://t.me/+_zMDhpzM3q1iNjE0) (👥 - TG)
 
 ### [Gruppo per le **LAUREE**](https://t.me/+uB83q6CF-p4zMTBk) (👥 - TG)
