@@ -138,6 +138,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 #### Singoli Insegnamenti Terzo Anno
 
+- [Blockchain](https://t.me/+V86A4hOH7Ls0NGNk)
 - [Calcolabilità e Complessità](https://t.me/joinchat/ChZ12Rh08Ftu0kM7LkE5Ng) (👥 - TG)
 - [Economia e Gestione dell'innovazione](https://t.me/+Mq3_3uNfdDEyODJk) (👥 - TG)
 - [Interazione Uomo Macchina e Tecnologie Web (9CFU e IUM)](https://t.me/+bB9R8msKXfszMmFk) (👥 - TG)
