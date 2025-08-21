@@ -147,7 +147,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Programmazione III](https://t.me/+2SnFs2fQ6gE5NDZk)
 - [Reti (6)](https://t.me/+gS4YejQXiYw4OGRk)
 - [Reti (12)](https://t.me/+oBW6P5eiuSA2ZTc0)
-- [Sicurezza](https://t.me/+aaS0gayyAG81MDE0)
+- [Cybersecurity (ex Sicurezza 1)](https://t.me/+aaS0gayyAG81MDE0)
 - [Sistemi Informativi](https://t.me/+aY764OtUpTQwY2U0)
 - [Sistemi Intelligenti](https://t.me/joinchat/GZZT5hkMGnZr-uHCKg2ZMw)
 - [Storia dell'informatica](https://t.me/joinchat/R66DZAWHCCiTYoKV)
