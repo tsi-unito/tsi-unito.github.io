@@ -26,7 +26,6 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
   - [Gruppi primo anno 📚](#gruppi-primo-anno-)
   - [Gruppi secondo anno 📚](#gruppi-secondo-anno-)
   - [Gruppi terzo anno 📚](#gruppi-terzo-anno-)
-    - [Gruppi delle Aree Tematiche](#gruppi-delle-aree-tematiche)
     - [Singoli Insegnamenti Terzo Anno](#singoli-insegnamenti-terzo-anno)
 - [Gruppi specifici per la Magistrale 📚](#gruppi-specifici-per-la-magistrale-)
   - [Gruppo Magistrale](#gruppo-magistrale----tg)
