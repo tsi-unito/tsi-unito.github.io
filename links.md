@@ -117,7 +117,6 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Economia e Gestione dell'Impresa](https://t.me/+tBYYd59J8IIzYmFk)
 - [Elementi di probabilità e statistica](https://t.me/joinchat/BLUC9gvljjRU-z2OjTTJUQ)
 - [Fisica](https://t.me/joinchat/GZZT5lMpt42deKu7jNP56Q)
-- [Linguaggi Formali e Traduttori](https://t.me/joinchat/GZZT5lbQb22DPEhiOfmAnQ)
 - [Logica Matematica](https://t.me/+0UED4KR9YjthZGFk)
 - [Sistemi Operativi](https://t.me/SOinformatica)
 - [Principi di Programmazione Orientata agli Oggetti](https://t.me/+7_tQGrQ-SsY3NWE8)
@@ -128,31 +127,37 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 [Gruppo Off Topic](https://t.me/+_zMDhpzM3q1iNjE0)
 
-#### Gruppi delle Aree Tematiche
-
-- [Linguaggi e Sistemi](https://t.me/les_unito)
-- [Informazione e Conoscenza](https://t.me/InformazioneeConoscenzaUniTo)
-- [Reti e Sistemi](https://t.me/+c6-XBy-FoUZlNGE8)
-
 #### Singoli Insegnamenti Terzo Anno
 
 - [Blockchain](https://t.me/+V86A4hOH7Ls0NGNk)
 - [Calcolabilità e Complessità](https://t.me/joinchat/ChZ12Rh08Ftu0kM7LkE5Ng)
-- [Economia e Gestione dell'innovazione](https://t.me/+Mq3_3uNfdDEyODJk)
-- [Economia e Gestione delle Tecnologie Emergenti](https://t.me/+3w7hJ_Pu0OswNWQ8)
-- [Interazione Uomo Macchina e Tecnologie Web (9CFU e IUM)](https://t.me/+bB9R8msKXfszMmFk)
-- [Tecnologie Web - 6 CFU](https://t.me/+mac9wEbPZoxiMDQ0)
-- [Linguaggi e Paradigmi di Programmazione](http://t.me/LPP_UNITO)
-- [Metodi Formali dell'informatica](https://t.me/joinchat/GZZT5htBY3vaWftl7l7TRQ).
-- [Metodologie e Tecnologie Didattiche per l'Informatica - PREFIT](https://t.me/+ybKyB-fyoeA1NTBk)
-- [Programmazione III](https://t.me/+2SnFs2fQ6gE5NDZk)
-- [Reti (6)](https://t.me/+gS4YejQXiYw4OGRk)
-- [Reti (12)](https://t.me/+oBW6P5eiuSA2ZTc0)
 - [Cybersecurity (ex Sicurezza 1)](https://t.me/+aaS0gayyAG81MDE0)
+- [Economia e Gestione delle Tecnologie Emergenti (ex Economia e Gestione dell'Innovazione)](https://t.me/+Mq3_3uNfdDEyODJk)
+- [Human-Computer Interaction](https://t.me/+2xIZaprl4NAzNjE8)
+- [Linguaggi e Paradigmi di Programmazione](http://t.me/LPP_UNITO)
+- [Linguaggi Formali e Traduttori](https://t.me/joinchat/GZZT5lbQb22DPEhiOfmAnQ)
+- [Logica per l'Informatica](https://t.me/LogicaInf_diunito)
+- [Metodi Formali dell'informatica](https://t.me/joinchat/GZZT5htBY3vaWftl7l7TRQ)
+- [Metodi Numerici](https://t.me/+7hS8Li_8DaExNzlk)
+- [Metodologie e Tecnologie Didattiche per l'Informatica - PREFIT](https://t.me/+ybKyB-fyoeA1NTBk)
+- [Problem Solving Avanzato](https://t.me/+1Fx818xGbW1jMDBk)
+- [Programmazione III](https://t.me/+2SnFs2fQ6gE5NDZk)
+- [Reti e Sicurezza delle Reti + Complementi di Reti](https://t.me/+AFVjsjAJrEFmNTM0)
 - [Sistemi Informativi](https://t.me/+aY764OtUpTQwY2U0)
 - [Sistemi Intelligenti](https://t.me/joinchat/GZZT5hkMGnZr-uHCKg2ZMw)
 - [Storia dell'informatica](https://t.me/joinchat/R66DZAWHCCiTYoKV)
 - [Sviluppo delle Applicazioni Software](https://t.me/+K_F8QphKfpk3NDBk)
+- [Tecnologie Web - 6 CFU](https://t.me/+mac9wEbPZoxiMDQ0)
+
+> Percorsi del Vecchio Ordinamento
+- [Linguaggi e Sistemi](https://t.me/les_unito)
+- [Informazione e Conoscenza](https://t.me/InformazioneeConoscenzaUniTo)
+- [Reti e Sistemi](https://t.me/+c6-XBy-FoUZlNGE8)
+
+>Insegnamenti Vecchio Ordinamento
+- [Interazione Uomo Macchina e Tecnologie Web (9CFU e IUM)](https://t.me/+bB9R8msKXfszMmFk)
+- [Reti (6)](https://t.me/+gS4YejQXiYw4OGRk)
+- [Reti (12)](https://t.me/+oBW6P5eiuSA2ZTc0)
 
 ---
 
