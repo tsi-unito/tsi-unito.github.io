@@ -129,7 +129,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 #### Singoli Insegnamenti Terzo Anno
 
 - [Blockchain](https://t.me/+V86A4hOH7Ls0NGNk)
-- [Calcolabilità e Complessità](https://t.me/joinchat/ChZ12Rh08Ftu0kM7LkE5Ng)
+- [Calcolabilità e Complessità](https://t.me/+IfkFyzxFjnlmYzM0)
 - [Cybersecurity (ex Sicurezza 1)](https://t.me/+aaS0gayyAG81MDE0)
 - [Economia e Gestione delle Tecnologie Emergenti (ex Economia e Gestione dell'Innovazione)](https://t.me/+Mq3_3uNfdDEyODJk)
 - [Human-Computer Interaction](https://t.me/+2xIZaprl4NAzNjE8)
@@ -137,7 +137,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Linguaggi Formali e Traduttori](https://t.me/joinchat/GZZT5lbQb22DPEhiOfmAnQ)
 - [Logica per l'Informatica](https://t.me/LogicaInf_diunito)
 - [Metodi Formali dell'informatica](https://t.me/joinchat/GZZT5htBY3vaWftl7l7TRQ)
-- [Metodi Numerici](https://t.me/+7hS8Li_8DaExNzlk)
+- [Metodi Numerici](https://t.me/+6rLzCo4u-4k1OTQ0)
 - [Metodologie e Tecnologie Didattiche per l'Informatica - PREFIT](https://t.me/+ybKyB-fyoeA1NTBk)
 - [Problem Solving Avanzato](https://t.me/+1Fx818xGbW1jMDBk)
 - [Programmazione III](https://t.me/+2SnFs2fQ6gE5NDZk)
@@ -194,7 +194,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [MAADB](https://t.me/MAADB_UNITO)
 - [MCAD](https://t.me/+QWcFwLDd5ZAcbqDu)
 - [MDPA](https://t.me/modellazione_dei_processi_aziend)
-- [Metodi Numerici](https://t.me/+7hS8Li_8DaExNzlk)
+- [Metodi Numerici](https://t.me/+6rLzCo4u-4k1OTQ0)
 - [MMSD](https://t.me/+7SnauJZoosY4NTRk)
 - [ModSem](https://t.me/joinchat/4YHvk07YKNFjZDFk)
 - [ModGraf](https://t.me/joinchat/NSF3SGvpvEwxNzc0)
