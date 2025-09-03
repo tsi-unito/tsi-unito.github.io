@@ -32,11 +32,13 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
   - [Gruppo Off Topic](#gruppo-off-topic----tg)
   - [Singoli Insegnamenti Magistrale](#singoli-insegnamenti-magistrale)
   - [Gruppo Magistrale AIBH](https://t.me/aibh_unito)
+- [Gruppo per le **LAUREE**](https://t.me/+uB83q6CF-p4zMTBk)
 
 ## Generale
 
 - [Facebook Dipartimento](https://www.facebook.com/groups/1483440238606455/)
 - [Gruppo Generale 🔥](https://neeggabyte.github.io/)
+- [Gruppo per le **LAUREE**](https://t.me/+uB83q6CF-p4zMTBk)
 - [Gruppo Studenti-Lavoratori](https://t.me/joinchat/QC1UEhvITLJNL33noRtszQ)
 - [Server Discord](https://discord.gg/9rMRKNXTWD)
 - [Bot Info-Stage](https://t.me/diunitostage) (📢)
