@@ -209,6 +209,8 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [SCPD](https://t.me/joinchat/Q_qIITQQKbuvBgiF)
 - [Sicurezza II](https://t.me/joinchat/Gb1wkgzpW6tKBExF)
 - [SisRV](https://t.me/joinchat/7B50oWCmCo5kYmY0)
+- [Sicurezza dei Sistemi e del Software](https://t.me/+jyQcoPWIRvo0OGY8)
+- [Sicurezza delle Reti](https://t.me/+WEprgrYig7kyMDlk)
 - [SysNetSec (Sicurezza delle Reti e dei Sistemi)](https://t.me/+mGW_KtsSXqhiOWM0)
 - [TAASS](https://t.me/+CCfISmsjqnpkMjA0)
 - [TLN](https://t.me/+ajHTPCKZvws4NDFk)
