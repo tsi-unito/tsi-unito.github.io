@@ -119,7 +119,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Elementi di probabilità e statistica](https://t.me/joinchat/BLUC9gvljjRU-z2OjTTJUQ)
 - [Fisica](https://t.me/joinchat/GZZT5lMpt42deKu7jNP56Q)
 - [Logica Matematica](https://t.me/+0UED4KR9YjthZGFk)
-- [Sistemi Operativi](https://t.me/SOinformatica)
+- [Sistemi Operativi](https://t.me/+BgMKooNn4NxkMmZk)
 - [Principi di Programmazione Orientata agli Oggetti](https://t.me/+7_tQGrQ-SsY3NWE8)
 
 ### Gruppi Terzo anno 📚
