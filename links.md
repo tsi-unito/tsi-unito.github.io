@@ -210,7 +210,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Sicurezza delle Reti](https://t.me/+WEprgrYig7kyMDlk)
 - [Sistemi di Calcolo Paralleli e Distribuiti - SCPD](https://t.me/joinchat/Q_qIITQQKbuvBgiF)
 - [Sistemi di Realtà Virtuale - SisRV](https://t.me/joinchat/7B50oWCmCo5kYmY0)
-- [Storia dell'informatica](https://t.me/joinchat/R66DZAWHCCiTYoKV)
+- [Storia dell'informatica](https://t.me/+yWiCJ3kyJ9s0Y2Nk)
 - [Tecniche e architetture Avanzate per lo Sviluppo del Software - TAASS](https://t.me/+CCfISmsjqnpkMjA0)
 - [Tecnologie del Linguaggio Naturale - TLN](https://t.me/+HUsuZ77VoJg2Mjc0)
 - [Valutazione delle Prestazioni: Simulazione e Modelli - VPSM](https://t.me/+lRJBHQVk8bpkMTY0)
