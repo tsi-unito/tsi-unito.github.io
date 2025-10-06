@@ -146,7 +146,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Reti e Sicurezza delle Reti + Complementi di Reti](https://t.me/+AFVjsjAJrEFmNTM0)
 - [Sistemi Informativi](https://t.me/+aY764OtUpTQwY2U0)
 - [Sistemi Intelligenti](https://t.me/joinchat/GZZT5hkMGnZr-uHCKg2ZMw)
-- [Storia dell'informatica](https://t.me/joinchat/R66DZAWHCCiTYoKV)
+- [Storia dell'informatica](https://t.me/+yWiCJ3kyJ9s0Y2Nk)
 - [Sviluppo delle Applicazioni Software](https://t.me/+K_F8QphKfpk3NDBk)
 - [Tecnologie Web - 6 CFU](https://t.me/+mac9wEbPZoxiMDQ0)
 
