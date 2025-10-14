@@ -192,7 +192,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Metodi Numerici](https://t.me/+6rLzCo4u-4k1OTQ0)
 - [Metodologie e Tecnologie Didattiche per l'Informatica - PREFIT / METDID](https://t.me/+ybKyB-fyoeA1NTBk)
 - [Modellazione Concettuale per il Web Semantico - ModSem](https://t.me/+0Yu9WpMsAccyNjQ0)
-- [Modellazione Grafica - ModGraf](https://t.me/joinchat/NSF3SGvpvEwxNzc0)
+- [Modellazione Grafica - ModGraf](https://t.me/+24NOTej-_-k1MjU0)
 - [Modellazione di Dati e Processi Aziendali - MDPA](https://t.me/modellazione_dei_processi_aziend)
 - [Modelli Concorrenti e Algoritmi Distribuiti - MCAD](https://t.me/+QWcFwLDd5ZAcbqDu)
 - [Modelli e Architetture Avanzati di Basi di Dati - MAADB](https://t.me/MAADB_UNITO)
