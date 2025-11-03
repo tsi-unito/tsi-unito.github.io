@@ -10,7 +10,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 ---
 
-> **_Per proporre qualche cambiamento, suggerimento o segnalare qualche link non più funzionante, scrivete su Telegram a uno tra [@evilscript](https://t.me/evilscript) (Federico Torrielli) - [@stefa168](https://t.me/stefa168) (Stefano Vittorio Porta)_**
+> **_Per proporre qualche cambiamento, suggerimento o segnalare qualche link non più funzionante, scrivete su Telegram a uno tra [@tsi_unito_manager](https://t.me/tsi_unito_manager) (Account di Amministrazione) - [@evilscript](https://t.me/evilscript) (Federico Torrielli) - [@stefa168](https://t.me/stefa168) (Stefano Vittorio Porta) - [@SaraVassia](https://t.me/saravassia) (Sara Virginia Vassia) - [@xSteee](https://t.me/xsteee) (Stefano Oppedisano) - [@polpiantina](https://t.me/polpiantina) (Paolo Guiot)_**
 
 - [Generale](#generale)
   - [Informazioni di servizio](#informazioni-di-servizio)
@@ -19,16 +19,16 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
   - [Altro](#altro)
 - [Gruppi universali](#gruppi-universali)
 - [Gruppi specifici per la Triennale](#gruppi-specifici-per-la-triennale)
-  - [Gruppi primo anno 📚](#gruppi-primo-anno-)
-  - [Gruppi secondo anno 📚](#gruppi-secondo-anno-)
-  - [Gruppi terzo anno 📚](#gruppi-terzo-anno-)
+  - [Gruppi Primo anno 📚](#gruppi-primo-anno-)
+  - [Gruppi Secondo anno 📚](#gruppi-secondo-anno-)
+  - [Gruppi Terzo anno 📚](#gruppi-terzo-anno-)
     - [Singoli Insegnamenti Terzo Anno](#singoli-insegnamenti-terzo-anno)
 - [Gruppi specifici per la Magistrale 📚](#gruppi-specifici-per-la-magistrale-)
-  - [Gruppo Magistrale](#gruppo-magistrale----tg)
-  - [Gruppo Off Topic](#gruppo-off-topic----tg)
+  - [Gruppo Magistrale](#gruppo-magistrale)
+  - [Gruppo Magistrale in AIBH](#gruppo-magistrale-in-aibh)
+  - [Gruppo Off Topic](#gruppo-off-topic)
+  - [Gruppo per le **LAUREE**](#gruppo-per-le-lauree)
   - [Singoli Insegnamenti Magistrale](#singoli-insegnamenti-magistrale)
-  - [Gruppo Magistrale AIBH](https://t.me/aibh_unito)
-- [Gruppo per le **LAUREE**](https://t.me/+uB83q6CF-p4zMTBk)
 
 ## Generale
 
@@ -79,6 +79,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Gruppo per le **LAUREE**](https://t.me/+uB83q6CF-p4zMTBk)
 - [Gruppo Studenti-**Lavoratori**](https://t.me/joinchat/QC1UEhvITLJNL33noRtszQ)
 - [Gruppo Studenti **Internazionali** - **International Students**](https://t.me/international_students_CS_unito)
+- [Gruppo **Erasmus Outgoing**](https://t.me/+QmBavGF8TKZkM2Fk)
 - [Server Discord](https://discord.gg/tRXKpxw6Uw)
 - [Gruppo Collaborazioni a Tempo Parziale](https://t.me/+OkYePvUNXNVjODc0)
 
@@ -136,13 +137,13 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Logica per l'Informatica](https://t.me/LogicaInf_diunito)
 - [Metodi Formali dell'informatica](https://t.me/joinchat/GZZT5htBY3vaWftl7l7TRQ)
 - [Metodi Numerici](https://t.me/+6rLzCo4u-4k1OTQ0)
-- [Metodologie e Tecnologie Didattiche per l'Informatica - PREFIT](https://t.me/+ybKyB-fyoeA1NTBk)
+- [Metodologie e Tecnologie Didattiche per l'Informatica (PREFIT) - MetDida](https://t.me/+ybKyB-fyoeA1NTBk)
 - [Problem Solving Avanzato](https://t.me/+1Fx818xGbW1jMDBk)
 - [Programmazione III](https://t.me/+2SnFs2fQ6gE5NDZk)
 - [Reti e Sicurezza delle Reti + Complementi di Reti](https://t.me/+AFVjsjAJrEFmNTM0)
 - [Sistemi Informativi](https://t.me/+aY764OtUpTQwY2U0)
 - [Sistemi Intelligenti](https://t.me/joinchat/GZZT5hkMGnZr-uHCKg2ZMw)
-- [Storia dell'informatica](https://t.me/+yWiCJ3kyJ9s0Y2Nk)
+- [Storia dell'informatica - Storia](https://t.me/+yWiCJ3kyJ9s0Y2Nk)
 - [Sviluppo delle Applicazioni Software](https://t.me/+K_F8QphKfpk3NDBk)
 - [Tecnologie Web - 6 CFU](https://t.me/+mac9wEbPZoxiMDQ0)
 
@@ -170,52 +171,53 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 ### Singoli Insegnamenti Magistrale
 
-- [Agenti Intelligenti](https://t.me/+zM3sw0FZDk81ZjY8)
-- [Algoritmi e Complessità](https://t.me/AlgoCompl_diunito)
+- [Agenti Intelligenti - AInt](https://t.me/+zM3sw0FZDk81ZjY8)
+- [Algoritmi e Complessità - AlgCompl](https://t.me/AlgoCompl_diunito)
 - [Analisi e Trattamento dei Segnali Digitali - ATSD](https://t.me/joinchat/Be9LLBq0sAvuucEH7A9fow)
 - [Analisi e Visualizzazioni di Reti Complesse - AVRC](https://t.me/+fgtYSI_llQs2NzNk)
 - [Apprendimento Automatico - AAUT](https://t.me/+Y8i-9osdXiY4MGRk)
-- [Architettura 2](https://t.me/+2nmB18Y5x48yOGQ8)
-- [Basi di Dati Multimediali - BDM](https://t.me/+OPsZxLcX6kFjZTBk)
-- [BioInformatica](https://t.me/Bioinf_diunito)
-- [Complementi di Analisi e Probabilità - ComplAP](https://t.me/joinchat/7ICBnLMewH1iM2I0)
+- [Architetture degli Elaboratori 2 - ArchElab II](https://t.me/+2dZAl-U6Hq9kOTE0)
+- [Basi di Dati Multimediali - DBM](https://t.me/+OPsZxLcX6kFjZTBk)
+- [BioInformatica - BioInf](https://t.me/Bioinf_diunito)
+- [Complementi di Analisi e Probabilità - ComplAP](https://t.me/+_-ycSA_rbq43NmI0)
 - [Computazione Quantistica](https://t.me/+8Zax-954nMlmZGY0)
 - [Economia e Gestione delle Imprese Net Based - EGINB](https://t.me/+ZRV1TijYFOJkZjY0)
 - [Elaborazione Digitale Audio e Musica - EDAM](https://t.me/+BAMKuhZJtC83MWU8)
 - [Elaborazione di Immagini e Visione Digitale - ELIVA](https://t.me/+IKW6whETkn44NzM8)
 - [Elementi di Teoria dell'Informazione - ELTI](https://t.me/elti2021)
 - [Etica, Società e Privacy - ESP](https://t.me/ESP_diunito)
-- [Fisica per Applicazioni di Realtà Virtuale](https://t.me/+bYJOLBrVsMtkNmZk)
-- [Innovazione Digitale per gli Ambienti di Vita](https://t.me/+LyOQMdHcCGA0ZWM8)
+- [Fisica per Applicazioni di Realtà Virtuale - Fisica ApplRV](https://t.me/+bYJOLBrVsMtkNmZk)
+- [Innovazione Digitale per gli Ambienti di Vita - InnDig](https://t.me/+LyOQMdHcCGA0ZWM8)
 - [Intelligenza Artificiale e Laboratorio - IALAB](https://t.me/ialab2021)
-- [Logica per l'Informatica](https://t.me/LogicaInf_diunito)
-- [Metodi Numerici](https://t.me/+6rLzCo4u-4k1OTQ0)
-- [Metodologie e Tecnologie Didattiche per l'Informatica - PREFIT / METDID](https://t.me/+ybKyB-fyoeA1NTBk)
+- [Logica per l'Informatica - LogicaInf](https://t.me/LogicaInf_diunito)
+- [Metodi Numerici - Metodi](https://t.me/+6rLzCo4u-4k1OTQ0)
+- [Metodologie e Tecnologie Didattiche per l'Informatica (PREFIT) - MetDida](https://t.me/+ybKyB-fyoeA1NTBk)
 - [Modellazione Concettuale per il Web Semantico - ModSem](https://t.me/+0Yu9WpMsAccyNjQ0)
 - [Modellazione Grafica - ModGraf](https://t.me/+24NOTej-_-k1MjU0)
 - [Modellazione di Dati e Processi Aziendali - MDPA](https://t.me/modellazione_dei_processi_aziend)
-- [Modelli Concorrenti e Algoritmi Distribuiti - MCAD](https://t.me/+QWcFwLDd5ZAcbqDu)
+- [Modelli Concorrenti e Algoritmi Distribuiti - MCAD](https://t.me/+hBaW1ULKbdYxMjg8)
 - [Modelli e Architetture Avanzati di Basi di Dati - MAADB](https://t.me/MAADB_UNITO)
-- [Modelli e Metodi per il Supporto alle Decisioni - MMSD](https://t.me/+7SnauJZoosY4NTRk)
+- [Modelli e Metodi per il Supporto alle Decisioni - MMSD](https://t.me/+-tg6Bbg5OygyMWQ8)
 - [Ottimizzazione Combinatoria - OttComb](https://t.me/joinchat/9P-wWdFGKkI3MGI0)
 - [Programmazione per Dispositivi Mobili - ProgMob](https://t.me/+Opj0lLpQvMhhNWFk)
-- [Reti II (Complementi di Reti e Sicurezza)](https://t.me/joinchat/EzvM1StLxZbbzUXT)
-- [Reti Neurali e Deep Learning](https://t.me/+tZ6XtJWjKeg3OTk0)
-- [Sicurezza II (Complementi di Reti e Sicurezza)](https://t.me/joinchat/Gb1wkgzpW6tKBExF)
-- [Sicurezza dei Sistemi e del Software](https://t.me/+jyQcoPWIRvo0OGY8)
-- [Sicurezza delle Reti](https://t.me/+WEprgrYig7kyMDlk)
+- [Reti II (Complementi di Reti e Sicurezza) - RetiSic](https://t.me/joinchat/EzvM1StLxZbbzUXT)
+- [Reti Neurali e Deep Learning - RNDL](https://t.me/+tZ6XtJWjKeg3OTk0)
+- [Sicurezza II (Complementi di Reti e Sicurezza) - RetiSic](https://t.me/joinchat/Gb1wkgzpW6tKBExF)
+- [Sicurezza dei Sistemi e del Software - SysSec](https://t.me/+jyQcoPWIRvo0OGY8)
+- [Sicurezza delle Reti - NetSec](https://t.me/+WEprgrYig7kyMDlk)
 - [Sistemi di Calcolo Paralleli e Distribuiti - SCPD](https://t.me/joinchat/Q_qIITQQKbuvBgiF)
-- [Sistemi di Realtà Virtuale - SisRV](https://t.me/joinchat/7B50oWCmCo5kYmY0)
-- [Storia dell'informatica](https://t.me/+yWiCJ3kyJ9s0Y2Nk)
+- [Sistemi di Realtà Virtuale - SistRV](https://t.me/joinchat/7B50oWCmCo5kYmY0)
+- [Storia dell'informatica - Storia](https://t.me/+yWiCJ3kyJ9s0Y2Nk)
 - [Tecniche e architetture Avanzate per lo Sviluppo del Software - TAASS](https://t.me/+CCfISmsjqnpkMjA0)
 - [Tecnologie del Linguaggio Naturale - TLN](https://t.me/+HUsuZ77VoJg2Mjc0)
-- [Valutazione delle Prestazioni: Simulazione e Modelli - VPSM](https://t.me/+lRJBHQVk8bpkMTY0)
+- [Valutazione delle Prestazioni: Simulazione e Modelli - SimMod](https://t.me/+lRJBHQVk8bpkMTY0)
 - [Verifica dei Programmi Concorrenti - VPC](https://t.me/+n8XlsNpIyvQ4NDM8)
 
 >Insegnamenti Non più erogati
 - [Gestione delle Reti](https://t.me/joinchat/ciUf3eFP5BA1ZDE0)
 - [20/21 Metodologie e Tecnologie Didattiche per l'Informatica - MTDI](https://t.me/joinchat/eXrYjVxX_zg0Zjc8)
-- [SysNetSec (Sicurezza delle Reti e dei Sistemi)](https://t.me/+mGW_KtsSXqhiOWM0)
+- [Sicurezza delle Reti e dei Sistemi - SysNetSec](https://t.me/+mGW_KtsSXqhiOWM0)
+
 ---
 
 ### _Legenda_ <!-- omit in toc -->
@@ -223,4 +225,4 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 _📢 = Canale_  
 _FB = Facebook_  
 
-> **_Per proporre qualche cambiamento, suggerimento o segnalare qualche link non più funzionante, scrivete su Telegram a uno tra [@evilscript](https://t.me/evilscript) (Federico Torrielli) - [@stefa168](https://t.me/stefa168) (Stefano Vittorio Porta)_**
+> **_Per proporre qualche cambiamento, suggerimento o segnalare qualche link non più funzionante, scrivete su Telegram a uno tra [@tsi_unito_manager](https://t.me/tsi_unito_manager) (Account di Amministrazione) - [@evilscript](https://t.me/evilscript) (Federico Torrielli) - [@stefa168](https://t.me/stefa168) (Stefano Vittorio Porta) - [@SaraVassia](https://t.me/saravassia) (Sara Virginia Vassia) - [@xSteee](https://t.me/xsteee) (Stefano Oppedisano) - [@polpiantina](https://t.me/polpiantina) (Paolo Guiot)_**
