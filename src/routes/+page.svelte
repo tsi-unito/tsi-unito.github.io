@@ -1,10 +1,9 @@
 <script lang="ts">
-  import type {Component} from "svelte";
-  import type {SvelteHTMLElements} from "svelte/elements";
-  import * as z from 'zod';
   import Fuse, {type IFuseOptions} from "fuse.js";
 
   import {renderMarkdownInline} from './markdown'
+  import type {SvgIcon} from "$lib/utils/types";
+  import {type GroupInfo, groupsArraySchema} from "$lib/schema"
 
   import {Input} from "$lib/components/ui/input/index.js";
   import * as Empty from "$lib/components/ui/empty/index.js";
@@ -15,30 +14,6 @@
   import LogosTelegram from '~icons/logos/telegram'
   import TwemojiThinkingFace from '~icons/twemoji/thinking-face'
   import TwemojiSadButRelievedFace from '~icons/twemoji/sad-but-relieved-face'
-
-  type SvgIcon = Component<SvelteHTMLElements['svg']>;
-
-  const groupTitleSchema = z.union([
-    z.string(),
-    z.object({
-      it: z.string(),
-      en: z.string(),
-    }),
-    z.array(z.string()),
-  ]);
-
-  const yearsOfStudySchema = z.enum(["first", "second", "third", "fourth", "fifth"]);
-
-  const groupSchema = z.object({
-    title: groupTitleSchema,
-    url: z.url(),
-    abbreviations: z.array(z.string()).optional(), // Optional list of strings
-    yearOfStudy: z.array(yearsOfStudySchema).optional(), // Enum for year of study
-  });
-
-  const groupsArraySchema = z.array(groupSchema);
-
-  type GroupInfo = z.infer<typeof groupSchema>;
 
   const receivedJson = `[
   {
@@ -94,7 +69,7 @@
     // minMatchCharLength: 2
   }
   const fuse = new Fuse(groupsList, fuseOptions);
-  let searchQuery = $state('generdxasdasdasdasd');
+  let searchQuery = $state('');
   let filteredGroups = $derived.by(() => {
     return fuse.search(searchQuery)
   });
