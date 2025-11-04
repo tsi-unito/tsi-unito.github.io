@@ -16,6 +16,7 @@
   import TwemojiThinkingFace from '~icons/twemoji/thinking-face'
   import TwemojiSadButRelievedFace from '~icons/twemoji/sad-but-relieved-face'
 
+  // todo maybe move to an async fetch just to make the page load completely immediately and then let the user understand that the issue is their connection
   let {data}: PageProps = $props();
   const receivedJson = data.linksJson;
 
@@ -89,7 +90,7 @@
       <Empty.Root>
         <Empty.Header>
           <Empty.Media variant="default">
-<!--            <TwemojiThinkingFace class="size-12"/>-->
+            <!--            <TwemojiThinkingFace class="size-12"/>-->
             <TwemojiSadButRelievedFace class="size-12"/>
           </Empty.Media>
           <Empty.Title>Nessun risultato</Empty.Title>
