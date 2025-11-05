@@ -28,6 +28,24 @@
     return null;
   };
 
+  // the `options` field is for future expansion of this method
+  const getMainTitle = (group: GroupInfo): string => {
+    const preferredLanguage = 'it'
+
+    switch (typeof group.title) {
+      case "object":
+        if (Array.isArray(group.title)) {
+          return group.title[0];
+        } else {
+          return group.title[preferredLanguage]
+        }
+      case "string":
+        return group.title;
+      default:
+        return `undefined title (${JSON.stringify(group)})`;
+    }
+  }
+
   const groupsList: GroupInfo[] = groupsArraySchema.parse(JSON.parse(receivedJson));
 
   const fuseOptions: IFuseOptions<GroupInfo> = {
@@ -44,23 +62,18 @@
   const clearInput = () => {
     searchQuery = '';
   }
-
 </script>
 
 {#snippet GroupSnippet(group: GroupInfo)}
-  {#if typeof group.title === 'string'}
-    <li>
-      <a href={group.url} class="flex items-center max-w-fit">
-        <div class="flex">
-          <span>{@html renderMarkdownInline(group.title)}</span>
-          <LucideExternalLink class="size-3 ms-0.5"></LucideExternalLink>
-        </div>
-        <svelte:component this={inferLogo(group)} class="size-4 ms-1"></svelte:component>
-      </a>
-    </li>
-  {:else}
-    <li>{group.title}</li> <!-- todo -->
-  {/if}
+  <li>
+    <a href={group.url} class="flex items-center max-w-fit">
+      <div class="flex">
+        <span>{@html renderMarkdownInline(getMainTitle(group))}</span>
+        <LucideExternalLink class="size-3 ms-0.5"></LucideExternalLink>
+      </div>
+      <svelte:component this={inferLogo(group)} class="size-4 ms-1"></svelte:component>
+    </a>
+  </li>
 {/snippet}
 
 <div class="mx-auto w-full max-w-5xl px-4 sm:px-6 lg:px-8 mt-4">
