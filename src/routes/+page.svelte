@@ -6,17 +6,20 @@
   import type {SvgIcon} from "$lib/utils/types";
   import {type GroupInfo, groupsArraySchema} from "$lib/schema"
 
-  import {Input} from "$lib/components/ui/input/index.js";
-  import * as Empty from "$lib/components/ui/empty/index.js";
+  import * as InputGroup from "$lib/components/ui/input-group";
+  import * as Empty from "$lib/components/ui/empty";
   import {Button} from "$lib/components/ui/button";
 
   import LucideX from '~icons/lucide/x'
   import LucideExternalLink from '~icons/lucide/external-link'
+  import Search from '~icons/lucide/search'
+  import LucideCircleQuestionMark from '~icons/lucide/circle-question-mark'
   import LogosTelegram from '~icons/logos/telegram'
   import TwemojiThinkingFace from '~icons/twemoji/thinking-face'
   import TwemojiSadButRelievedFace from '~icons/twemoji/sad-but-relieved-face'
 
-  // todo maybe move to an async fetch just to make the page load completely immediately and then let the user understand that the issue is their connection
+  // todo maybe move to an async fetch just to make the page load completely immediately and then let the user understand that the issue is their connection.
+  // we could also use a localstorage to cache a version and just check for changes.
   let {data}: PageProps = $props();
   const receivedJson = data.linksJson;
 
@@ -81,15 +84,25 @@
        class="w-full sm:max-w-screen-lg h-screen sm:h-auto object-cover rounded-lg mb-2"
        alt="Foto del dipartimento dall'esterno"
   />
-  <div class="relative mx-auto w-full max-w-md">
-    <Input type="text" placeholder="Ricerca rapida" bind:value={searchQuery} class="my-2"/>
-    {#if searchQuery}
-      <button type="button"
-              class="absolute top-1/2 right-3 -translate-y-1/2 text-gray-500 hover:text-gray-700 focus:outline-none hover:cursor-pointer"
-              onclick={clearInput}>
-        <LucideX/>
-      </button>
-    {/if}
+  <div class="relative mx-auto w-full max-w-md my-2">
+    <InputGroup.Root>
+      <InputGroup.Input type="text" placeholder="Ricerca rapida" bind:value={searchQuery}/>
+      <InputGroup.Addon>
+        <Search/>
+      </InputGroup.Addon>
+      {#if searchQuery}
+        <InputGroup.Addon align="inline-end">
+          <InputGroup.Button onclick={clearInput}>
+            <LucideX/>
+          </InputGroup.Button>
+        </InputGroup.Addon>
+      {/if}
+      <InputGroup.Addon align="inline-end">
+        <InputGroup.Button>
+          <LucideCircleQuestionMark/>
+        </InputGroup.Button>
+      </InputGroup.Addon>
+    </InputGroup.Root>
   </div>
 
   {#if searchQuery}
