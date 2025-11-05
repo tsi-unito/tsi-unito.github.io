@@ -11,10 +11,15 @@ const config = {
     // adapter-auto only supports some environments, see https://svelte.dev/docs/kit/adapter-auto for a list.
     // If your environment is not supported, or you settled on a specific environment, switch out the adapter.
     // See https://svelte.dev/docs/kit/adapters for more information about adapters.
-    adapter: adapter(),
+    adapter: adapter({
+      pages: 'build',
+      assets: 'build',
+      strict: true
+    }),
     paths: {
       // https://github.com/metonym/sveltekit-gh-pages?tab=readme-ov-file#2-modify-pathsbase-in-the-config
-      base: process.env.NODE_ENV === 'production' ? 'tsi-unito.github.io' : '',
+      // https://svelte.dev/docs/kit/adapter-static#GitHub-Pages
+      base: process.env.NODE_ENV === 'production' ? process.env.BASE_PATH : '',
     }
   }
 };
