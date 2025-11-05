@@ -79,62 +79,56 @@
   </li>
 {/snippet}
 
-<div class="mx-auto w-full max-w-5xl px-4 sm:px-6 lg:px-8 mt-4">
-  <img src="/img/dipartimento.jpg"
-       class="w-full sm:max-w-screen-lg h-screen sm:h-auto object-cover rounded-lg mb-2"
-       alt="Foto del dipartimento dall'esterno"
-  />
-  <div class="relative mx-auto w-full max-w-md my-2">
-    <InputGroup.Root>
-      <InputGroup.Input type="text" placeholder="Ricerca rapida" bind:value={searchQuery}/>
-      <InputGroup.Addon>
-        <Search/>
-      </InputGroup.Addon>
-      {#if searchQuery}
-        <InputGroup.Addon align="inline-end">
-          <InputGroup.Button onclick={clearInput}>
-            <LucideX/>
-          </InputGroup.Button>
-        </InputGroup.Addon>
-      {/if}
+<div class="relative mx-auto w-full max-w-md my-2">
+  <InputGroup.Root>
+    <InputGroup.Input type="text" placeholder="Ricerca rapida" bind:value={searchQuery}/>
+    <InputGroup.Addon>
+      <Search/>
+    </InputGroup.Addon>
+    {#if searchQuery}
       <InputGroup.Addon align="inline-end">
-        <InputGroup.Button>
-          <LucideCircleQuestionMark/>
+        <InputGroup.Button onclick={clearInput}>
+          <LucideX/>
         </InputGroup.Button>
       </InputGroup.Addon>
-    </InputGroup.Root>
-  </div>
-
-  {#if searchQuery}
-    {#if filteredGroups.length > 0}
-      <ul class="flex flex-col gap-y-1.5">
-        {#each filteredGroups as fg}
-          {@render GroupSnippet(fg.item)}
-        {/each}
-      </ul>
-    {:else}
-      <Empty.Root>
-        <Empty.Header>
-          <Empty.Media variant="default">
-            <!--            <TwemojiThinkingFace class="size-12"/>-->
-            <TwemojiSadButRelievedFace class="size-12"/>
-          </Empty.Media>
-          <Empty.Title>Nessun risultato</Empty.Title>
-          <Empty.Description>
-            <p>La ricerca con le parole chiave che hai inserito non corrisponde ad alcun gruppo.</p>
-            <p>Controlla di aver digitato correttamente tutto; prova altrimenti a resettare la ricerca.</p>
-          </Empty.Description>
-        </Empty.Header>
-        <Empty.Content>
-          <Button variant="outline" onclick={clearInput} class="hover:cursor-pointer">Reset</Button>
-        </Empty.Content>
-      </Empty.Root>
     {/if}
-  {:else}
+    <InputGroup.Addon align="inline-end">
+      <InputGroup.Button>
+        <LucideCircleQuestionMark/>
+      </InputGroup.Button>
+    </InputGroup.Addon>
+  </InputGroup.Root>
+</div>
+
+{#if searchQuery}
+  {#if filteredGroups.length > 0}
     <ul class="flex flex-col gap-y-1.5">
-      {#each groupsList as group}
-        {@render GroupSnippet(group)}
+      {#each filteredGroups as fg}
+        {@render GroupSnippet(fg.item)}
       {/each}
     </ul>
+  {:else}
+    <Empty.Root>
+      <Empty.Header>
+        <Empty.Media variant="default">
+          <!--            <TwemojiThinkingFace class="size-12"/>-->
+          <TwemojiSadButRelievedFace class="size-12"/>
+        </Empty.Media>
+        <Empty.Title>Nessun risultato</Empty.Title>
+        <Empty.Description>
+          <p>La ricerca con le parole chiave che hai inserito non corrisponde ad alcun gruppo.</p>
+          <p>Controlla di aver digitato correttamente tutto; prova altrimenti a resettare la ricerca.</p>
+        </Empty.Description>
+      </Empty.Header>
+      <Empty.Content>
+        <Button variant="outline" onclick={clearInput} class="hover:cursor-pointer">Reset</Button>
+      </Empty.Content>
+    </Empty.Root>
   {/if}
-</div>
+{:else}
+  <ul class="flex flex-col gap-y-1.5">
+    {#each groupsList as group}
+      {@render GroupSnippet(group)}
+    {/each}
+  </ul>
+{/if}
