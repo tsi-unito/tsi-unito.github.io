@@ -10,7 +10,10 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 ---
 
-> **_Per proporre qualche cambiamento, suggerimento o segnalare qualche link non più funzionante, scrivete su Telegram a uno tra [@tsi_unito_manager](https://t.me/tsi_unito_manager) (Account di Amministrazione) - [@evilscript](https://t.me/evilscript) (Federico Torrielli) - [@stefa168](https://t.me/stefa168) (Stefano Vittorio Porta) - [@SaraVassia](https://t.me/saravassia) (Sara Virginia Vassia) - [@xSteee](https://t.me/xsteee) (Stefano Oppedisano) - [@polpiantina](https://t.me/polpiantina) (Paolo Guiot)_**
+> **_Per proporre qualche cambiamento, suggerimento o segnalare qualche link non più funzionante potete:_**  
+>- **_mandare una mail a tsi@di.unito.it_**
+>- **_scrivere su Telegram ad uno tra i maintainer attivi: [@tsi_unito_manager](https://t.me/tsi_unito_manager) (Account di Amministrazione) - [@SaraVassia](https://t.me/saravassia) (Sara Virginia Vassia) - [@xSteee](https://t.me/xsteee) (Stefano Oppedisano) - [@polpiantina](https://t.me/polpiantina) (Paolo Guiot)_**  
+> **_o ad uno dei proprietari: [@evilscript](https://t.me/evilscript) (Federico Torrielli) - [@stefa168](https://t.me/stefa168) (Stefano Vittorio Porta)_**
 
 - [Generale](#generale)
   - [Informazioni di servizio](#informazioni-di-servizio)
@@ -73,7 +76,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 ## Gruppi universali
 
-- [Gruppo **Generale**](https://t.me/joinchat/Ci07EELN-R3W2xI6-SGfGg)
+- [Gruppo **Generale**](https://t.me/+aX49VBv6DcZkZTA0)
 - [Gruppo **Magistrale**](https://t.me/joinchat/BbqyERQcACYhQFEO1iJD2g)
 - [Gruppo di **Discussione O.T.** (_NO SPAM_)](https://t.me/+_zMDhpzM3q1iNjE0)
 - [Gruppo per le **LAUREE**](https://t.me/+uB83q6CF-p4zMTBk)
@@ -225,4 +228,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 _📢 = Canale_  
 _FB = Facebook_  
 
-> **_Per proporre qualche cambiamento, suggerimento o segnalare qualche link non più funzionante, scrivete su Telegram a uno tra [@tsi_unito_manager](https://t.me/tsi_unito_manager) (Account di Amministrazione) - [@evilscript](https://t.me/evilscript) (Federico Torrielli) - [@stefa168](https://t.me/stefa168) (Stefano Vittorio Porta) - [@SaraVassia](https://t.me/saravassia) (Sara Virginia Vassia) - [@xSteee](https://t.me/xsteee) (Stefano Oppedisano) - [@polpiantina](https://t.me/polpiantina) (Paolo Guiot)_**
+> **_Per proporre qualche cambiamento, suggerimento o segnalare qualche link non più funzionante potete:_**  
+>- **_mandare una mail a tsi@di.unito.it_**
+>- **_scrivere su Telegram ad uno tra i maintainer attivi: [@tsi_unito_manager](https://t.me/tsi_unito_manager) (Account di Amministrazione) - [@SaraVassia](https://t.me/saravassia) (Sara Virginia Vassia) - [@xSteee](https://t.me/xsteee) (Stefano Oppedisano) - [@polpiantina](https://t.me/polpiantina) (Paolo Guiot)_**  
+> **_o ad uno dei proprietari: [@evilscript](https://t.me/evilscript) (Federico Torrielli) - [@stefa168](https://t.me/stefa168) (Stefano Vittorio Porta)_**
