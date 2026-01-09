@@ -135,7 +135,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Cybersecurity (ex Sicurezza 1)](https://t.me/+aaS0gayyAG81MDE0)
 - [Economia e Gestione delle Tecnologie Emergenti (ex Economia e Gestione dell'Innovazione)](https://t.me/+Mq3_3uNfdDEyODJk)
 - [Human-Computer Interaction](https://t.me/+2xIZaprl4NAzNjE8)
-- [Linguaggi e Paradigmi di Programmazione](http://t.me/LPP_UNITO)
+- [Linguaggi e Paradigmi di Programmazione](https://t.me/+Eg06_b0pvacyZDVk)
 - [Linguaggi Formali e Traduttori](https://t.me/joinchat/GZZT5lbQb22DPEhiOfmAnQ)
 - [Logica per l'Informatica](https://t.me/LogicaInf_diunito)
 - [Metodi Formali dell'informatica](https://t.me/joinchat/GZZT5htBY3vaWftl7l7TRQ)
