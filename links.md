@@ -78,7 +78,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 - [Gruppo **Generale**](https://t.me/+aX49VBv6DcZkZTA0)
 - [Gruppo **Magistrale**](https://t.me/joinchat/BbqyERQcACYhQFEO1iJD2g)
-- [Gruppo di **Discussione O.T.** (_NO SPAM_)](https://t.me/+_zMDhpzM3q1iNjE0)
+- [Gruppo di **Discussione O.T.** (_NO SPAM_)](https://t.me/+Ye04aIAdXfI4Yzlk)
 - [Gruppo per le **LAUREE**](https://t.me/+uB83q6CF-p4zMTBk)
 - [Gruppo Studenti-**Lavoratori**](https://t.me/joinchat/QC1UEhvITLJNL33noRtszQ)
 - [Gruppo Studenti **Internazionali** - **International Students**](https://t.me/international_students_CS_unito)
@@ -96,7 +96,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 [⚠️ **Gruppo Generale** ⚠️](https://t.me/+Ox2fUmU2Un4xYTM0)
 
-[Gruppo Off Topic](https://t.me/+_zMDhpzM3q1iNjE0)
+[Gruppo Off Topic](https://t.me/+Ye04aIAdXfI4Yzlk)
 
 - [Analisi](https://t.me/+bIy-EgjtRrhhNmE8)
 - [Architettura degli elaboratori](https://t.me/+REfz_GZ2fytlOWE0)
@@ -110,7 +110,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 [⚠️ **Gruppo Generale** ⚠️](https://t.me/joinchat/huoxYswWOLQ5Mjk0)
 
-[Gruppo Off Topic](https://t.me/+_zMDhpzM3q1iNjE0)
+[Gruppo Off Topic](https://t.me/+Ye04aIAdXfI4Yzlk)
 
 - [Algoritmi e strutture Dati](https://t.me/+-u4pXn5iuKZhOGU0)
 - [Basi di Dati](https://t.me/+iH3vSZM2_v44YjVk)
@@ -126,7 +126,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 [⚠️ **Gruppo Generale** ⚠️](https://t.me/joinchat/UmWgshpk8MXD_Y4KvLyU8A)
 
-[Gruppo Off Topic](https://t.me/+_zMDhpzM3q1iNjE0)
+[Gruppo Off Topic](https://t.me/+Ye04aIAdXfI4Yzlk)
 
 #### Singoli Insegnamenti Terzo Anno
 
@@ -168,7 +168,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 ### [Gruppo Magistrale in AIBH](https://t.me/aibh_unito)
 
-### [Gruppo Off Topic](https://t.me/+_zMDhpzM3q1iNjE0)
+### [Gruppo Off Topic](https://t.me/+Ye04aIAdXfI4Yzlk)
 
 ### [Gruppo per le **LAUREE**](https://t.me/+uB83q6CF-p4zMTBk)
 
