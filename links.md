@@ -115,7 +115,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Algoritmi e strutture Dati](https://t.me/+-u4pXn5iuKZhOGU0)
 - [Basi di Dati](https://t.me/+iH3vSZM2_v44YjVk)
 - [Diritto e Privacy per l'Informatica](https://t.me/+_DDmzLJvKdo2ZTE0)
-- [Economia e Gestione dell'Impresa](https://t.me/+tBYYd59J8IIzYmFk)
+- [Economia e Gestione dell'Impresa](https://t.me/+5zlD2YA2BPQ0YjM0)
 - [Elementi di probabilità e statistica](https://t.me/joinchat/BLUC9gvljjRU-z2OjTTJUQ)
 - [Fisica](https://t.me/joinchat/GZZT5lMpt42deKu7jNP56Q)
 - [Logica Matematica](https://t.me/+0UED4KR9YjthZGFk)
