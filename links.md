@@ -175,7 +175,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 ### Singoli Insegnamenti Magistrale
 
 - [Agenti Intelligenti - AInt](https://t.me/+zM3sw0FZDk81ZjY8)
-- [Algoritmi e Complessità - AlgCompl](https://t.me/AlgoCompl_diunito)
+- [Algoritmi e Complessità - AlgCompl](https://t.me/+xbouLXiSh_I1N2U0)
 - [Analisi e Trattamento dei Segnali Digitali - ATSD](https://t.me/+iUnHYsXF8Kc3ZmVk)
 - [Analisi e Visualizzazioni di Reti Complesse - AVRC](https://t.me/+fgtYSI_llQs2NzNk)
 - [Apprendimento Automatico - AAUT](https://t.me/+Y8i-9osdXiY4MGRk)
