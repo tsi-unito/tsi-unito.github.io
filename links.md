@@ -29,6 +29,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Gruppi specifici per la Magistrale 📚](#gruppi-specifici-per-la-magistrale-)
   - [Gruppo Magistrale](#gruppo-magistrale)
   - [Gruppo Magistrale in AIBH](#gruppo-magistrale-in-aibh)
+  - [Gruppo Artificial Intelligence and High Performance Computing Technologies](https://t.me/aihpcUnito)
   - [Gruppo Off Topic](#gruppo-off-topic)
   - [Gruppo per le **LAUREE**](#gruppo-per-le-lauree)
   - [Singoli Insegnamenti Magistrale](#singoli-insegnamenti-magistrale)
@@ -78,6 +79,9 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 - [Gruppo **Generale**](https://t.me/+aX49VBv6DcZkZTA0)
 - [Gruppo **Magistrale**](https://t.me/joinchat/BbqyERQcACYhQFEO1iJD2g)
+- [Gruppo Magistrale](#gruppo-magistrale)
+- [Gruppo Magistrale in AIBH](#gruppo-magistrale-in-aibh)
+- [Gruppo Artificial Intelligence and High Performance Computing Technologies](https://t.me/aihpcUnito)
 - [Gruppo di **Discussione O.T.** (_NO SPAM_)](https://t.me/+Ye04aIAdXfI4Yzlk)
 - [Gruppo per le **LAUREE**](https://t.me/+uB83q6CF-p4zMTBk)
 - [Gruppo Studenti-**Lavoratori**](https://t.me/joinchat/QC1UEhvITLJNL33noRtszQ)
@@ -167,6 +171,8 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 ### [Gruppo Magistrale](https://t.me/joinchat/BbqyERQcACYhQFEO1iJD2g)
 
 ### [Gruppo Magistrale in AIBH](https://t.me/aibh_unito)
+
+### [Gruppo Artificial Intelligence and High Performance Computing Technologies](https://t.me/aihpcUnito)
 
 ### [Gruppo Off Topic](https://t.me/+Ye04aIAdXfI4Yzlk)
 
