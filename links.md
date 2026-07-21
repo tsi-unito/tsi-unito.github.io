@@ -123,9 +123,9 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Elementi di probabilità e statistica](https://t.me/joinchat/BLUC9gvljjRU-z2OjTTJUQ)
 - [Fisica](https://t.me/joinchat/GZZT5lMpt42deKu7jNP56Q)
 - [Logica Matematica](https://t.me/+0UED4KR9YjthZGFk)
-- [Sistemi Operativi](https://t.me/+BgMKooNn4NxkMmZk)
 - [Principi di Programmazione Orientata agli Oggetti](https://t.me/+7_tQGrQ-SsY3NWE8)
-
+- [Sistemi Operativi](https://t.me/+BgMKooNn4NxkMmZk)
+  
 ### Gruppi Terzo anno 📚
 
 [⚠️ **Gruppo Generale** ⚠️](https://t.me/joinchat/UmWgshpk8MXD_Y4KvLyU8A)
@@ -134,8 +134,10 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 #### Singoli Insegnamenti Terzo Anno
 
+- [Architettura Avanzata degli Elaboratori](https://t.me/+rMDfR0UYmjtmMWZk)
 - [Blockchain](https://t.me/+V86A4hOH7Ls0NGNk)
 - [Calcolabilità e Complessità](https://t.me/+IfkFyzxFjnlmYzM0)
+- [Complementi di Reti](https://t.me/+AFVjsjAJrEFmNTM0)
 - [Cybersecurity (ex Sicurezza 1)](https://t.me/+aaS0gayyAG81MDE0)
 - [Economia e Gestione delle Tecnologie Emergenti (ex Economia e Gestione dell'Innovazione)](https://t.me/+Mq3_3uNfdDEyODJk)
 - [Human-Computer Interaction](https://t.me/+2xIZaprl4NAzNjE8)
@@ -152,7 +154,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Sistemi Intelligenti](https://t.me/joinchat/GZZT5hkMGnZr-uHCKg2ZMw)
 - [Storia dell'informatica - Storia](https://t.me/+yWiCJ3kyJ9s0Y2Nk)
 - [Sviluppo delle Applicazioni Software](https://t.me/+K_F8QphKfpk3NDBk)
-- [Tecnologie Web - 6 CFU](https://t.me/+mac9wEbPZoxiMDQ0)
+- [Tecnologie Web](https://t.me/+mac9wEbPZoxiMDQ0)
 
 > Percorsi del Vecchio Ordinamento
 - [Linguaggi e Sistemi](https://t.me/les_unito)
