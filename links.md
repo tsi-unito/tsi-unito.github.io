@@ -229,6 +229,30 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [20/21 Metodologie e Tecnologie Didattiche per l'Informatica - MTDI](https://t.me/joinchat/eXrYjVxX_zg0Zjc8)
 - [Sicurezza delle Reti e dei Sistemi - SysNetSec](https://t.me/+mGW_KtsSXqhiOWM0)
 
+### Individual Courses – Master's Degree in Artificial Intelligence and High Performance Computing Technologies
+
+- [Advanced AI Paradigms](https://t.me/+TXJMHLbBDIU1ODRk)
+- [Advanced Multimodal Learning](https://t.me/+uXX6LaJXqKY1NjJk)
+- [Business Management in the AI era](https://t.me/+6b_LC6o3ew9mMTA0)
+- [Cloud & Distributed Systems](https://t.me/+535gvEbLGjViN2Jk)
+- [Computer Vision](https://t.me/+hanCmwhpvRw3ODZk)
+- [Data Center Design & Operation](https://t.me/+gnle5XU_-rY0ZGY0)
+- [Data Science & Technologies](https://t.me/+mLx-3BVI-r4xNTA0)
+- [Ethics, Law and AI](https://t.me/+85Q1VcsH0tc0YjU0)
+- [Information Theory](https://t.me/+aVnj_3R0238xNGM0)
+- [Italian Beginner and Pre-Intermediate level](https://t.me/+bmRSLw-figdmZWI0)
+- [Language Technologies](https://t.me/+KW6ksc82yhozNDJk)
+- [Machine & Deep Learning](https://t.me/+Eh7Hk5w6AvJiMzBk)
+- [Mathematics for AI & HPC](https://t.me/+yZiETUTBRARmYTc0)
+- [Multi-Omics and Computational Modelling for Data-Driven Precision Medicine](https://t.me/+gee-JgMOBlE2OWE0)
+- [Network Science & Graph Analytics](https://t.me/+nOKRinwWiKBlOTM0)
+- [Parallel programming and High Performance Computing](https://t.me/+LuvA7ufKqMMzNWVk)
+- [Process Mining](https://t.me/+434_asWq2tpiMDU0)
+- [Quantum Computing & Applications](https://t.me/+OItYePrBFUZiMjBk)
+- [Scalable & Accelerated Computing](https://t.me/+LNg7jO4L9oliZmRk)
+- [Student-led Innovation Lab](https://t.me/+njhO0z3JDGY2MGU8)
+- [Trustworthy & Responsible AI](https://t.me/+MPLxqGXblx9hZjg8)
+
 ---
 
 ### _Legenda_ <!-- omit in toc -->
