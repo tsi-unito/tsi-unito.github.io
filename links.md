@@ -222,7 +222,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Apprendimento Automatico: Fondamenti, Deep Learning, Data Mining][Apprendimento Automatico]
 - [Architettura delle Reti][Sicurezza e Architettura delle Reti]
 - [Architetture Parallele degli Elaboratori][Sistemi e Architetture Parallele e Distribuite]
-- [Architetture Parallele e Distribuite](https://t.me/joinchat/Q_qIITQQKbuvBgiF)
+- [Architetture Parallele e Distribuite][Sistemi e Architetture Parallele e Distribuite]
 - [Gestione di Informazioni Multimediali (Basi di Dati Multimediali - DBM)][Gestione di Informazioni Multimediali]
 - [BioInformatica - BioInf]
 - [Complementi di Analisi e Probabilità - ComplAP]
@@ -280,7 +280,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Istituzioni di Sicurezza][Cybersecurity]
 - [Istituzioni di Sistemi Intelligenti][Sistemi Intelligenti]
 - [Istituzioni di Sistemi Operativi][Sistemi Operativi]
-- 
+
 ---
 
 ### Individual Courses – Master's Degree in Artificial Intelligence and High Performance Computing Technologies
