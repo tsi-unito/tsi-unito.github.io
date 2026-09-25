@@ -239,16 +239,16 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Logica per l'Informatica - LogicaInf]
 - [Metodi Numerici - Metodi]
 - [Metodologie e Tecnologie Didattiche per l'Informatica - MetDida]
-- [Modellazione Grafica - ModGraf](https://t.me/+24NOTej-_-k1MjU0)
+- [Modellazione Grafica - ModGraf]
 - [Modellazione di Dati e Processi Aziendali - MDPA]
-- [Modelli e Architetture Avanzati di Basi di Dati - MAADB](https://t.me/MAADB_UNITO)
+- [Modelli e Architetture Avanzati di Basi di Dati - MAADB]
 - [Modelli e Metodi per il Supporto alle Decisioni - MMSD]
 - [Ottimizzazione Combinatoria - OttComb]
 - [Programmazione per Dispositivi Mobili - ProgMob]
 - [Reti Complesse][Analisi e Visualizzazione di Reti Complesse]
 - [Sicurezza dei Sistemi e del Software][Sicurezza dei Sistemi e Gestione delle Identità Digitali e degli Accessi]
 - [Storia dell'informatica - Storia]
-- [Tecniche e architetture Avanzate per lo Sviluppo del Software - TAASS](https://t.me/+CCfISmsjqnpkMjA0)
+- [Tecniche e architetture Avanzate per lo Sviluppo del Software - TAASS]
 - [Verifica dei Sistemi e del Software - VPC][Verifica dei Sistemi e del Software]
 
 > In arrivo
@@ -315,22 +315,22 @@ _Nota: i gruppi Telegram usano nome e struttura utile al nuovo ordinamento_
 - [Agenti Intelligenti - AInt]
 - [Algoritmi e Complessità - AlgCompl]
 - [Analisi e Trattamento dei Segnali Digitali - ATSD][Elaborazione di Segnali e Immagini]
-- [Apprendimento Automatico]
+- [Apprendimento Automatico - AAUT][Apprendimento Automatico]
 - [Architetture degli Elaboratori 2 - ArchElab II][Sistemi e Architetture Parallele e Distribuite]
 - [Basi di Dati Multimediali - DBM][Gestione di Informazioni Multimediali]
 - [BioInformatica - BioInf]
 - [Complementi di Analisi e Probabilità - ComplAP]
-- Complementi di Reti e Sicurezza, diviso in
+- Complementi di Reti e Sicurezza, ora diviso in
   - [Sicurezza e Architettura delle Reti]
   - [Sicurezza dei Sistemi e Gestione delle Identità Digitali e degli Accessi]
 - [Computazione Quantistica]
 - [Economia e Gestione delle Imprese Net Based - EGINB]
 - [Elaborazione Digitale Audio e Musica - EDAM](https://t.me/+BAMKuhZJtC83MWU8)
-- Elaborazione di Immagini e Visione Artificiale - ELIVA, diviso in
+- Elaborazione di Immagini e Visione Artificiale - ELIVA, ora diviso in
   - [Elaborazione di Segnali e immagini]
   - Visione Artificiale (_Coming soon_)
 - [Elementi di Teoria dell'Informazione - ELTI]
-- Etica, Società e Privacy - ESP, diviso in
+- Etica, Società e Privacy - ESP, ora diviso in
   - [Etica dell’Intelligenza Artificiale]
   - Privacy e Compliance (_Coming soon_)
 - [Fisica per Applicazioni di Realtà Virtuale - Fisica ApplRV]
@@ -338,10 +338,12 @@ _Nota: i gruppi Telegram usano nome e struttura utile al nuovo ordinamento_
 - [Intelligenza Artificiale e Laboratorio - IALAB](https://t.me/ialab2021)
 - [Logica per l'Informatica - LogicaInf]
 - [Metodi Numerici - Metodi]
-- [Metodologie e Tecnologie Didattiche per l'Informatica - MetDida]
+- [Metodologie e Tecnologie Didattiche per l'Informatica (PREFIT) - MetDida][Metodologie e Tecnologie Didattiche per l'Informatica - MetDida]
 - [Modellazione Concettuale per il Web Semantico - ModSem][Grafi di Conoscenza e Sistemi di Suggerimento]
+- [Modellazione Grafica - ModGraf]
 - [Modellazione di Dati e Processi Aziendali - MDPA]
-- [Modelli Concorrenti e Algoritmi Distribuiti][Algoritmi Distribuiti]
+- [Modelli Concorrenti e Algoritmi Distribuiti- MCAD][Algoritmi Distribuiti]
+- [Modelli e Architetture Avanzati di Basi di Dati - MAADB]
 - [Modelli e Metodi per il Supporto alle Decisioni - MMSD]
 - [Ottimizzazione Combinatoria - OttComb]
 - [Programmazione per Dispositivi Mobili - ProgMob]
@@ -355,6 +357,8 @@ _Nota: i gruppi Telegram usano nome e struttura utile al nuovo ordinamento_
 - Sistemi di Realtà Virtuale - SistRV, diviso in
   - [Realtà Virtuale]
   - [Laboratorio di Modellazione e Rendering Interattivo]
+- [Storia dell'informatica - Storia]
+- [Tecniche e architetture Avanzate per lo Sviluppo del Software - TAASS]
 - [Tecnologie del Linguaggio Naturale - TLN][Elaborazione del Linguaggio Naturale e Intelligenza Artificiale Generativa]
 - [Valutazione delle Prestazioni: Simulazione e Modelli - SimMod][Prestazione dei Sistemi e del Software]
 - [Verifica dei Programmi Concorrenti - VPC][Verifica dei Sistemi e del Software]
@@ -393,32 +397,35 @@ _Nota: i gruppi Telegram usano nome e struttura utile al nuovo ordinamento_
 [Agenti Intelligenti - AInt]: https://t.me/+zM3sw0FZDk81ZjY8
 [Algoritmi Distribuiti]: https://t.me/+hBaW1ULKbdYxMjg8
 [Algoritmi e Complessità - AlgCompl]: https://t.me/+xbouLXiSh_I1N2U0
-[Apprendimento Automatico]: https://t.me/+Y8i-9osdXiY4MGRk
 [Analisi e Visualizzazione di Reti Complesse]: https://t.me/+fgtYSI_llQs2NzNk
+[Apprendimento Automatico]: https://t.me/+Y8i-9osdXiY4MGRk
 [BioInformatica - BioInf]: https://t.me/+L6Vswqs63a5hZjI0
 [Complementi di Analisi e Probabilità - ComplAP]: https://t.me/+_-ycSA_rbq43NmI0
 [Computazione Quantistica]: https://t.me/+8Zax-954nMlmZGY0
 [Economia e Gestione delle Imprese Net Based - EGINB]: https://t.me/+ZRV1TijYFOJkZjY0
+[Elaborazione del Linguaggio Naturale e Intelligenza Artificiale Generativa]: https://t.me/+HUsuZ77VoJg2Mjc0
+[Elaborazione di Segnali e Immagini]: https://t.me/+2nBQ_71lawlhODk0
 [Elementi di Teoria dell'Informazione - ELTI]: https://t.me/elti2021
-[Sistemi e Architetture Parallele e Distribuite]: https://t.me/+KG-a6dj87G41MWVk
 [Etica dell’Intelligenza Artificiale]: https://t.me/ESP_diunito
+[Fisica per Applicazioni di Realtà Virtuale - Fisica ApplRV]: https://t.me/+bYJOLBrVsMtkNmZk
 [Fondamenti di Intelligenza Artificiale]: https://t.me/ialab2021
 [Gestione di Informazioni Multimediali]: https://t.me/+OPsZxLcX6kFjZTBk
-[Prestazione dei Sistemi e del Software]: https://t.me/+lRJBHQVk8bpkMTY0
-[Elaborazione di Segnali e Immagini]: https://t.me/+2nBQ_71lawlhODk0
-[Elaborazione del Linguaggio Naturale e Intelligenza Artificiale Generativa]: https://t.me/+HUsuZ77VoJg2Mjc0
 [Grafi di Conoscenza e Sistemi di Suggerimento]: https://t.me/+0Yu9WpMsAccyNjQ0
-[Sicurezza e Architettura delle Reti]: https://t.me/+AhHG6cpLgbo5MzBk
-[Sicurezza dei Sistemi e Gestione delle Identità Digitali e degli Accessi]: https://t.me/+e-7pxwDOLo83NmE0
-[Laboratorio di Modellazione e Rendering Interattivo]: https://t.me/+K1KrRlb6yyUxYzU0
-[Realtà Virtuale]: https://t.me/joinchat/7B50oWCmCo5kYmY0
-[Fisica per Applicazioni di Realtà Virtuale - Fisica ApplRV]: https://t.me/+bYJOLBrVsMtkNmZk
-[Modellazione di Dati e Processi Aziendali - MDPA]: https://t.me/modellazione_dei_processi_aziend
 [Innovazione Digitale per gli Ambienti di Vita - InnDig]: https://t.me/+LyOQMdHcCGA0ZWM8
+[Laboratorio di Modellazione e Rendering Interattivo]: https://t.me/+K1KrRlb6yyUxYzU0
+[Modellazione Grafica - ModGraf]: https://t.me/+24NOTej-_-k1MjU0
+[Modellazione di Dati e Processi Aziendali - MDPA]: https://t.me/modellazione_dei_processi_aziend
+[Modelli e Architetture Avanzati di Basi di Dati - MAADB]: https://t.me/MAADB_UNITO
 [Modelli e Metodi per il Supporto alle Decisioni - MMSD]: https://t.me/+-tg6Bbg5OygyMWQ8
 [Ottimizzazione Combinatoria - OttComb]: https://t.me/joinchat/9P-wWdFGKkI3MGI0
-[Verifica dei Sistemi e del Software]: https://t.me/+n8XlsNpIyvQ4NDM8
+[Prestazione dei Sistemi e del Software]: https://t.me/+lRJBHQVk8bpkMTY0
 [Programmazione per Dispositivi Mobili - ProgMob]: https://t.me/+Opj0lLpQvMhhNWFk
+[Realtà Virtuale]: https://t.me/joinchat/7B50oWCmCo5kYmY0
+[Sicurezza dei Sistemi e Gestione delle Identità Digitali e degli Accessi]: https://t.me/+e-7pxwDOLo83NmE0
+[Sicurezza e Architettura delle Reti]: https://t.me/+AhHG6cpLgbo5MzBk
+[Sistemi e Architetture Parallele e Distribuite]: https://t.me/+KG-a6dj87G41MWVk
+[Tecniche e architetture Avanzate per lo Sviluppo del Software - TAASS]: https://t.me/+CCfISmsjqnpkMjA0
+[Verifica dei Sistemi e del Software]: https://t.me/+n8XlsNpIyvQ4NDM8
 
 <!-- Privacy e Compliance (_Coming soon_) -->
 <!-- Tecnologie Blockchain (_Coming soon_) -->
