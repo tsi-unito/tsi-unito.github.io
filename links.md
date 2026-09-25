@@ -28,11 +28,13 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
     - [Singoli Insegnamenti Terzo Anno](#singoli-insegnamenti-terzo-anno)
 - [Gruppi specifici per la Magistrale 📚](#gruppi-specifici-per-la-magistrale-)
   - [Gruppo Magistrale](#gruppo-magistrale)
-  - [Gruppo Magistrale in AIBH](#gruppo-magistrale-in-aibh)
-  - [Gruppo Artificial Intelligence and High Performance Computing Technologies](https://t.me/aihpcUnito)
+  - [Gruppo Magistrale in AIBH - Artificial Intelligence for Biomedicine and Healthcare](#gruppo-magistrale-in-aibh---artificial-intelligence-for-biomedicine-and-healthcare)
+  - [Gruppo Magistrale in AIHPC - Artificial Intelligence and High Performance Computing Technologies](#gruppo-magistrale-in-aihpc---artificial-intelligence-and-high-performance-computing-technologies)
   - [Gruppo Off Topic](#gruppo-off-topic)
   - [Gruppo per le **LAUREE**](#gruppo-per-le-lauree)
-  - [Singoli Insegnamenti Magistrale](#singoli-insegnamenti-magistrale)
+  - [Insegnamenti obbligatori Laurea Magistrale divisi per percorso (AIHPC below)](#insegnamenti-obbligatori-laurea-magistrale-divisi-per-percorso-aihpc-below)
+  - [Individual Courses – Master's Degree in Artificial Intelligence and High Performance Computing Technologies](#individual-courses--masters-degree-in-artificial-intelligence-and-high-performance-computing-technologies)
+  - [Laurea Magistrale fino a coorte 2025/2026](#laurea-magistrale-fino-a-coorte-20252026)
 
 ## Generale
 
@@ -103,12 +105,12 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 [Gruppo Off Topic](https://t.me/+Ye04aIAdXfI4Yzlk)
 
 - [Analisi](https://t.me/+bIy-EgjtRrhhNmE8)
-- [Architettura degli elaboratori](https://t.me/+REfz_GZ2fytlOWE0)
-- [Fondamenti dell'Informatica](https://t.me/+i98q9jlppjZhYzI0)
+- [Architettura degli elaboratori]
+- [Fondamenti dell'Informatica]
 - [Matematica Discreta, Algebra e Geometria](https://t.me/+doM_i3uFgYg1MjVk)
 - [Programmazione I](https://t.me/+pgWXz9_rIdU2ZGU0)
 - [Programmazione II](https://t.me/+xJOmjJInA4VjMDBk)
-- [Ricerca Operativa](https://t.me/+lRZmXg1uiA4yOTQ0)
+- [Ricerca Operativa]
 
 ### Gruppi Secondo anno 📚
 
@@ -116,15 +118,15 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 [Gruppo Off Topic](https://t.me/+Ye04aIAdXfI4Yzlk)
 
-- [Algoritmi e strutture Dati](https://t.me/+-u4pXn5iuKZhOGU0)
-- [Basi di Dati](https://t.me/+iH3vSZM2_v44YjVk)
+- [Algoritmi e strutture Dati]
+- [Basi di Dati]
 - [Diritto e Privacy per l'Informatica](https://t.me/+_DDmzLJvKdo2ZTE0)
-- [Economia e Gestione dell'Impresa](https://t.me/+5zlD2YA2BPQ0YjM0)
+- [Economia e Gestione dell'Impresa]
 - [Elementi di probabilità e statistica](https://t.me/joinchat/BLUC9gvljjRU-z2OjTTJUQ)
 - [Fisica](https://t.me/joinchat/GZZT5lMpt42deKu7jNP56Q)
-- [Logica Matematica](https://t.me/+0UED4KR9YjthZGFk)
-- [Principi di Programmazione Orientata agli Oggetti](https://t.me/+7_tQGrQ-SsY3NWE8)
-- [Sistemi Operativi](https://t.me/+BgMKooNn4NxkMmZk)
+- [Logica Matematica]
+- [Principi di Programmazione Orientata agli Oggetti]
+- [Sistemi Operativi]
   
 ### Gruppi Terzo anno 📚
 
@@ -138,21 +140,22 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Blockchain](https://t.me/+V86A4hOH7Ls0NGNk)
 - [Calcolabilità e Complessità](https://t.me/+IfkFyzxFjnlmYzM0)
 - [Complementi di Reti](https://t.me/+AFVjsjAJrEFmNTM0)
-- [Cybersecurity (ex Sicurezza 1)](https://t.me/+aaS0gayyAG81MDE0)
+- [Cybersecurity (ex Sicurezza 1)][Cybersecurity]
 - [Economia e Gestione delle Tecnologie Emergenti (ex Economia e Gestione dell'Innovazione)](https://t.me/+Mq3_3uNfdDEyODJk)
 - [Human-Computer Interaction](https://t.me/+2xIZaprl4NAzNjE8)
 - [Linguaggi e Paradigmi di Programmazione](https://t.me/+Eg06_b0pvacyZDVk)
-- [Linguaggi Formali e Traduttori](https://t.me/joinchat/GZZT5lbQb22DPEhiOfmAnQ)
-- [Logica per l'Informatica](https://t.me/LogicaInf_diunito)
+- [Linguaggi Formali e Traduttori]
+- [Logica per l'Informatica - LogicaInf]
 - [Metodi Formali dell'informatica](https://t.me/joinchat/GZZT5htBY3vaWftl7l7TRQ)
-- [Metodi Numerici](https://t.me/+6rLzCo4u-4k1OTQ0)
-- [Metodologie e Tecnologie Didattiche per l'Informatica (PREFIT) - MetDida](https://t.me/+ybKyB-fyoeA1NTBk)
+- [Metodi Numerici - Metodi]
+- [Metodologie e Tecnologie Didattiche per l'Informatica - MetDida]
 - [Problem Solving Avanzato](https://t.me/+1Fx818xGbW1jMDBk)
-- [Programmazione III](https://t.me/+2SnFs2fQ6gE5NDZk)
-- [Reti e Sicurezza delle Reti + Complementi di Reti](https://t.me/+AFVjsjAJrEFmNTM0)
+- [Programmazione III]
+- [Reti e Sicurezza delle Reti]
+- [Complementi di Reti][Reti e Sicurezza delle Reti]
 - [Sistemi Informativi](https://t.me/+aY764OtUpTQwY2U0)
-- [Sistemi Intelligenti](https://t.me/joinchat/GZZT5hkMGnZr-uHCKg2ZMw)
-- [Storia dell'informatica - Storia](https://t.me/+yWiCJ3kyJ9s0Y2Nk)
+- [Sistemi Intelligenti]
+- [Storia dell'informatica][Storia dell'informatica - Storia]
 - [Sviluppo delle Applicazioni Software](https://t.me/+K_F8QphKfpk3NDBk)
 - [Tecnologie Web](https://t.me/+mac9wEbPZoxiMDQ0)
 
@@ -172,63 +175,111 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 ### [Gruppo Magistrale](https://t.me/joinchat/BbqyERQcACYhQFEO1iJD2g)
 
-### [Gruppo Magistrale in AIBH](https://t.me/aibh_unito)
+### [Gruppo Magistrale in AIBH - Artificial Intelligence for Biomedicine and Healthcare](https://t.me/aibh_unito)
 
-### [Gruppo Artificial Intelligence and High Performance Computing Technologies](https://t.me/aihpcUnito)
+### [Gruppo Magistrale in AIHPC - Artificial Intelligence and High Performance Computing Technologies](https://t.me/aihpcUnito)
 
 ### [Gruppo Off Topic](https://t.me/+Ye04aIAdXfI4Yzlk)
 
 ### [Gruppo per le **LAUREE**](https://t.me/+uB83q6CF-p4zMTBk)
 
-### Singoli Insegnamenti Magistrale
+### Insegnamenti obbligatori Laurea Magistrale divisi per percorso (AIHPC below)
 
-- [Agenti Intelligenti - AInt](https://t.me/+zM3sw0FZDk81ZjY8)
-- [Algoritmi e Complessità - AlgCompl](https://t.me/+xbouLXiSh_I1N2U0)
-- [Algoritmi Distribuiti Ex MCAD](https://t.me/+hBaW1ULKbdYxMjg8)
-- [Analisi e Trattamento dei Segnali Digitali - ATSD](https://t.me/+iUnHYsXF8Kc3ZmVk)
-- [Analisi e Visualizzazioni di Reti Complesse - AVRC](https://t.me/+fgtYSI_llQs2NzNk)
-- [Apprendimento Automatico](https://t.me/+Y8i-9osdXiY4MGRk)
-- [Architetture degli Elaboratori 2 - ArchElab II](https://t.me/+2dZAl-U6Hq9kOTE0)
-- [Basi di Dati Multimediali - DBM](https://t.me/+OPsZxLcX6kFjZTBk)
-- [BioInformatica - BioInf](https://t.me/+L6Vswqs63a5hZjI0)
-- [Complementi di Analisi e Probabilità - ComplAP](https://t.me/+_-ycSA_rbq43NmI0)
-- [Computazione Quantistica](https://t.me/+8Zax-954nMlmZGY0)
-- [Economia e Gestione delle Imprese Net Based - EGINB](https://t.me/+ZRV1TijYFOJkZjY0)
-- [Elaborazione Digitale Audio e Musica - EDAM](https://t.me/+BAMKuhZJtC83MWU8)
-- [Elaborazione di Immagini e Visione Digitale - ELIVA](https://t.me/+IKW6whETkn44NzM8)
-- [Elementi di Teoria dell'Informazione - ELTI](https://t.me/elti2021)
-- [Etica, Società e Privacy - ESP](https://t.me/ESP_diunito)
-- [Fisica per Applicazioni di Realtà Virtuale - Fisica ApplRV](https://t.me/+bYJOLBrVsMtkNmZk)
-- [Innovazione Digitale per gli Ambienti di Vita - InnDig](https://t.me/+LyOQMdHcCGA0ZWM8)
-- [Intelligenza Artificiale e Laboratorio - IALAB](https://t.me/ialab2021)
-- [Logica per l'Informatica - LogicaInf](https://t.me/LogicaInf_diunito)
-- [Metodi Numerici - Metodi](https://t.me/+6rLzCo4u-4k1OTQ0)
-- [Metodologie e Tecnologie Didattiche per l'Informatica (PREFIT) - MetDida](https://t.me/+ybKyB-fyoeA1NTBk)
-- [Modellazione Concettuale per il Web Semantico - ModSem](https://t.me/+0Yu9WpMsAccyNjQ0)
+> Intelligenza Artificiale
+
+- [Apprendimento Automatico: Fondamenti e Deep Learning][Apprendimento Automatico]
+- [Elaborazione del Linguaggio Naturale e Intelligenza Artificiale Generativa]
+- [Etica dell’Intelligenza Artificiale]
+- [Fondamenti di Intelligenza Artificiale]
+
+> Sistemi e Reti Distribuiti
+
+- [Algoritmi Distribuiti]
+- [Architettura delle Reti][Sicurezza e Architettura delle Reti]
+- [Prestazione dei Sistemi e del Software]
+- [Sistemi e Architetture Parallele e Distribuite]
+
+> Cybersecurity
+
+- Privacy e Compliance (_Coming soon_)
+- [Sicurezza dei Sistemi e Gestione delle Identità Digitali e degli Accessi]
+- [Sicurezza e Architettura delle Reti]
+- Tecnologie Blockchain (_Coming soon_)
+- Crittografia (_Coming soon_)
+
+> Immagini, Visione e Realtà Virtuale
+
+- [Apprendimento Automatico: Fondamenti e Deep Learning][Apprendimento Automatico]
+- [Elaborazione di Segnali e Immagini]
+- [Sistemi di Calcolo Paralleli e Distribuiti][Sistemi e Architetture Parallele e Distribuite]
+
+> Tutti gli insegnamenti
+
+- [Agenti Intelligenti - AInt]
+- [Algoritmi Distribuiti]
+- [Algoritmi e Complessità - AlgCompl]
+- [Analisi e Visualizzazione di Reti Complesse - AVRC][Analisi e Visualizzazione di Reti Complesse]
+- [Apprendimento Automatico: Fondamenti, Deep Learning, Data Mining][Apprendimento Automatico]
+- [Architettura delle Reti][Sicurezza e Architettura delle Reti]
+- [Architetture Parallele degli Elaboratori][Sistemi e Architetture Parallele e Distribuite]
+- [Architetture Parallele e Distribuite](https://t.me/joinchat/Q_qIITQQKbuvBgiF)
+- [Gestione di Informazioni Multimediali (Basi di Dati Multimediali - DBM)][Gestione di Informazioni Multimediali]
+- [BioInformatica - BioInf]
+- [Complementi di Analisi e Probabilità - ComplAP]
+- [Computazione Quantistica]
+- [Economia e Gestione delle Imprese Net Based - EGINB]
+- [Elaborazione di Immagini][Elaborazione di Segnali e Immagini]
+- [Elaborazione di Segnali e Immagini]
+- [Elaborazione di Segnali][Elaborazione di Segnali e Immagini]
+- [Elementi di Teoria dell'Informazione - ELTI]
+- [Fisica per Applicazioni di Realtà Virtuale - Fisica ApplRV]
+- [Grafi di Conoscenza e Sistemi di Suggerimento - KG-Rec][Grafi di Conoscenza e Sistemi di Suggerimento]
+- [Innovazione Digitale per gli Ambienti di Vita - InnDig]
+- [Laboratorio di Modellazione e Rendering Interattivo - LabRender][Laboratorio di Modellazione e Rendering Interattivo]
+- [Logica per l'Informatica - LogicaInf]
+- [Metodi Numerici - Metodi]
+- [Metodologie e Tecnologie Didattiche per l'Informatica - MetDida]
 - [Modellazione Grafica - ModGraf](https://t.me/+24NOTej-_-k1MjU0)
-- [Modellazione di Dati e Processi Aziendali - MDPA](https://t.me/modellazione_dei_processi_aziend)
+- [Modellazione di Dati e Processi Aziendali - MDPA]
 - [Modelli e Architetture Avanzati di Basi di Dati - MAADB](https://t.me/MAADB_UNITO)
-- [Modelli e Metodi per il Supporto alle Decisioni - MMSD](https://t.me/+-tg6Bbg5OygyMWQ8)
-- [Ottimizzazione Combinatoria - OttComb](https://t.me/joinchat/9P-wWdFGKkI3MGI0)
-- [Programmazione per Dispositivi Mobili - ProgMob](https://t.me/+Opj0lLpQvMhhNWFk)
-- [Reti II (Complementi di Reti e Sicurezza) - RetiSic](https://t.me/joinchat/EzvM1StLxZbbzUXT)
-- [Reti Neurali e Deep Learning - RNDL](https://t.me/+tZ6XtJWjKeg3OTk0)
-- [Sicurezza II (Complementi di Reti e Sicurezza) - RetiSic](https://t.me/joinchat/Gb1wkgzpW6tKBExF)
-- [Sicurezza dei Sistemi e del Software - SysSec](https://t.me/+jyQcoPWIRvo0OGY8)
-- [Sicurezza delle Reti - NetSec](https://t.me/+WEprgrYig7kyMDlk)
-- [Sistemi di Calcolo Paralleli e Distribuiti - SCPD](https://t.me/joinchat/Q_qIITQQKbuvBgiF)
-- [Sistemi di Realtà Virtuale - SistRV](https://t.me/joinchat/7B50oWCmCo5kYmY0)
-- [Storia dell'informatica - Storia](https://t.me/+yWiCJ3kyJ9s0Y2Nk)
+- [Modelli e Metodi per il Supporto alle Decisioni - MMSD]
+- [Ottimizzazione Combinatoria - OttComb]
+- [Programmazione per Dispositivi Mobili - ProgMob]
+- [Reti Complesse][Analisi e Visualizzazione di Reti Complesse]
+- [Sicurezza dei Sistemi e del Software][Sicurezza dei Sistemi e Gestione delle Identità Digitali e degli Accessi]
+- [Storia dell'informatica - Storia]
 - [Tecniche e architetture Avanzate per lo Sviluppo del Software - TAASS](https://t.me/+CCfISmsjqnpkMjA0)
-- [Tecnologie del Linguaggio Naturale - TLN](https://t.me/+HUsuZ77VoJg2Mjc0)
-- [Valutazione delle Prestazioni: Simulazione e Modelli - SimMod](https://t.me/+lRJBHQVk8bpkMTY0)
-- [Verifica dei Programmi Concorrenti - VPC](https://t.me/+n8XlsNpIyvQ4NDM8)
+- [Verifica dei Sistemi e del Software](https://t.me/+n8XlsNpIyvQ4NDM8)
 
->Insegnamenti Non più erogati
-- [Gestione delle Reti](https://t.me/joinchat/ciUf3eFP5BA1ZDE0)
-- [20/21 Metodologie e Tecnologie Didattiche per l'Informatica - MTDI](https://t.me/joinchat/eXrYjVxX_zg0Zjc8)
-- [Sicurezza delle Reti e dei Sistemi - SysNetSec](https://t.me/+mGW_KtsSXqhiOWM0)
+> In arrivo
+- Algoritmi per l'Ottimizzazione Non-Lineare (_Coming Soon_)
+- Crittografia (_Coming soon_)
+- Inglese II (_Coming soon_)
+- Intelligenza Artificiale Human Centered (_Coming soon_)
+- Linguaggi di Programmazione e Metodi Formali (_Coming soon_)
+- Metodi Avanzati per l'Elaborazione del Linguaggio Naturale e Applicazioni (_Coming Soon_)
+- Metodi Formali per la Verifica e la Sicurezza (_Coming Soon_)
+- Privacy e Compliance (_Coming soon_)
+- Sistemi Cyber-Fisici (_Coming Soon_)
+- Tecnologie Blockchain (_Coming soon_)
+- Visione Artificiale (_Coming Soon_)
 
+> Esami integrativi
+
+- [Istituzioni di Algoritmi e Strutture Dati][Algoritmi e strutture Dati]
+- [Istituzioni di Architettura degli Elaboratori][Architettura degli elaboratori]
+- [Istituzioni di Basi di Dati][Basi di Dati]
+- [Istituzioni di Calcolo Matriciale e Ricerca Operativa][Ricerca Operativa]
+- [Istituzioni di Economia e Gestione dell’Impresa][Economia e Gestione dell'Impresa]
+- [Istituzioni di Fondamenti dell’Informatica][Fondamenti dell'Informatica]
+- [Istituzioni di Linguaggi Formali][Linguaggi Formali e Traduttori]
+- [Istituzioni di Logica][Logica Matematica]
+- [Istituzioni di Programmazione Distribuita in Rete][Programmazione III]
+- [Istituzioni di Principi di Programmazione Orientata agli Oggetti][Principi di Programmazione Orientata agli Oggetti]
+- [Istituzioni di Sicurezza][Cybersecurity]
+- [Istituzioni di Sistemi Intelligenti][Sistemi Intelligenti]
+- [Istituzioni di Sistemi Operativi][Sistemi Operativi]
+---
 ### Individual Courses – Master's Degree in Artificial Intelligence and High Performance Computing Technologies
 
 - [Advanced AI Paradigms](https://t.me/+TXJMHLbBDIU1ODRk)
@@ -252,8 +303,124 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Scalable & Accelerated Computing](https://t.me/+LNg7jO4L9oliZmRk)
 - [Student-led Innovation Lab](https://t.me/+njhO0z3JDGY2MGU8)
 - [Trustworthy & Responsible AI](https://t.me/+MPLxqGXblx9hZjg8)
-
+ 
 ---
+
+### Laurea Magistrale fino a coorte 2025/2026
+
+_Nota: i gruppi Telegram usano nome e struttura utile al nuovo ordinamento_
+- [Agenti Intelligenti - AInt]
+- [Algoritmi e Complessità - AlgCompl]
+- [Analisi e Trattamento dei Segnali Digitali - ATSD][Elaborazione di Segnali e Immagini]
+- [Apprendimento Automatico]
+- [Architetture degli Elaboratori 2 - ArchElab II][Sistemi e Architetture Parallele e Distribuite]
+- [Basi di Dati Multimediali - DBM][Gestione di Informazioni Multimediali]
+- [BioInformatica - BioInf]
+- [Complementi di Analisi e Probabilità - ComplAP]
+- Complementi di Reti e Sicurezza, diviso in
+  - [Sicurezza e Architettura delle Reti]
+  - [Sicurezza dei Sistemi e Gestione delle Identità Digitali e degli Accessi]
+- [Computazione Quantistica]
+- [Economia e Gestione delle Imprese Net Based - EGINB]
+- [Elaborazione Digitale Audio e Musica - EDAM](https://t.me/+BAMKuhZJtC83MWU8)
+- Elaborazione di Immagini e Visione Artificiale - ELIVA, diviso in
+  - [Elaborazione di Segnali e immagini]
+  - Visione Artificiale (_Coming soon_)
+- [Elementi di Teoria dell'Informazione - ELTI]
+- Etica, Società e Privacy - ESP, diviso in
+  - [Etica dell’Intelligenza Artificiale]
+  - Privacy e Compliance (_Coming soon_)
+- [Fisica per Applicazioni di Realtà Virtuale - Fisica ApplRV]
+- [Innovazione Digitale per gli Ambienti di Vita - InnDig]
+- [Intelligenza Artificiale e Laboratorio - IALAB](https://t.me/ialab2021)
+- [Logica per l'Informatica - LogicaInf]
+- [Metodi Numerici - Metodi]
+- [Metodologie e Tecnologie Didattiche per l'Informatica - MetDida]
+- [Modellazione Concettuale per il Web Semantico - ModSem][Grafi di Conoscenza e Sistemi di Suggerimento]
+- [Modellazione di Dati e Processi Aziendali - MDPA]
+- [Modelli Concorrenti e Algoritmi Distribuiti][Algoritmi Distribuiti]
+- [Modelli e Metodi per il Supporto alle Decisioni - MMSD]
+- [Ottimizzazione Combinatoria - OttComb]
+- [Programmazione per Dispositivi Mobili - ProgMob]
+- [Reti Complesse][Analisi e Visualizzazione di Reti Complesse]
+- [Reti II (Complementi di Reti e Sicurezza) - RetiSic][reti-magi]
+- [Reti Neurali e Deep Learning - RNDL](https://t.me/+tZ6XtJWjKeg3OTk0)
+- [Sicurezza II (Complementi di Reti e Sicurezza) - RetiSic](https://t.me/joinchat/Gb1wkgzpW6tKBExF)
+- [Sicurezza dei Sistemi e del Software - SysSec](https://t.me/+jyQcoPWIRvo0OGY8)
+- [Sicurezza delle Reti - NetSec](https://t.me/+WEprgrYig7kyMDlk)
+- [Sistemi di Calcolo Paralleli e Distribuiti - SCPD](https://t.me/joinchat/Q_qIITQQKbuvBgiF)
+- Sistemi di Realtà Virtuale - SistRV, diviso in
+  - [Realtà Virtuale]
+  - [Laboratorio di Modellazione e Rendering Interattivo]
+- [Tecnologie del Linguaggio Naturale - TLN](https://t.me/+HUsuZ77VoJg2Mjc0)
+- [Valutazione delle Prestazioni: Simulazione e Modelli - SimMod](https://t.me/+lRJBHQVk8bpkMTY0)
+- [Verifica dei Programmi Concorrenti - VPC](https://t.me/+n8XlsNpIyvQ4NDM8)
+
+>Insegnamenti Non più erogati
+- [Gestione delle Reti](https://t.me/joinchat/ciUf3eFP5BA1ZDE0)
+- [20/21 Metodologie e Tecnologie Didattiche per l'Informatica - MTDI](https://t.me/joinchat/eXrYjVxX_zg0Zjc8)
+- [Sicurezza delle Reti e dei Sistemi - SysNetSec](https://t.me/+mGW_KtsSXqhiOWM0)
+---
+
+
+<!-- LINK DI GRUPPI RIPETUTI -->
+
+<!-- TRIENNALI -->
+[Storia dell'informatica - Storia]: https://t.me/+yWiCJ3kyJ9s0Y2Nk
+[Algoritmi e strutture Dati]: https://t.me/+-u4pXn5iuKZhOGU0
+[Architettura degli elaboratori]: https://t.me/+REfz_GZ2fytlOWE0
+[Basi di Dati]: https://t.me/+iH3vSZM2_v44YjVk
+[Ricerca Operativa]: https://t.me/+lRZmXg1uiA4yOTQ0
+[Economia e Gestione dell'Impresa]: https://t.me/+5zlD2YA2BPQ0YjM0
+[Fondamenti dell'Informatica]: https://t.me/+i98q9jlppjZhYzI0
+[Linguaggi Formali e Traduttori]: https://t.me/joinchat/GZZT5lbQb22DPEhiOfmAnQ
+[Logica Matematica]: https://t.me/+0UED4KR9YjthZGFk
+[Logica per l'Informatica - LogicaInf]: https://t.me/LogicaInf_diunito
+[Programmazione III]: https://t.me/+2SnFs2fQ6gE5NDZk
+[Principi di Programmazione Orientata agli Oggetti]: https://t.me/+7_tQGrQ-SsY3NWE8
+[Cybersecurity]: https://t.me/+aaS0gayyAG81MDE0
+[Sistemi Intelligenti]: https://t.me/joinchat/GZZT5hkMGnZr-uHCKg2ZMw
+[Sistemi Operativi]: https://t.me/+BgMKooNn4NxkMmZk
+[Metodologie e Tecnologie Didattiche per l'Informatica - MetDida]: https://t.me/+ybKyB-fyoeA1NTBk
+[Metodi Numerici - Metodi]: https://t.me/+6rLzCo4u-4k1OTQ0
+[Reti e Sicurezza delle Reti]: https://t.me/+AFVjsjAJrEFmNTM0
+
+
+<!-- MAGISTRALI -->
+[Agenti Intelligenti - AInt]: https://t.me/+zM3sw0FZDk81ZjY8
+[Algoritmi Distribuiti]: https://t.me/+hBaW1ULKbdYxMjg8
+[Algoritmi e Complessità - AlgCompl]: https://t.me/+xbouLXiSh_I1N2U0
+[Apprendimento Automatico]: https://t.me/+Y8i-9osdXiY4MGRk
+[Analisi e Visualizzazione di Reti Complesse]: https://t.me/+fgtYSI_llQs2NzNk
+[BioInformatica - BioInf]: https://t.me/+L6Vswqs63a5hZjI0
+[Complementi di Analisi e Probabilità - ComplAP]: https://t.me/+_-ycSA_rbq43NmI0
+[Computazione Quantistica]: https://t.me/+8Zax-954nMlmZGY0
+[Economia e Gestione delle Imprese Net Based - EGINB]: https://t.me/+ZRV1TijYFOJkZjY0
+[reti-magi]: https://t.me/joinchat/EzvM1StLxZbbzUXT
+[Elementi di Teoria dell'Informazione - ELTI]: https://t.me/elti2021
+[Sistemi e Architetture Parallele e Distribuite]: https://t.me/+KG-a6dj87G41MWVk
+[Etica dell’Intelligenza Artificiale]: https://t.me/ESP_diunito
+[Fondamenti di Intelligenza Artificiale]: https://t.me/ialab2021
+[Gestione di Informazioni Multimediali]: https://t.me/+OPsZxLcX6kFjZTBk
+[Prestazione dei Sistemi e del Software]: https://t.me/+lRJBHQVk8bpkMTY0
+[Elaborazione di Segnali e Immagini]: https://t.me/+2nBQ_71lawlhODk0
+[Elaborazione del Linguaggio Naturale e Intelligenza Artificiale Generativa]: https://t.me/+HUsuZ77VoJg2Mjc0
+[Grafi di Conoscenza e Sistemi di Suggerimento]: https://t.me/+0Yu9WpMsAccyNjQ0
+[Sicurezza e Architettura delle Reti]: https://t.me/+AhHG6cpLgbo5MzBk
+[Sicurezza dei Sistemi e Gestione delle Identità Digitali e degli Accessi]: https://t.me/+e-7pxwDOLo83NmE0
+[Laboratorio di Modellazione e Rendering Interattivo]: https://t.me/+K1KrRlb6yyUxYzU0
+[Realtà Virtuale]: https://t.me/joinchat/7B50oWCmCo5kYmY0
+[Fisica per Applicazioni di Realtà Virtuale - Fisica ApplRV]: https://t.me/+bYJOLBrVsMtkNmZk
+[Modellazione di Dati e Processi Aziendali - MDPA]: https://t.me/modellazione_dei_processi_aziend
+[Innovazione Digitale per gli Ambienti di Vita - InnDig]: https://t.me/+LyOQMdHcCGA0ZWM8
+[Modelli e Metodi per il Supporto alle Decisioni - MMSD]: https://t.me/+-tg6Bbg5OygyMWQ8
+[Ottimizzazione Combinatoria - OttComb]: https://t.me/joinchat/9P-wWdFGKkI3MGI0
+[Programmazione per Dispositivi Mobili - ProgMob]: https://t.me/+Opj0lLpQvMhhNWFk
+
+<!-- Privacy e Compliance (_Coming soon_) -->
+<!-- Tecnologie Blockchain (_Coming soon_) -->
+<!-- Crittografia (_Coming soon_) -->
+
 
 ### _Legenda_ <!-- omit in toc -->
 
@@ -264,3 +431,5 @@ _FB = Facebook_
 >- **_mandare una mail a tsi@di.unito.it_**
 >- **_scrivere su Telegram ad uno tra i maintainer attivi: [@tsi_unito_manager](https://t.me/tsi_unito_manager) (Account di Amministrazione) - [@SaraVassia](https://t.me/saravassia) (Sara Virginia Vassia) - [@xSteee](https://t.me/xsteee) (Stefano Oppedisano) - [@polpiantina](https://t.me/polpiantina) (Paolo Guiot)_**  
 > **_o ad uno dei proprietari: [@evilscript](https://t.me/evilscript) (Federico Torrielli) - [@stefa168](https://t.me/stefa168) (Stefano Vittorio Porta)_**
+
+<!-- [testing page](tests.md) -->
