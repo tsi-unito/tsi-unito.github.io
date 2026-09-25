@@ -249,9 +249,10 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Sicurezza dei Sistemi e del Software][Sicurezza dei Sistemi e Gestione delle Identità Digitali e degli Accessi]
 - [Storia dell'informatica - Storia]
 - [Tecniche e architetture Avanzate per lo Sviluppo del Software - TAASS](https://t.me/+CCfISmsjqnpkMjA0)
-- [Verifica dei Sistemi e del Software](https://t.me/+n8XlsNpIyvQ4NDM8)
+- [Verifica dei Sistemi e del Software - VPC][Verifica dei Sistemi e del Software]
 
 > In arrivo
+> 
 - Algoritmi per l'Ottimizzazione Non-Lineare (_Coming Soon_)
 - Crittografia (_Coming soon_)
 - Inglese II (_Coming soon_)
@@ -279,7 +280,9 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 - [Istituzioni di Sicurezza][Cybersecurity]
 - [Istituzioni di Sistemi Intelligenti][Sistemi Intelligenti]
 - [Istituzioni di Sistemi Operativi][Sistemi Operativi]
+- 
 ---
+
 ### Individual Courses – Master's Degree in Artificial Intelligence and High Performance Computing Technologies
 
 - [Advanced AI Paradigms](https://t.me/+TXJMHLbBDIU1ODRk)
@@ -343,18 +346,18 @@ _Nota: i gruppi Telegram usano nome e struttura utile al nuovo ordinamento_
 - [Ottimizzazione Combinatoria - OttComb]
 - [Programmazione per Dispositivi Mobili - ProgMob]
 - [Reti Complesse][Analisi e Visualizzazione di Reti Complesse]
-- [Reti II (Complementi di Reti e Sicurezza) - RetiSic][reti-magi]
-- [Reti Neurali e Deep Learning - RNDL](https://t.me/+tZ6XtJWjKeg3OTk0)
-- [Sicurezza II (Complementi di Reti e Sicurezza) - RetiSic](https://t.me/joinchat/Gb1wkgzpW6tKBExF)
-- [Sicurezza dei Sistemi e del Software - SysSec](https://t.me/+jyQcoPWIRvo0OGY8)
-- [Sicurezza delle Reti - NetSec](https://t.me/+WEprgrYig7kyMDlk)
-- [Sistemi di Calcolo Paralleli e Distribuiti - SCPD](https://t.me/joinchat/Q_qIITQQKbuvBgiF)
+- [Reti II][Sicurezza e Architettura delle Reti]
+- [Reti Neurali e Deep Learning - RNDL][Apprendimento Automatico]
+- [Sicurezza II][Sicurezza dei Sistemi e Gestione delle Identità Digitali e degli Accessi]
+- [Sicurezza dei Sistemi e del Software - SysSec][Sicurezza dei Sistemi e Gestione delle Identità Digitali e degli Accessi]
+- [Sicurezza delle Reti - NetSec][Sicurezza e Architettura delle Reti]
+- [Sistemi di Calcolo Paralleli e Distribuiti - SCPD][Sistemi e Architetture Parallele e Distribuite]
 - Sistemi di Realtà Virtuale - SistRV, diviso in
   - [Realtà Virtuale]
   - [Laboratorio di Modellazione e Rendering Interattivo]
-- [Tecnologie del Linguaggio Naturale - TLN](https://t.me/+HUsuZ77VoJg2Mjc0)
-- [Valutazione delle Prestazioni: Simulazione e Modelli - SimMod](https://t.me/+lRJBHQVk8bpkMTY0)
-- [Verifica dei Programmi Concorrenti - VPC](https://t.me/+n8XlsNpIyvQ4NDM8)
+- [Tecnologie del Linguaggio Naturale - TLN][Elaborazione del Linguaggio Naturale e Intelligenza Artificiale Generativa]
+- [Valutazione delle Prestazioni: Simulazione e Modelli - SimMod][Prestazione dei Sistemi e del Software]
+- [Verifica dei Programmi Concorrenti - VPC][Verifica dei Sistemi e del Software]
 
 >Insegnamenti Non più erogati
 - [Gestione delle Reti](https://t.me/joinchat/ciUf3eFP5BA1ZDE0)
@@ -396,7 +399,6 @@ _Nota: i gruppi Telegram usano nome e struttura utile al nuovo ordinamento_
 [Complementi di Analisi e Probabilità - ComplAP]: https://t.me/+_-ycSA_rbq43NmI0
 [Computazione Quantistica]: https://t.me/+8Zax-954nMlmZGY0
 [Economia e Gestione delle Imprese Net Based - EGINB]: https://t.me/+ZRV1TijYFOJkZjY0
-[reti-magi]: https://t.me/joinchat/EzvM1StLxZbbzUXT
 [Elementi di Teoria dell'Informazione - ELTI]: https://t.me/elti2021
 [Sistemi e Architetture Parallele e Distribuite]: https://t.me/+KG-a6dj87G41MWVk
 [Etica dell’Intelligenza Artificiale]: https://t.me/ESP_diunito
@@ -415,6 +417,7 @@ _Nota: i gruppi Telegram usano nome e struttura utile al nuovo ordinamento_
 [Innovazione Digitale per gli Ambienti di Vita - InnDig]: https://t.me/+LyOQMdHcCGA0ZWM8
 [Modelli e Metodi per il Supporto alle Decisioni - MMSD]: https://t.me/+-tg6Bbg5OygyMWQ8
 [Ottimizzazione Combinatoria - OttComb]: https://t.me/joinchat/9P-wWdFGKkI3MGI0
+[Verifica dei Sistemi e del Software]: https://t.me/+n8XlsNpIyvQ4NDM8
 [Programmazione per Dispositivi Mobili - ProgMob]: https://t.me/+Opj0lLpQvMhhNWFk
 
 <!-- Privacy e Compliance (_Coming soon_) -->
