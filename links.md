@@ -32,7 +32,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
   - [Gruppo Magistrale in AIHPC - Artificial Intelligence and High Performance Computing Technologies](#gruppo-magistrale-in-aihpc---artificial-intelligence-and-high-performance-computing-technologies)
   - [Gruppo Off Topic](#gruppo-off-topic)
   - [Gruppo per le **LAUREE**](#gruppo-per-le-lauree)
-  - [Insegnamenti obbligatori Laurea Magistrale divisi per percorso (AIHPC below)](#insegnamenti-obbligatori-laurea-magistrale-divisi-per-percorso-aihpc-below)
+  - [Insegnamenti obbligatori Laurea Magistrale divisi per percorso](#insegnamenti-obbligatori-laurea-magistrale-divisi-per-percorso)
   - [Individual Courses – Master's Degree in Artificial Intelligence and High Performance Computing Technologies](#individual-courses--masters-degree-in-artificial-intelligence-and-high-performance-computing-technologies)
   - [Laurea Magistrale fino a coorte 2025/2026](#laurea-magistrale-fino-a-coorte-20252026)
 
@@ -183,7 +183,8 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 ### [Gruppo per le **LAUREE**](https://t.me/+uB83q6CF-p4zMTBk)
 
-### Insegnamenti obbligatori Laurea Magistrale divisi per percorso (AIHPC below)
+### Insegnamenti obbligatori Laurea Magistrale divisi per percorso 
+_Nota: la lista per il vecchio ordinamento è a fondo pagina_
 
 > Intelligenza Artificiale
 
@@ -354,7 +355,7 @@ _Nota: i gruppi Telegram usano nome e struttura utile al nuovo ordinamento_
 - [Sicurezza dei Sistemi e del Software - SysSec][Sicurezza dei Sistemi e Gestione delle Identità Digitali e degli Accessi]
 - [Sicurezza delle Reti - NetSec][Sicurezza e Architettura delle Reti]
 - [Sistemi di Calcolo Paralleli e Distribuiti - SCPD][Sistemi e Architetture Parallele e Distribuite]
-- Sistemi di Realtà Virtuale - SistRV, diviso in
+- Sistemi di Realtà Virtuale - SistRV, ora diviso in
   - [Realtà Virtuale]
   - [Laboratorio di Modellazione e Rendering Interattivo]
 - [Storia dell'informatica - Storia]
@@ -364,9 +365,11 @@ _Nota: i gruppi Telegram usano nome e struttura utile al nuovo ordinamento_
 - [Verifica dei Programmi Concorrenti - VPC][Verifica dei Sistemi e del Software]
 
 >Insegnamenti Non più erogati
+
 - [Gestione delle Reti](https://t.me/joinchat/ciUf3eFP5BA1ZDE0)
 - [20/21 Metodologie e Tecnologie Didattiche per l'Informatica - MTDI](https://t.me/joinchat/eXrYjVxX_zg0Zjc8)
 - [Sicurezza delle Reti e dei Sistemi - SysNetSec](https://t.me/+mGW_KtsSXqhiOWM0)
+
 ---
 
 
