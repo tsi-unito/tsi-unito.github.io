@@ -312,7 +312,9 @@ _Nota: la lista per il vecchio ordinamento è a fondo pagina_
 
 ### Laurea Magistrale fino a coorte 2025/2026
 
-_Nota: i gruppi Telegram usano nome e struttura utile al nuovo ordinamento_
+_Nota: i gruppi Telegram usano nome e struttura utile al nuovo ordinamento._  
+_Controlla la [tabella di corrispondenza degli esami](https://docs.google.com/document/u/8/d/1OEnj1vzOjGdq7a5L0R1mOSDfxvfNh3UXEhBNOhv95d4/mobilebasic) per verificare i cambiamenti dei corsi_
+
 - [Agenti Intelligenti - AInt]
 - [Algoritmi e Complessità - AlgCompl]
 - [Analisi e Trattamento dei Segnali Digitali - ATSD][Elaborazione di Segnali e Immagini]
