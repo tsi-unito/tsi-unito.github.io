@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Orario Lezioni UniTo</title>
+
+  <link href="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.8/index.global.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.8/index.global.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/ical.js/1.4.0/ical.min.js"></script>
+
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    #main-container { display: flex; margin: 0 auto; gap: 20px; align-items: flex-start; }
+    #calendar { width: 800px; flex-shrink: 0; }
+    #filters { flex: 1; min-width: 260px; display: flex; flex-direction: column; gap: 10px; }
+    .actions button { margin-right: 5px; }
+
+    details.anno { border: 1px solid #ccc; border-radius: 6px; background: #fafafa; }
+    details.anno > summary {
+      cursor: pointer; padding: 8px 10px; font-weight: bold;
+      display: flex; justify-content: space-between; align-items: center; gap: 8px;
+    }
+    .badge { font-weight: normal; font-size: 12px; background: #e3e8ff; color: #234; border-radius: 10px; padding: 2px 8px; white-space: nowrap; }
+    .badge.none { background: #eee; color: #777; }
+    .anno-body { padding: 4px 10px 10px; }
+    .anno-body .mini { margin-bottom: 6px; }
+    .mini button { font-size: 12px; margin-right: 4px; }
+    .checkbox-container { margin: 3px 0; }
+    .checkbox-container label { cursor: pointer; display: flex; align-items: flex-start; gap: 5px; }
+    .sub { margin-top: 8px; }
+    .sub-title { font-weight: bold; font-size: 13px; color: #456; border-bottom: 1px solid #ddd; padding-bottom: 2px; margin-bottom: 4px; }
+    .empty { color: #a00; font-size: 13px; padding: 4px 0; }
+
+    #modal-bg { display: none; position: fixed; inset: 0; background: rgba(0,0,0,.4); z-index: 1000; align-items: center; justify-content: center; }
+    #modal-bg.open { display: flex; }
+    #modal { background: #fff; border-radius: 8px; padding: 20px; max-width: 420px; width: 90%; box-shadow: 0 4px 20px rgba(0,0,0,.3); }
+    #modal h2 { margin: 0 0 4px; font-size: 18px; }
+    #modal .anno-tag { font-size: 12px; color: #666; margin-bottom: 12px; }
+    #modal dl { margin: 0; display: grid; grid-template-columns: auto 1fr; gap: 6px 12px; }
+    #modal dt { font-weight: bold; }
+    #modal dd { margin: 0; white-space: pre-line; }
+    #modal button { margin-top: 16px; }
+    .fc-event { cursor: pointer; }
+
+    @media (max-width: 1100px) {
+      body { margin: 8px; }
+      #main-container { flex-direction: column; gap: 12px; }
+      #calendar { width: 100%; min-width: 0; flex-shrink: 1; }
+      #filters { width: 100%; min-width: 0; }
+    }
+    @media (max-width: 600px) {
+      .fc .fc-toolbar { flex-wrap: wrap; justify-content: center; gap: 6px; }
+      .fc .fc-toolbar-title { font-size: 1.05em; }
+      .fc .fc-timegrid-axis-cushion, .fc .fc-timegrid-slot-label-cushion { font-size: 10px; padding: 0 2px; }
+      .fc .fc-col-header-cell-cushion { font-size: 11px; padding: 2px 0; }
+      .fc .fc-event { font-size: 10px; }
+      .fc .fc-event-main { padding: 1px 2px; }
+    }
+  </style>
+</head>
+<body>
+
+  <div>
+    <h1><strong>Calendario personalizzabile</strong></h1>
+  </div>
+
+  <div id="main-container">
+    <div id="calendar"></div>
+
+    <div id="filters">
+      <span><strong>Seleziona materie:</strong></span>
+      <div class="actions">
+        <button id="selezionaTutto">Tutto</button>
+        <button id="deselezionaTutto">Nessuno</button>
+      </div>
+      <div id="blocchi" style="display:flex; flex-direction:column; gap:8px;"></div>
+    </div>
+  </div>
+
+  <div id="modal-bg">
+    <div id="modal" role="dialog" aria-modal="true">
+      <h2 id="m-title"></h2>
+      <div class="anno-tag" id="m-anno"></div>
+      <dl id="m-info"></dl>
+      <button id="m-close">Chiudi</button>
+    </div>
+  </div>
+
+  <script>
+    // ====== CONFIGURAZIONE: un feed ICS per ciascun calendario ======
+    // Sostituisci i segnaposto "INSERISCI_..." con gli URL reali degli altri calendari.
+    const Url_1A = "https://unito.prod.up.cineca.it:443/api/FiltriICal/impegniICal?id=6abe30fefdba14001426f0ee";
+	const Url_1B = "https://unito.prod.up.cineca.it:443/api/FiltriICal/impegniICal?id=6abe316eac9b9b0014b17cc1";
+	const Url_1C = "https://unito.prod.up.cineca.it:443/api/FiltriICal/impegniICal?id=6abe318ca159aa00145e020f";
+	const Url_2A = "https://unito.prod.up.cineca.it:443/api/FiltriICal/impegniICal?id=6abe31a8a159aa00145e0213";
+	const Url_2B = "https://unito.prod.up.cineca.it:443/api/FiltriICal/impegniICal?id=6abe31bbcd72b4003572d774";
+	const Url_3 = "https://unito.prod.up.cineca.it:443/api/FiltriICal/impegniICal?id=6abe31d72607bf00191e026e";
+    const Url_Mag = "https://unito.prod.up.cineca.it:443/api/FiltriICal/impegniICal?id=6a9594fc4e2ddc0034ff77c8";
+    const SOURCES = [
+      { id: "t1a", group: "Triennale – 1° anno", sub: "Canale A", url: Url_1A },
+      { id: "t1b", group: "Triennale – 1° anno", sub: "Canale B", url: Url_1B },
+      { id: "t1c", group: "Triennale – 1° anno", sub: "Canale C", url: Url_1C },
+      { id: "t2a", group: "Triennale – 2° anno", sub: "Canale A", url: Url_2A },
+      { id: "t2b", group: "Triennale – 2° anno", sub: "Canale B", url: Url_2B },
+      { id: "t3",  group: "Triennale – 3° anno", sub: "",         url: Url_3 },
+      { id: "m",   group: "Magistrale",          sub: "",         url: Url_Mag }
+    ];
+    SOURCES.forEach(s => s.label = s.sub ? `${s.group} · ${s.sub}` : s.group);
+    const STORAGE_KEY = "materieSelezionate_v2";
+
+    let ALL_EVENTS = [];
+    let calendar;
+
+    function stringToPastelColor(str) {
+      let hash = 0;
+      for (let i = 0; i < str.length; i++) hash = str.charCodeAt(i) + ((hash << 5) - hash);
+      return `hsl(${Math.abs(hash) % 360}, 70%, 80%)`;
+    }
+
+    const keyOf = (srcId, title) => srcId + "|" + title;
+
+    function extractDocente(ev, vevent) {
+      const desc = ev.description || "";
+      const m = desc.match(/(?:docenti?|professore|prof\.?)\s*[:\-]\s*(.+)/i);
+      if (m) return m[1].trim();
+      const names = [];
+      ["attendee", "organizer"].forEach(p => {
+        vevent.getAllProperties(p).forEach(prop => {
+          const cn = prop.getParameter("cn");
+          if (cn) names.push(cn);
+        });
+      });
+      return names.join(", ");
+    }
+
+    async function fetchSource(src) {
+      const response = await fetch(src.url);
+      if (!response.ok) throw new Error("HTTP " + response.status);
+      const text = await response.text();
+      const comp = new ICAL.Component(ICAL.parse(text));
+      return comp.getAllSubcomponents("vevent").map(e => {
+        const ev = new ICAL.Event(e);
+        return {
+          title: ev.summary,
+          start: ev.startDate.toJSDate(),
+          end: ev.endDate.toJSDate(),
+          color: stringToPastelColor(ev.summary),
+          textColor: "#222",
+          extendedProps: {
+            key: keyOf(src.id, ev.summary),
+            srcId: src.id,
+            srcLabel: src.label,
+            location: ev.location || "",
+            docente: extractDocente(ev, e),
+            description: ev.description || ""
+          }
+        };
+      });
+    }
+
+    async function loadAll() {
+      const results = await Promise.allSettled(
+        SOURCES.map(s => s.url.startsWith("INSERISCI") ? Promise.reject(new Error("URL non configurato")) : fetchSource(s))
+      );
+      const events = [];
+      results.forEach((r, i) => {
+        SOURCES[i].error = r.status === "rejected" ? r.reason.message : null;
+        SOURCES[i].materie = [];
+        if (r.status === "fulfilled") {
+          events.push(...r.value);
+          SOURCES[i].materie = [...new Set(r.value.map(e => e.title))].sort();
+        }
+      });
+      return events;
+    }
+
+    function getSaved() {
+      try { return new Set(JSON.parse(localStorage.getItem(STORAGE_KEY) || "[]")); }
+      catch { return new Set(); }
+    }
+
+    function getSelected() {
+      return new Set(Array.from(document.querySelectorAll("#blocchi input:checked")).map(cb => cb.value));
+    }
+
+    function saveSelected() {
+      try { localStorage.setItem(STORAGE_KEY, JSON.stringify([...getSelected()])); } catch {}
+    }
+
+    function updateBadges() {
+      document.querySelectorAll("details.anno").forEach(d => {
+        const boxes = d.querySelectorAll("input[type=checkbox]");
+        const n = d.querySelectorAll("input:checked").length;
+        const b = d.querySelector(".badge");
+        b.textContent = `${n}/${boxes.length} selezionate`;
+        b.classList.toggle("none", n === 0);
+      });
+    }
+
+    function buildBlocks() {
+      const container = document.getElementById("blocchi");
+      const saved = getSaved();
+      container.innerHTML = "";
+
+      const groups = [...new Set(SOURCES.map(s => s.group))];
+      groups.forEach(g => {
+        const srcs = SOURCES.filter(s => s.group === g);
+        const details = document.createElement("details");
+        details.className = "anno";
+        if (srcs.some(src => [...saved].some(k => k.startsWith(src.id + "|")))) details.open = true;
+
+        const summary = document.createElement("summary");
+        const name = document.createElement("span");
+        name.textContent = g;
+        const badge = document.createElement("span");
+        badge.className = "badge";
+        summary.append(name, badge);
+        details.appendChild(summary);
+
+        const body = document.createElement("div");
+        body.className = "anno-body";
+
+        srcs.forEach(src => {
+          const sub = document.createElement("div");
+          sub.className = "sub";
+          if (src.sub) {
+            const h = document.createElement("div");
+            h.className = "sub-title";
+            h.textContent = src.sub;
+            sub.appendChild(h);
+          }
+
+          if (src.error) {
+            const p = document.createElement("div");
+            p.className = "empty";
+            p.textContent = "Non disponibile: " + src.error;
+            sub.appendChild(p);
+          } else {
+            const mini = document.createElement("div");
+            mini.className = "mini";
+            mini.innerHTML = '<button type="button" data-act="all">Tutte</button><button type="button" data-act="none">Nessuna</button>';
+            sub.appendChild(mini);
+
+            src.materie.forEach(m => {
+              const key = keyOf(src.id, m);
+              const div = document.createElement("div");
+              div.className = "checkbox-container";
+              const label = document.createElement("label");
+              const input = document.createElement("input");
+              input.type = "checkbox";
+              input.value = key;
+              input.checked = saved.has(key);
+              label.append(input, document.createTextNode(m));
+              div.appendChild(label);
+              sub.appendChild(div);
+            });
+          }
+          body.appendChild(sub);
+        });
+        details.appendChild(body);
+        container.appendChild(details);
+      });
+      updateBadges();
+    }
+
+    function refresh() {
+      saveSelected();
+      updateBadges();
+      const sel = getSelected();
+      calendar.removeAllEvents();
+      calendar.addEventSource(ALL_EVENTS.filter(e => sel.has(e.extendedProps.key)));
+    }
+
+    function showDetails(event) {
+      const p = event.extendedProps;
+	  
+	console.log(p);
+      document.getElementById("m-title").textContent = event.title;
+      document.getElementById("m-anno").textContent = p.srcLabel;
+
+      const fmt = d => d.toLocaleTimeString("it-IT", { hour: "2-digit", minute: "2-digit" });
+      const day = event.start.toLocaleDateString("it-IT", { weekday: "long", day: "numeric", month: "long", year: "numeric" });const extra = p.description.split(/\r?\n/)
+        .filter(l => l.trim() && !/^(docenti?|professore|prof\.?)\s*[:\-]/i.test(l.trim()))
+        .join("\n");
+      const rows = [
+        ["Data", day],
+        ["Orario", `${fmt(event.start)} – ${fmt(event.end)}`],
+        ["Aula", p.location || "—"],
+        ["Docente", extra || "—"]
+      ];
+      // Mostra altre info della descrizione, se presenti e non già mostrate come docente
+      //if (extra) rows.push(["Note", extra]);
+
+      const dl = document.getElementById("m-info");
+      dl.innerHTML = "";
+      rows.forEach(([k, v]) => {
+        const dt = document.createElement("dt"); dt.textContent = k;
+        const dd = document.createElement("dd"); dd.textContent = v;
+        dl.append(dt, dd);
+      });
+      document.getElementById("modal-bg").classList.add("open");
+    }
+
+    function closeModal() { document.getElementById("modal-bg").classList.remove("open"); }
+
+    async function initCalendar() {
+      ALL_EVENTS = await loadAll();
+      buildBlocks();
+
+      calendar = new FullCalendar.Calendar(document.getElementById("calendar"), {
+        initialView: "timeGridWeek",
+        height: "auto",
+        expandRows: true,
+        dayHeaderFormat: { weekday: "short", day: "numeric" },
+        slotMinTime: "08:00:00",
+        slotMaxTime: "18:00:00",
+        locale: "it",
+        hiddenDays: [0, 6],
+        allDaySlot: false,
+        nowIndicator: true,
+        events: [],
+        eventClick: info => { info.jsEvent.preventDefault(); showDetails(info.event); },
+        eventDidMount: info => {
+          if (info.event.extendedProps.location) info.el.title = info.event.extendedProps.location;
+        }
+      });
+      calendar.render();
+      refresh();
+    }
+
+    // Selezione globale
+    document.getElementById("selezionaTutto").addEventListener("click", () => {
+      document.querySelectorAll("#blocchi input").forEach(cb => cb.checked = true);
+      refresh();
+    });
+    document.getElementById("deselezionaTutto").addEventListener("click", () => {
+      document.querySelectorAll("#blocchi input").forEach(cb => cb.checked = false);
+      refresh();
+    });
+
+    // Checkbox e pulsanti per blocco
+    document.getElementById("blocchi").addEventListener("click", e => {
+      const btn = e.target.closest("button[data-act]");
+      if (btn) {
+        const checked = btn.dataset.act === "all";
+        btn.closest(".sub").querySelectorAll("input").forEach(cb => cb.checked = checked);
+        refresh();
+      } else if (e.target.matches("input[type=checkbox]")) {
+        refresh();
+      }
+    });
+
+    // Modal
+    document.getElementById("m-close").addEventListener("click", closeModal);
+    document.getElementById("modal-bg").addEventListener("click", e => { if (e.target.id === "modal-bg") closeModal(); });
+    document.addEventListener("keydown", e => { if (e.key === "Escape") closeModal(); });
+
+    document.addEventListener("DOMContentLoaded", initCalendar);
+  </script>
+</body>
+</html>
