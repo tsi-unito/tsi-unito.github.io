@@ -6,6 +6,7 @@
 
 .site-navigation ul {
   display: flex;
+  align-items: center;
   flex-wrap: wrap;
   gap: 0.25rem 0.5rem;
   list-style: none;
@@ -26,5 +27,4 @@
 
 .site-navigation a[aria-current="page"] {
   background: #f1f8ff;
-  font-weight: 600;
 }
