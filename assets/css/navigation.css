@@ -1,0 +1,28 @@
+.site-navigation {
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 1.5rem;
+  padding: 0.75rem 0;
+}
+
+.site-navigation ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.25rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.site-navigation a {
+  color: #0645ad;
+  text-decoration: none;
+}
+
+.site-navigation a:hover,
+.site-navigation a:focus-visible {
+  text-decoration: underline;
+}
+
+.site-navigation a[aria-current="page"] {
+  font-weight: bold;
+}

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Regole
+---
+
 # Regolamento Network Gruppi DIPINFO UNITO
 
 Per una convivenza serena è necessario che tutti i membri dei gruppi collaborino e seguano delle semplici regole, che qua seguono:
