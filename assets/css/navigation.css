@@ -1,0 +1,30 @@
+.site-navigation {
+  border-bottom: 1px solid #d1d5da;
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.75rem;
+}
+
+.site-navigation ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 0.5rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.site-navigation a {
+  display: inline-block;
+  border-radius: 4px;
+  padding: 0.4rem 0.65rem;
+}
+
+.site-navigation a:hover,
+.site-navigation a:focus-visible {
+  background: #f6f8fa;
+}
+
+.site-navigation a[aria-current="page"] {
+  background: #f1f8ff;
+  font-weight: 600;
+}

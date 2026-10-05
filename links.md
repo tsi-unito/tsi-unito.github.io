@@ -1,3 +1,8 @@
+---
+layout: default
+---
+{% include navigation.html %}
+
 # Dipartimento di Informatica - UniTO - Links per tutto (e anche di più!) 🎓 <!-- omit in toc -->
 
 ![Foto del Dipartimento](/img/dipartimento.jpg)

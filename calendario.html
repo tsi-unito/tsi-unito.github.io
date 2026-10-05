@@ -1,3 +1,5 @@
+---
+---
 <!DOCTYPE html>
 <html lang="it">
 <head>
@@ -8,6 +10,7 @@
   <link href="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.8/index.global.min.css" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.8/index.global.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/ical.js/1.4.0/ical.min.js"></script>
+  <link rel="stylesheet" href="{{ '/assets/css/navigation.css' | relative_url }}">
 
   <style>
     body { font-family: Arial, sans-serif; margin: 20px; }
@@ -60,6 +63,8 @@
   </style>
 </head>
 <body>
+
+  {% include navigation.html %}
 
   <div>
     <h1><strong>Calendario personalizzabile</strong></h1>
