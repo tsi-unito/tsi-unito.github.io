@@ -1,8 +1,3 @@
----
-layout: default
-title: Links
----
-
 # Dipartimento di Informatica - UniTO - Links per tutto (e anche di più!) 🎓 <!-- omit in toc -->
 
 ![Foto del Dipartimento](/img/dipartimento.jpg)
@@ -15,7 +10,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 ---
 
-> **_Per proporre qualche cambiamento, suggerimento o segnalare qualche link non più funzionante puoi:_**  
+> **_Per proporre qualche cambiamento, suggerimento o segnalare qualche link non più funzionante potete:_**  
 >- **_mandare una mail a tsi@di.unito.it_**
 >- **_scrivere su Telegram ad uno tra i maintainer attivi: [@tsi_unito_manager](https://t.me/tsi_unito_manager) (Account di Amministrazione) - [@SaraVassia](https://t.me/saravassia) (Sara Virginia Vassia) - [@xSteee](https://t.me/xsteee) (Stefano Oppedisano) - [@polpiantina](https://t.me/polpiantina) (Paolo Guiot)_**  
 > **_o ad uno dei proprietari: [@evilscript](https://t.me/evilscript) (Federico Torrielli) - [@stefa168](https://t.me/stefa168) (Stefano Vittorio Porta)_**
@@ -447,7 +442,7 @@ _Controlla la [tabella di corrispondenza degli esami](https://docs.google.com/do
 _📢 = Canale_  
 _FB = Facebook_  
 
-> **_Per proporre qualche cambiamento, suggerimento o segnalare qualche link non più funzionante puoi:_**  
+> **_Per proporre qualche cambiamento, suggerimento o segnalare qualche link non più funzionante potete:_**  
 >- **_mandare una mail a tsi@di.unito.it_**
 >- **_scrivere su Telegram ad uno tra i maintainer attivi: [@tsi_unito_manager](https://t.me/tsi_unito_manager) (Account di Amministrazione) - [@SaraVassia](https://t.me/saravassia) (Sara Virginia Vassia) - [@xSteee](https://t.me/xsteee) (Stefano Oppedisano) - [@polpiantina](https://t.me/polpiantina) (Paolo Guiot)_**  
 > **_o ad uno dei proprietari: [@evilscript](https://t.me/evilscript) (Federico Torrielli) - [@stefa168](https://t.me/stefa168) (Stefano Vittorio Porta)_**
