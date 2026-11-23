@@ -85,7 +85,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 ## Gruppi universali
 
 - [Gruppo **Generale**](https://t.me/+aX49VBv6DcZkZTA0)
-- [Gruppo **Magistrale**](https://t.me/joinchat/BbqyERQcACYhQFEO1iJD2g)
+- [Gruppo **Magistrale**](https://t.me/+OVsXI54-3IVmZmVk)
 - [Gruppo Magistrale](#gruppo-magistrale)
 - [Gruppo Magistrale in AIBH](#gruppo-magistrale-in-aibh)
 - [Gruppo Artificial Intelligence and High Performance Computing Technologies](https://t.me/aihpcUnito)
@@ -105,7 +105,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
 
 > Nota: i canali A/B/C per il primo anno sono stati uniti tutti al gruppo generale delle matricole.
 
-[⚠️ **Gruppo Generale** ⚠️](https://t.me/+Ox2fUmU2Un4xYTM0)
+[⚠️ **Gruppo Generale** ⚠️](https://t.me/+nRbEVQMiufxjODQ8)
 
 [Gruppo Off Topic](https://t.me/+Ye04aIAdXfI4Yzlk)
 
@@ -135,7 +135,7 @@ Se entri nei gruppi, ci aspettiamo che tu abbia letto e accettato le [regole](ht
   
 ### Gruppi Terzo anno 📚
 
-[⚠️ **Gruppo Generale** ⚠️](https://t.me/joinchat/UmWgshpk8MXD_Y4KvLyU8A)
+[⚠️ **Gruppo Generale** ⚠️](https://t.me/+W1gLHKO9854wNjY8)
 
 [Gruppo Off Topic](https://t.me/+Ye04aIAdXfI4Yzlk)
 
